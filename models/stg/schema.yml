@@ -1,0 +1,17 @@
+version: 2
+models:
+  - name: stg_rentals_v2tov1
+    description: 🚲 Bixi rentals since 2022 (V2) translated to match V1 format
+  - name: stg_stations_v2
+    description: |
+        **⛽ Bixi stations since 2022**
+
+        - extracted from rentals V2
+          - in order to have 1 station code per year based on the start_station_name
+
+    columns:
+      - name: station_year_code
+        data_type: int
+        tests:
+          - unique
+          - not_null
