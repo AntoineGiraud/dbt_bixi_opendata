@@ -1,0 +1,22 @@
+version: 2
+models:
+  - name: fct_rentals
+    description: >
+        **🚲 Bixi rentals since 2014**
+
+        > union from V1 (2014 - 2021) & V2 (since 2022)
+  - name: dim_station
+    description: |
+        **⛽ Bixi stations since 2014**
+
+        - 1 station code per year
+        - Sector is found back based on the station coordinates
+          - by using `ST_Within(station_geom, sector_geom)`
+    columns:
+      - name: station_year_code
+        data_type: int
+        tests:
+          - unique
+          - not_null
+  - name: dim_sectors
+    description: 🧭 Municipal sectors from the 2013 OD survey (cf. [donnees quebec](https://www.donneesquebec.ca/recherche/dataset/artm-secteurs-municipaux-od13/resource/95ab084b-727e-4322-9433-0fed7baa690d))

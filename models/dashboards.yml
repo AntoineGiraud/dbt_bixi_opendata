@@ -1,0 +1,19 @@
+version: 2
+
+exposures:
+  - name: bixi_rentals
+    label: 📊 Bixi rentals since 2014
+    type: dashboard
+    maturity: high
+    url: https://bi.tool/dashboards/1
+    description: >
+      Overview of bixi rentals since 2014
+
+    depends_on:
+      - ref('fct_rentals')
+      - ref('dim_station')
+      - ref('dim_sectors')
+
+    owner:
+      name: Antoine Giraud
+      email: antoine.giraud@outlook.com
