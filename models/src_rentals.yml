@@ -1,0 +1,18 @@
+sources:
+  - name: rentals
+    tables:
+      - name: rentals_v1
+        meta:
+          external_location: |
+                read_csv('input/rentals_v1/**/*.csv',
+                    header=true, AUTO_DETECT=TRUE, filename=true, ignore_errors=true)
+      - name: rentals_v2
+        meta:
+          external_location: |
+            read_csv('input/rentals_v2/**/*.csv',
+                header=true, AUTO_DETECT=TRUE, filename=true, ignore_errors=true)
+      - name: stations_v1
+        meta:
+          external_location: |
+            read_csv('input/stations_v1/**/*.csv',
+                header=true, AUTO_DETECT=TRUE, filename=true)

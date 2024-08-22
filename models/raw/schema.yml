@@ -1,0 +1,24 @@
+version: 2
+models:
+  - name: raw_rentals_v1
+    description: 🚲 Bixi rentals from 2014 to 2021 (for station info, join to station
+      yearly file with station_code)
+  - name: raw_stations_v1
+    description: ⛽ Bixi stations from 2014 to 2021 (1 .csv per year)
+    columns:
+      - name: station_year_code
+        data_type: int
+        tests:
+          - unique
+          - not_null
+  - name: raw_rentals_v2
+    description: 🚲 Bixi rentals from 2022 to 2024+ (1 .csv per year that includes
+      station names, coords & sector => heavier)
+  - name: raw_sectors
+    description: 🧭 Municipal sectors from the 2013 OD survey (cf. [donnees quebec](https://www.donneesquebec.ca/recherche/dataset/artm-secteurs-municipaux-od13/resource/95ab084b-727e-4322-9433-0fed7baa690d))
+    columns:
+      - name: sector_name
+        data_type: varchar
+        tests:
+          - unique
+          - not_null

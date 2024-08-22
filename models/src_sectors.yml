@@ -1,0 +1,7 @@
+sources:
+  - name: sectors
+    tables:
+      - name: municipal_sectors_od_survey_2013
+        meta:
+          external_location: read_json_auto('input/sectors/artm-sm-od13.geojson', sample_size=-1)
+          # external_location: "read_json_auto('https://www.donneesquebec.ca/recherche/dataset/b57cdeb1-98e7-4db7-bb84-32530f0367eb/resource/95ab084b-727e-4322-9433-0fed7baa690d/download/artm-sm-od13.geojson', sample_size=-1)"

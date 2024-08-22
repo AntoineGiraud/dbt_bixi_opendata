@@ -1,0 +1,1001 @@
+STARTSTATIONNAME,STARTSTATIONARRONDISSEMENT,STARTSTATIONLATITUDE,STARTSTATIONLONGITUDE,ENDSTATIONNAME,ENDSTATIONARRONDISSEMENT,ENDSTATIONLATITUDE,ENDSTATIONLONGITUDE,STARTTIMEMS,ENDTIMEMS
+St-Urbain / René-Lévesque,Ville-Marie,45.507838,-73.563136,Mansfield / Ste-Catherine,Ville-Marie,45.5013987,-73.5717863,1653343831220,1653344213703
+Roy / St-Laurent,Le Plateau-Mont-Royal,45.515616,-73.575808,Dorion / Rachel,Le Plateau-Mont-Royal,45.531634,-73.5682458,1653343831410,1653344969358
+Lajeunesse / Villeray,Villeray - Saint-Michel - Parc-Extension,45.542119,-73.622547,Leman / de Chateaubriand,Villeray - Saint-Michel - Parc-Extension,45.547218,-73.631103,1653343832935,1653344101829
+Parc Plage,Ville-Marie,45.502828,-73.527793,de la Commune / King,Ville-Marie,45.497515,-73.552571,1653343837732,1653347197916
+Marie-Anne / de la Roche,Le Plateau-Mont-Royal,45.527758,-73.576185,Métro Laurier (Bibaud / Rivard),Le Plateau-Mont-Royal,45.5278391,-73.5895747,1653343832286,1653344140732
+2e avenue / Jean-Rivard,Villeray - Saint-Michel - Parc-Extension,45.562509,-73.61656,Durocher / St-Viateur,Outremont,45.5207958,-73.6032707,1653343832469,1653345495661
+Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,Ste-Émilie / St-Rémi,Le Sud-Ouest,45.4697664,-73.5892588,1653343836945,1653344669846
+Place d'Youville / McGill,Ville-Marie,45.4999647,-73.5561544,University / Milton,Ville-Marie,45.506511,-73.576669,1653343847049,1653344690818
+de Bleury / de Maisonneuve,Ville-Marie,45.5070965,-73.5684416,de la Commune / St-Sulpice,Ville-Marie,45.504242,-73.55347,1653343836076,1653344360606
+Grand Boulevard / de Terrebonne,Côte-des-Neiges - Notre-Dame-de-Grâce,45.470544,-73.63168,Métro Laurier (Berri / St-Joseph),Le Plateau-Mont-Royal,45.527231,-73.586726,1653343835864,1653345677940
+Métro Mont-Royal (Rivard / du Mont-Royal),Le Plateau-Mont-Royal,45.524673,-73.58255,Gerry-Boulet / St-Grégoire,Le Plateau-Mont-Royal,45.533735,-73.589307,1653343837987,1653344204610
+Metcalfe / de Maisonneuve,Ville-Marie,45.501715,-73.57413,Marché Jean-Talon (Casgrain / Shamrock),Rosemont - La Petite-Patrie,45.5351901,-73.6154822,1653343837740,1653346077110
+de Bleury / de Maisonneuve,Ville-Marie,45.5070965,-73.5684416,de la Commune / St-Sulpice,Ville-Marie,45.504242,-73.55347,1653343840371,1653344366338
+de la Commune / St-Sulpice,Ville-Marie,45.504242,-73.55347,Marché Atwater,Le Sud-Ouest,45.480208,-73.577599,1653343852943,1653344726723
+Gary-Carter / St-Laurent,Villeray - Saint-Michel - Parc-Extension,45.5359,-73.622443,de Bordeaux / Masson,Le Plateau-Mont-Royal,45.538984,-73.582445,1653343841862,1653345915732
+de Lanaudière / Marie-Anne,Le Plateau-Mont-Royal,45.529326,-73.574806,Métro Mont-Royal (Rivard / du Mont-Royal),Le Plateau-Mont-Royal,45.524673,-73.58255,1653343842598,1653344210233
+Marché Maisonneuve,Mercier - Hochelaga-Maisonneuve,45.553219,-73.539782,Poupart / Ontario,Ville-Marie,45.531939,-73.553439,1653343842682,1653344675350
+Clark / Prince-Arthur,Le Plateau-Mont-Royal,45.513303,-73.572961,Guilbault / Clark,Le Plateau-Mont-Royal,45.514108,-73.57523,1653343843610,1653343931874
+Parthenais / du Mont-Royal,Le Plateau-Mont-Royal,45.536346,-73.57131,de Léry / Sherbrooke,Mercier - Hochelaga-Maisonneuve,45.5409997,-73.5582626,1653343847388,1653344290923
+du Havre / de Rouen,Ville-Marie,45.534563,-73.554787,Parc Jean-Drapeau (Chemin Macdonald),Ville-Marie,45.5128006,-73.5311159,1653343855543,1653345082818
+Boyer / Bélanger,Rosemont - La Petite-Patrie,45.54006,-73.60897,Mozart / St-Laurent,Rosemont - La Petite-Patrie,45.53318,-73.61544,1653343855686,1653344249067
+Place d'Youville / McGill,Ville-Marie,45.4999647,-73.5561544,Hutchison / des Pins,Le Plateau-Mont-Royal,45.51069,-73.57805,1653343849276,1653344830447
+University / Prince-Arthur,Le Plateau-Mont-Royal,45.507402,-73.578444,Milton / Clark,Le Plateau-Mont-Royal,45.512541,-73.570677,1653343862268,1653344172507
+Lajeunesse / Villeray,Villeray - Saint-Michel - Parc-Extension,45.542119,-73.622547,Boyer / Beaubien,Rosemont - La Petite-Patrie,45.537041,-73.602026,1653343856913,1653344510054
+Gary-Carter / St-Laurent,Villeray - Saint-Michel - Parc-Extension,45.5359,-73.622443,Métro Jean-Talon (Berri / Jean-Talon),Villeray - Saint-Michel - Parc-Extension,45.5390004,-73.614251,1653343852737,1653344424171
+Gary-Carter / St-Laurent,Villeray - Saint-Michel - Parc-Extension,45.5359,-73.622443,de Bordeaux / Masson,Le Plateau-Mont-Royal,45.538984,-73.582445,1653343851446,1653345865056
+Place d'Youville / McGill,Ville-Marie,45.4999647,-73.5561544,Notre-Dame / Jean-d'Estrées,Ville-Marie,45.4942598,-73.5638181,1653343853332,1653344658510
+Quai de la navette fluviale,Ville-Marie,45.513741,-73.538382,Métro Préfontaine (Moreau / Hochelaga),Mercier - Hochelaga-Maisonneuve,45.54178,-73.555714,1653343858975,1653346318234
+Park Row O / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,45.460729,-73.634073,Grand Boulevard / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,45.466569,-73.623295,1653343858292,1653345207673
+Place d'Youville / McGill,Ville-Marie,45.4999647,-73.5561544,Notre-Dame / Jean-d'Estrées,Ville-Marie,45.4942598,-73.5638181,1653343858968,1653344650955
+Swail / Decelles,Côte-des-Neiges - Notre-Dame-de-Grâce,45.497055,-73.618652,de la Côte St-Paul / St-Ambroise,Le Sud-Ouest,45.4676657,-73.5939178,1653343855040,1653346449210
+Quai de la navette fluviale,Ville-Marie,45.513741,-73.538382,Métro Charlevoix (Centre / Charlevoix),Le Sud-Ouest,45.478228,-73.569651,1653343863331,1653345300862
+Terminus Newman (Airlie / Lafleur),LaSalle,45.4250597,-73.6495992,LaSalle / 80e,LaSalle,45.4157687,-73.6379242,1653343858648,1653344955445
+Messier / du Mont-Royal,Le Plateau-Mont-Royal,45.537114,-73.571003,Gauthier / Papineau,Le Plateau-Mont-Royal,45.529666,-73.567336,1653343864632,1653344167360
+Métro Lionel-Groulx (St-Jacques / Atwater),Le Sud-Ouest,45.4836285,-73.5797026,Ste-Émilie / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,45.472668,-73.58539,1653343864377,1653344724731
+Métro Lionel-Groulx (St-Jacques / Atwater),Le Sud-Ouest,45.4836285,-73.5797026,Ste-Émilie / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,45.472668,-73.58539,1653343865618,1653344744494
+Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,Hillside / Ste-Catherine,Westmount,45.482826,-73.590843,1653343868290,1653345312742
+Villeneuve / St-Laurent,Le Plateau-Mont-Royal,45.521342,-73.589419,du Mont-Royal / Clark,Le Plateau-Mont-Royal,45.51941,-73.58685,1653343869870,1653343969914
+Roy / St-Laurent,Le Plateau-Mont-Royal,45.515616,-73.575808,d'Orléans / Masson,Rosemont - La Petite-Patrie,45.557192,-73.569847,1653343867733,1653345707801
+Roy / St-Laurent,Le Plateau-Mont-Royal,45.515616,-73.575808,Dorion / Rachel,Le Plateau-Mont-Royal,45.531634,-73.5682458,1653343867235,1653344981824
+Prince-Arthur / St-Urbain,Le Plateau-Mont-Royal,45.512587,-73.573739,Calixa-Lavallée / Sherbrooke,Le Plateau-Mont-Royal,45.52479,-73.56545,1653343873803,1653344385564
+University / Prince-Arthur,Le Plateau-Mont-Royal,45.507402,-73.578444,Metcalfe / St-Catherine,Ville-Marie,45.500832,-73.572459,1653343872723,1653344236436
+Parc Howard (de l'Épée / de Liège),Villeray - Saint-Michel - Parc-Extension,45.5616903,-73.610512,Émile-Journault / de Chateaubriand,Ahuntsic-Cartierville,45.549833,-73.640633,1653343868888,1653344981065
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,45.517401,-73.574605,Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,1653343873053,1653345416905
+Dollard / Bernard,Outremont,45.516783,-73.611423,Waverly / Van Horne,Le Plateau-Mont-Royal,45.527363,-73.607723,1653343872955,1653344237452
+Villeneuve / St-Laurent,Le Plateau-Mont-Royal,45.521342,-73.589419,St-Dominique / Bernard,Le Plateau-Mont-Royal,45.527933,-73.601223,1653343872475,1653344213454
+La Ronde,Ville-Marie,45.521565,-73.535332,La Ronde,Ville-Marie,45.521565,-73.535332,1653343874766,1653346021968
+St-Antoine / St-François-Xavier,Ville-Marie,45.504591,-73.559188,St-Antoine / St-François-Xavier,Ville-Marie,45.504591,-73.559188,1653343872409,1653345423814
+Bloomfield / Jean-Talon,Villeray - Saint-Michel - Parc-Extension,45.5274603,-73.6241752,Waverly / St-Viateur,Le Plateau-Mont-Royal,45.523856,-73.600127,1653343873199,1653347264571
+Melville / de Maisonneuve,Westmount,45.4818402,-73.595379,Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,1653343875706,1653344093957
+Édouard-Montpetit / de Stirling,Côte-des-Neiges - Notre-Dame-de-Grâce,45.50723,-73.615085,Parc de la Confédération (Fielding / West Hill),Côte-des-Neiges - Notre-Dame-de-Grâce,45.471882,-73.6400217,1653343874040,1653344810394
+Bernard / Jeanne-Mance,Le Plateau-Mont-Royal,45.524287,-73.604973,Parc du Pélican (1ère avenue / Masson),Rosemont - La Petite-Patrie,45.5451997,-73.5764507,1653343876324,1653344575444
+Mackay / Ste-Catherine,Ville-Marie,45.495709,-73.576952,de la Commune / King,Ville-Marie,45.497515,-73.552571,1653343875809,1653345474354
+Jeanne-Mance / Laurier,Le Plateau-Mont-Royal,45.5201249,-73.5952138,Jean-Brillant / de la Côte-des-Neiges,Côte-des-Neiges - Notre-Dame-de-Grâce,45.495415,-73.622341,1653343880123,1653344742605
+Terminus Newman (Airlie / Lafleur),LaSalle,45.4250597,-73.6495992,LaSalle / 80e,LaSalle,45.4157687,-73.6379242,1653343874991,1653344958637
+Parc Maisonneuve (Viau / Sherbrooke),Rosemont - La Petite-Patrie,45.5649368,-73.5555911,Métro Radisson (Sherbrooke / des Groseilliers),Mercier - Hochelaga-Maisonneuve,45.589175,-73.539656,1653343880035,1653344850144
+Métro Charlevoix (Centre / Charlevoix),Le Sud-Ouest,45.478228,-73.569651,Ropery / Augustin-Cantin,Le Sud-Ouest,45.480914,-73.56846,1653343881394,1653344047030
+Clark / St-Viateur,Le Plateau-Mont-Royal,45.5251603,-73.5992467,Parc Père-Marquette (Chambord / Rosemont),Rosemont - La Petite-Patrie,45.537088,-73.593219,1653343882675,1653344383627
+Marquette / Laurier,Le Plateau-Mont-Royal,45.53543,-73.5822,Mozart / Waverly,Rosemont - La Petite-Patrie,45.5315651,-73.6169464,1653343884388,1653344795186
+McTavish / Sherbrooke,Ville-Marie,45.502813,-73.576024,St-Dominique / Napoléon,Le Plateau-Mont-Royal,45.5166644,-73.5772204,1653343884636,1653344371026
+Métro Place-d'Armes (Viger / St-Urbain),Ville-Marie,45.50623,-73.55976,Ste-Catherine / Labelle,Ville-Marie,45.515065,-73.55923,1653343889658,1653345736072
+de Maisonneuve / Mansfield (sud),Ville-Marie,45.502145,-73.573427,Métro St-Laurent (de Maisonneuve / St-Laurent),Ville-Marie,45.51066,-73.56497,1653343886713,1653344438255
+Aylwin / Ontario,Mercier - Hochelaga-Maisonneuve,45.544284,-73.54534,Wurtele / de Rouen,Ville-Marie,45.537628,-73.553394,1653343887936,1653344638437
+Parc riverain de Lachine (des Iroquois),Lachine,45.4305431,-73.6690244,des Bassins / du Séminaire,Ville-Marie,45.490452,-73.560172,1653343882327,1653346730101
+Place Émilie-Gamelin,Ville-Marie,45.515901,-73.559948,de l'Hôtel-de-Ville / Sherbrooke,Ville-Marie,45.514565,-73.568407,1653343890071,1653344142818
+Métro Papineau (Cartier / Ste-Catherine),Ville-Marie,45.52353,-73.55199,St-André / St-Antoine,Ville-Marie,45.514114,-73.552645,1653343891471,1653344549501
+de Gaspé / Beaubien,Rosemont - La Petite-Patrie,45.5319579,-73.607001,Beaubien / 8e avenue,Rosemont - La Petite-Patrie,45.553457,-73.587842,1653343896195,1653345515888
+Parc Maisonneuve (Viau / Sherbrooke),Rosemont - La Petite-Patrie,45.5649368,-73.5555911,Parc Maisonneuve (Viau / Sherbrooke),Rosemont - La Petite-Patrie,45.5649368,-73.5555911,1653343896423,1653346394503
+St-Dominique / Rachel,Le Plateau-Mont-Royal,45.518593,-73.581566,Ann / Wellington,Le Sud-Ouest,45.4945271,-73.5567525,1653343900097,1653345271651
+St-Dominique / St-Viateur,Le Plateau-Mont-Royal,45.526557,-73.598276,Boyer / St-Zotique,Rosemont - La Petite-Patrie,45.53848,-73.60556,1653343898602,1653344330118
+Queen / Wellington,Ville-Marie,45.497605,-73.55535,de la Commune / King,Ville-Marie,45.497515,-73.552571,1653343906659,1653344988164
+de Maisonneuve / Mansfield (sud),Ville-Marie,45.502145,-73.573427,Notre-Dame / de la Montagne,Ville-Marie,45.493029,-73.564818,1653343911505,1653344476663
+Quai de la navette fluviale,Ville-Marie,45.513741,-73.538382,Métro Préfontaine (Moreau / Hochelaga),Mercier - Hochelaga-Maisonneuve,45.54178,-73.555714,1653343910270,1653346320636
+Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,de la Côte St-Antoine / Argyle,Westmount,45.486241,-73.5957277,1653343905710,1653344520482
+Métro Sauvé (Berri / Sauvé),Ahuntsic-Cartierville,45.550692,-73.656367,Drolet / Jarry,Villeray - Saint-Michel - Parc-Extension,45.541955,-73.629942,1653343903271,1653344521262
+de Maisonneuve / Mansfield (sud),Ville-Marie,45.502145,-73.573427,Alexandre-DeSève  / Ontario,Ville-Marie,45.5243588,-73.5605344,1653343907510,1653344601021
+Brittany / Ainsley,Mont-Royal,45.5258899,-73.6500344,Graham / Kindersley,Mont-Royal,45.51405,-73.6472556,1653343909796,1653345146482
+Jeanne-Mance / René-Lévesque,Ville-Marie,45.506371,-73.564201,William / Robert-Bourassa,Le Sud-Ouest,45.497165,-73.55933,1653343910159,1653344314205
+Parc Olympique (Pie-IX / Sherbrooke),Mercier - Hochelaga-Maisonneuve,45.5548245,-73.5537028,Fullum / Ontario,Ville-Marie,45.5303174,-73.5548669,1653343906473,1653345156020
+Alexandre-DeSève  / Ontario,Ville-Marie,45.5243588,-73.5605344,Papineau / René-Lévesque,Ville-Marie,45.52114,-73.54926,1653343912890,1653345638784
+Parc riverain de Lachine (des Iroquois),Lachine,45.4305431,-73.6690244,des Bassins / du Séminaire,Ville-Marie,45.490452,-73.560172,1653343907709,1653346737469
+Smith / Peel,Le Sud-Ouest,-1.0,-1.0,Métro St-Laurent (de Maisonneuve / St-Laurent),Ville-Marie,45.51066,-73.56497,1653343917551,1653345159192
+Smith / Peel,Le Sud-Ouest,-1.0,-1.0,Métro St-Laurent (de Maisonneuve / St-Laurent),Ville-Marie,45.51066,-73.56497,1653343916688,1653345155799
+Mackay / Ste-Catherine,Ville-Marie,45.495709,-73.576952,de la Commune / King,Ville-Marie,45.497515,-73.552571,1653343925243,1653345480472
+Henri-Julien / de Castelnau,Villeray - Saint-Michel - Parc-Extension,45.537891,-73.618215,Clark / St-Viateur,Le Plateau-Mont-Royal,45.5251603,-73.5992467,1653343915503,1653344870593
+St-Dominique / Laurier,Le Plateau-Mont-Royal,45.5236149,-73.5924574,de la Commune / King,Ville-Marie,45.497515,-73.552571,1653343918048,1653345208517
+Fullum / Holt,Rosemont - La Petite-Patrie,45.5439195,-73.5842489,de Lanaudière / du Mont-Royal,Le Plateau-Mont-Royal,45.5302211,-73.5769965,1653343918602,1653344875698
+Jeanne-Mance / René-Lévesque,Ville-Marie,45.506371,-73.564201,Bishop / Ste-Catherine,Ville-Marie,45.496583,-73.576502,1653343918356,1653344390036
+2e avenue / Jean-Rivard,Villeray - Saint-Michel - Parc-Extension,45.562509,-73.61656,Durocher / Bernard,Outremont,45.522225,-73.606687,1653343918647,1653345517631
+27e avenue / Rosemont,Rosemont - La Petite-Patrie,45.5636787,-73.5716045,Hôpital Maisonneuve-Rosemont (Rosemont / Chatelain),Rosemont - La Petite-Patrie,45.575707,-73.561562,1653343920502,1653344412162
+Plessis / Ontario,Ville-Marie,45.523492,-73.56073,Alexandre-DeSève / Ste-Catherine,Ville-Marie,45.52123,-73.553861,1653343928520,1653344441339
+Parc Jeanne-Mance (du Mont-Royal / du Parc),Le Plateau-Mont-Royal,45.517,-73.589,Atwater / Sherbrooke,Ville-Marie,45.491226,-73.58763,1653343928880,1653344547928
+Métro Joliette  (Joliette / Hochelaga),Mercier - Hochelaga-Maisonneuve,45.546907,-73.551557,Aylwin / Ontario,Mercier - Hochelaga-Maisonneuve,45.544284,-73.54534,1653343924435,1653344119619
+Marie-Anne / de la Roche,Le Plateau-Mont-Royal,45.527758,-73.576185,Boyer / Beaubien,Rosemont - La Petite-Patrie,45.537041,-73.602026,1653343924902,1653344793486
+BAnQ (Berri / de Maisonneuve),Ville-Marie,45.515299,-73.561273,Roy / St-André,Le Plateau-Mont-Royal,45.521564,-73.570367,1653343936414,1653344283848
+Calixa-Lavallée / Sherbrooke,Le Plateau-Mont-Royal,45.52479,-73.56545,Ste-Famille / Sherbrooke,Le Plateau-Mont-Royal,45.510072,-73.570752,1653343930509,1653344765847
+Marie-Anne / Papineau,Le Plateau-Mont-Royal,45.5317737,-73.5724462,Messier / du Mont-Royal,Le Plateau-Mont-Royal,45.537114,-73.571003,1653343928673,1653344128319
+Bernard / Jeanne-Mance,Le Plateau-Mont-Royal,45.524287,-73.604973,Waverly / Van Horne,Le Plateau-Mont-Royal,45.527363,-73.607723,1653343934822,1653345884534
+Parc Olympique (Pie-IX / Sherbrooke),Mercier - Hochelaga-Maisonneuve,45.5548245,-73.5537028,Fullum / Ontario,Ville-Marie,45.5303174,-73.5548669,1653343924336,1653345166242
+Duluth / St-Laurent,Le Plateau-Mont-Royal,45.516876,-73.57946,Boyer / Beaubien,Rosemont - La Petite-Patrie,45.537041,-73.602026,1653343932311,1653344815143
+Tolhurst / Fleury,Ahuntsic-Cartierville,45.544149,-73.66752,Drolet / Jarry,Villeray - Saint-Michel - Parc-Extension,45.541955,-73.629942,1653343929506,1653345170591
+Garnier / St-Grégoire,Le Plateau-Mont-Royal,45.5358344,-73.5870212,St-Hubert / Laurier,Le Plateau-Mont-Royal,45.52931,-73.588657,1653343931782,1653344205284
+Drolet / Laurier,Le Plateau-Mont-Royal,45.526252,-73.589758,Wurtele / de Rouen,Ville-Marie,45.537628,-73.553394,1653343936211,1653345075024
+Jacques-Casault / Christophe-Colomb,Ahuntsic-Cartierville,45.552123,-73.630103,Waverly / St-Viateur,Le Plateau-Mont-Royal,45.523856,-73.600127,1653343933891,1653345260365
+Tolhurst / Fleury,Ahuntsic-Cartierville,45.544149,-73.66752,Drolet / Jarry,Villeray - Saint-Michel - Parc-Extension,45.541955,-73.629942,1653343942591,1653345170799
+St-André / Cherrier,Le Plateau-Mont-Royal,45.520524,-73.567697,BAnQ (Berri / de Maisonneuve),Ville-Marie,45.515299,-73.561273,1653343941105,1653344156514
+Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,Prince-Arthur / du Parc,Le Plateau-Mont-Royal,45.51059,-73.57547,1653343942589,1653344195383
+St-Denis / René-Lévesque,Ville-Marie,45.512871,-73.558466,Logan / d'Iberville,Ville-Marie,45.53057,-73.54913,1653343943201,1653344620353
+Notre-Dame-de-Grâce / Westmount,Westmount,45.4804701,-73.6112161,de Bleury / de Maisonneuve,Ville-Marie,45.5070965,-73.5684416,1653343943270,1653345213193
+Bourget / St-Jacques,Le Sud-Ouest,45.4808458,-73.5838616,de la Côte St-Paul / St-Ambroise,Le Sud-Ouest,45.4676657,-73.5939178,1653343945405,1653344597625
+Milton / Durocher,Le Plateau-Mont-Royal,45.508141,-73.57493,St-Catherine / St-Laurent,Ville-Marie,45.5099315,-73.5638067,1653343947922,1653344758307
+Métro Guy-Concordia (Guy / St-Catherine),Ville-Marie,45.495045,-73.57783,Crescent / René-Lévesque,Ville-Marie,45.4959617,-73.5732535,1653343957434,1653344103543
+St-André / Cherrier,Le Plateau-Mont-Royal,45.520524,-73.567697,Hogan / Ontario,Ville-Marie,45.535295,-73.55116,1653343949642,1653344797967
+Parc du Pélican (2e avenue / St-Joseph),Rosemont - La Petite-Patrie,45.544513,-73.571564,1ère avenue / Rosemont,Rosemont - La Petite-Patrie,45.5478,-73.584867,1653343947180,1653344213060
+de Gaspé / Beaubien,Rosemont - La Petite-Patrie,45.5319579,-73.607001,Métro Champ-de-Mars (Viger / Sanguinet),Ville-Marie,45.510351,-73.556508,1653343948663,1653344935582
+Métro Parc  (Hutchison / Ogilvy),Villeray - Saint-Michel - Parc-Extension,45.5303513,-73.6243924,Drolet / Gounod,Villeray - Saint-Michel - Parc-Extension,45.540951,-73.626375,1653343948603,1653344386946
+Mozart / St-Laurent,Rosemont - La Petite-Patrie,45.53318,-73.61544,Chabot / Villeray,Villeray - Saint-Michel - Parc-Extension,45.5522894,-73.6130065,1653343951028,1653344527771
+Vallières / St-Laurent,Le Plateau-Mont-Royal,45.518967,-73.583616,Waverly / St-Zotique,Rosemont - La Petite-Patrie,45.530505,-73.614708,1653343961319,1653344658989
+Laurier / de Bordeaux,Le Plateau-Mont-Royal,45.537205,-73.579254,Chabot / du Mont-Royal,Le Plateau-Mont-Royal,45.534185,-73.573589,1653343965432,1653344097884
+Émile-Duployé / Sherbrooke,Le Plateau-Mont-Royal,45.527201,-73.564729,de Bordeaux / Masson,Le Plateau-Mont-Royal,45.538984,-73.582445,1653343958077,1653344681363
+Milton / Durocher,Le Plateau-Mont-Royal,45.508141,-73.57493,Ste-Émilie / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,45.472668,-73.58539,1653343958215,1653345840537
+Brittany / Ainsley,Mont-Royal,45.5258899,-73.6500344,Graham / Kindersley,Mont-Royal,45.51405,-73.6472556,1653343958673,1653345109328
+Parc de Bullion (de Bullion / Prince-Arthur),Le Plateau-Mont-Royal,45.515604,-73.572135,Métro Peel (de Maisonneuve / Stanley),Ville-Marie,45.50038,-73.57507,1653343961208,1653344594048
+Métro Mont-Royal (Rivard / du Mont-Royal),Le Plateau-Mont-Royal,45.524673,-73.58255,St-Christophe / René-Lévesque,Ville-Marie,45.5149464,-73.5562329,1653343962277,1653344826564
+Bernard / Jeanne-Mance,Le Plateau-Mont-Royal,45.524287,-73.604973,Prince-Arthur / St-Urbain,Le Plateau-Mont-Royal,45.512587,-73.573739,1653343965160,1653344522023
+Milton / Durocher,Le Plateau-Mont-Royal,45.508141,-73.57493,Ste-Émilie / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,45.472668,-73.58539,1653343965881,1653345833876
+CHU Ste-Justine (de la Côte Ste-Catherine / Hudson),Côte-des-Neiges - Notre-Dame-de-Grâce,45.5039817,-73.6228395,Parc Kent (de Kent / Hudson),Côte-des-Neiges - Notre-Dame-de-Grâce,45.505721,-73.629459,1653343961050,1653344663653
+Bourget / St-Jacques,Le Sud-Ouest,45.4808458,-73.5838616,Ste-Émilie / St-Rémi,Le Sud-Ouest,45.4697664,-73.5892588,1653343968415,1653344773683
+Métro Mont-Royal (Rivard / du Mont-Royal),Le Plateau-Mont-Royal,45.524673,-73.58255,de Lanaudière / du Mont-Royal,Le Plateau-Mont-Royal,45.5302211,-73.5769965,1653343970177,1653344370059
+de St-Firmin / Fleury,Ahuntsic-Cartierville,45.570657,-73.651842,Bibliothèque d'Ahuntsic (Lajeunesse / Fleury),Ahuntsic-Cartierville,45.5534001,-73.6622545,1653343970470,1653344865301
+Métro Papineau (Cartier / Ste-Catherine),Ville-Marie,45.52353,-73.55199,Métro Place-d'Armes (Viger / St-Urbain),Ville-Marie,45.50623,-73.55976,1653343971225,1653345661760
+16e avenue / Jean-Talon,Villeray - Saint-Michel - Parc-Extension,45.56244,-73.595333,Marquette / Villeray,Villeray - Saint-Michel - Parc-Extension,45.550684,-73.615293,1653343976834,1653344634074
+Jeanne-Mance / Laurier,Le Plateau-Mont-Royal,45.5201249,-73.5952138,Bernard / St-Urbain,Le Plateau-Mont-Royal,45.526267,-73.603191,1653343976953,1653344334979
+CCI Outremont (Dollard / Durcharme),Outremont,45.5200191,-73.6189073,Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,1653343971128,1653344885476
+Guilbault / Clark,Le Plateau-Mont-Royal,45.514108,-73.57523,St-Dominique / St-Zotique,Rosemont - La Petite-Patrie,45.532265,-73.611063,1653343976128,1653344865947
+Parc Maisonneuve (Viau / Sherbrooke),Rosemont - La Petite-Patrie,45.5649368,-73.5555911,Berri / Cherrier,Le Plateau-Mont-Royal,45.519088,-73.569509,1653343979974,1653345831366
+St-Joseph / 8e avenue Lachine,Lachine,45.43155,-73.67112,Léa-Roback / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,45.471669,-73.582644,1653343976980,1653345786399
+Mackay / de Maisonneuve,Ville-Marie,45.49683,-73.57913,St-Alexandre / Ste-Catherine,Ville-Marie,45.505359,-73.567741,1653343979182,1653344431375
+Beaudry / Sherbrooke,Ville-Marie,45.523035,-73.565395,Dorion / Ontario,Ville-Marie,45.526991,-73.558212,1653343978927,1653344291450
+Guilbault / Clark,Le Plateau-Mont-Royal,45.514108,-73.57523,Métro Place-des-Arts (du Président-Kennedy / Jeanne-Mance),Ville-Marie,45.5082046,-73.5688144,1653343983220,1653344291754
+University / Prince-Arthur,Le Plateau-Mont-Royal,45.507402,-73.578444,St-Dominique / Laurier,Le Plateau-Mont-Royal,45.5236149,-73.5924574,1653343979467,1653344465386
+Berri / Cherrier,Le Plateau-Mont-Royal,45.519088,-73.569509,Émile-Duployé / Sherbrooke,Le Plateau-Mont-Royal,45.527201,-73.564729,1653343979960,1653344301917
+Square St-Louis (du Square St-Louis / Laval),Le Plateau-Mont-Royal,45.516091,-73.570129,de la Commune / St-Sulpice,Ville-Marie,45.504242,-73.55347,1653343982142,1653344474530
+Parc Labelle (LaSalle / Henri-Duhamel),Verdun,45.472561,-73.5699892,Ryde / Charlevoix,Le Sud-Ouest,45.475743,-73.564601,1653343977580,1653344139831
+Métro Papineau (Cartier / Ste-Catherine),Ville-Marie,45.52353,-73.55199,Métro Place-d'Armes (Viger / St-Urbain),Ville-Marie,45.50623,-73.55976,1653343985837,1653345680859
+Bernard / Jeanne-Mance,Le Plateau-Mont-Royal,45.524287,-73.604973,Waverly / Van Horne,Le Plateau-Mont-Royal,45.527363,-73.607723,1653343993891,1653345912706
+Jeanne-Mance / St-Viateur,Le Plateau-Mont-Royal,45.523027,-73.60184,Parc Jeanne-Mance (du Mont-Royal / du Parc),Le Plateau-Mont-Royal,45.517,-73.589,1653343993681,1653344493584
+St-Dominique / Napoléon,Le Plateau-Mont-Royal,45.5166644,-73.5772204,Laurier / de Brébeuf,Le Plateau-Mont-Royal,45.532514,-73.584811,1653343995960,1653344620976
+Metcalfe / de Maisonneuve,Ville-Marie,45.501715,-73.57413,Crescent / René-Lévesque,Ville-Marie,45.4959617,-73.5732535,1653343997392,1653344320851
+St-Dominique / Bernard,Le Plateau-Mont-Royal,45.527933,-73.601223,de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,45.517401,-73.574605,1653343997935,1653344697263
+Métro Viau (Pierre-de-Coubertin / Viau),Mercier - Hochelaga-Maisonneuve,45.561783,-73.546611,Sherbrooke / Frontenac,Ville-Marie,45.5367,-73.56081,1653343997244,1653344912043
+Smith / Peel,Le Sud-Ouest,-1.0,-1.0,Casino de Montréal,Ville-Marie,45.506373,-73.524577,1653344001010,1653345209225
+Berri / Cherrier,Le Plateau-Mont-Royal,45.519088,-73.569509,Gauthier / Papineau,Le Plateau-Mont-Royal,45.529666,-73.567336,1653344001999,1653344509053
+Panet / Ste-Catherine,Ville-Marie,45.5199567,-73.5548166,Molson / Beaubien,Rosemont - La Petite-Patrie,45.549686,-73.591155,1653344010039,1653345818725
+Villeneuve / St-Urbain,Le Plateau-Mont-Royal,45.520188,-73.590559,Chambord/ Beaubien,Rosemont - La Petite-Patrie,45.5399002,-73.5993621,1653344003071,1653344914629
+Everett / Garnier,Villeray - Saint-Michel - Parc-Extension,45.5475815,-73.6122085,de la Roche / Everett,Villeray - Saint-Michel - Parc-Extension,45.544867,-73.614841,1653344003132,1653344112948
+Bishop / Ste-Catherine,Ville-Marie,45.496583,-73.576502,Calixa-Lavallée / Rachel,Le Plateau-Mont-Royal,45.527795,-73.571939,1653344005810,1653345863696
+Bernard / Jeanne-Mance,Le Plateau-Mont-Royal,45.524287,-73.604973,Waverly / Van Horne,Le Plateau-Mont-Royal,45.527363,-73.607723,1653344007881,1653345898079
+de Léry / Sherbrooke,Mercier - Hochelaga-Maisonneuve,45.5409997,-73.5582626,André-Laurendeau / Rachel,Rosemont - La Petite-Patrie,45.5428981,-73.561846,1653344003660,1653344115873
+Parc Maisonneuve (Viau / Sherbrooke),Rosemont - La Petite-Patrie,45.5649368,-73.5555911,Berri / Cherrier,Le Plateau-Mont-Royal,45.519088,-73.569509,1653344009487,1653345833246
+de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,45.518253,-73.588338,McTavish / Sherbrooke,Ville-Marie,45.502813,-73.576024,1653344015322,1653344444906
+Casgrain / St-Viateur,Le Plateau-Mont-Royal,45.527513,-73.598791,Jeanne-Mance / St-Viateur,Le Plateau-Mont-Royal,45.523027,-73.60184,1653344012768,1653344226310
+Drolet / Laurier,Le Plateau-Mont-Royal,45.526252,-73.589758,St-Dominique / Rachel,Le Plateau-Mont-Royal,45.518593,-73.581566,1653344012208,1653344267718
+University / Milton,Ville-Marie,45.506511,-73.576669,Ste-Famille / des Pins,Le Plateau-Mont-Royal,45.512832,-73.576888,1653344017580,1653344380791
+Panet / Ste-Catherine,Ville-Marie,45.5199567,-73.5548166,Molson / Beaubien,Rosemont - La Petite-Patrie,45.549686,-73.591155,1653344018637,1653345797292
+Casino de Montréal,Ville-Marie,45.506373,-73.524577,Parc Jean-Drapeau (Chemin Macdonald),Ville-Marie,45.5128006,-73.5311159,1653344022462,1653346382241
+Métro Mont-Royal (Rivard / du Mont-Royal),Le Plateau-Mont-Royal,45.524673,-73.58255,Dorion / Ontario,Ville-Marie,45.526991,-73.558212,1653344022005,1653344945757
+Elgar / de l'Île-des-Sœurs,Verdun,45.456823,-73.546804,Jacques-Le Ber / de la Pointe Nord,Verdun,45.472503,-73.539285,1653344021865,1653344958573
+de Bordeaux / Marie-Anne,Le Plateau-Mont-Royal,45.533409,-73.570657,Métro St-Laurent (de Maisonneuve / St-Laurent),Ville-Marie,45.51066,-73.56497,1653344023895,1653344905329
+27e avenue / Rosemont,Rosemont - La Petite-Patrie,45.5636787,-73.5716045,Parc Maisonneuve (Viau / Sherbrooke),Rosemont - La Petite-Patrie,45.5649368,-73.5555911,1653344027796,1653347374078
+Calixa-Lavallée / Sherbrooke,Le Plateau-Mont-Royal,45.52479,-73.56545,Métro Sherbrooke (de Rigaud / St-Denis),Le Plateau-Mont-Royal,45.5179989,-73.5681841,1653344025897,1653344283706
+Casino de Montréal,Ville-Marie,45.506373,-73.524577,Parc Jean-Drapeau (Chemin Macdonald),Ville-Marie,45.5128006,-73.5311159,1653344026747,1653346389642
+Métro Papineau (Cartier / Ste-Catherine),Ville-Marie,45.52353,-73.55199,Parthenais / Ste-Catherine,Ville-Marie,45.526006,-73.548864,1653344026258,1653345672337
+Laurier / de Brébeuf,Le Plateau-Mont-Royal,45.532514,-73.584811,Chabot / du Mont-Royal,Le Plateau-Mont-Royal,45.534185,-73.573589,1653344028574,1653344417524
+Métro Mont-Royal (Rivard / du Mont-Royal),Le Plateau-Mont-Royal,45.524673,-73.58255,de Bordeaux / Marie-Anne,Le Plateau-Mont-Royal,45.533409,-73.570657,1653344029101,1653344558494
+Boyer / Beaubien,Rosemont - La Petite-Patrie,45.537041,-73.602026,Cartier / Dandurand,Rosemont - La Petite-Patrie,45.539236,-73.585946,1653344029411,1653344544811
+Calixa-Lavallée / Rachel,Le Plateau-Mont-Royal,45.527795,-73.571939,Mackay / Ste-Catherine,Ville-Marie,45.495709,-73.576952,1653344031791,1653345991751
+Calixa-Lavallée / Rachel,Le Plateau-Mont-Royal,45.527795,-73.571939,Mackay / Ste-Catherine,Ville-Marie,45.495709,-73.576952,1653344034497,1653345980234
+Plessis / Ontario,Ville-Marie,45.523492,-73.56073,Quai de la navette fluviale,Ville-Marie,45.513741,-73.538382,1653344038054,1653345052696
+Peel / Ottawa,Le Sud-Ouest,45.4941996,-73.5599846,Peel / Ottawa,Le Sud-Ouest,45.4941996,-73.5599846,1653344043683,1653345497990
+Bishop / Ste-Catherine,Ville-Marie,45.496583,-73.576502,Calixa-Lavallée / Rachel,Le Plateau-Mont-Royal,45.527795,-73.571939,1653344039668,1653345869352
+4e avenue / de Verdun,Verdun,45.456885,-73.572607,Roy / St-Laurent,Le Plateau-Mont-Royal,45.515616,-73.575808,1653344044999,1653346711721
+Marché Atwater,Le Sud-Ouest,45.480208,-73.577599,Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,1653344047902,1653344450798
+Ste-Émilie / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,45.472668,-73.58539,St-Patrick / Briand,Le Sud-Ouest,45.463397,-73.596436,1653344045348,1653344599414
+Métro St-Laurent (de Maisonneuve / St-Laurent),Ville-Marie,45.51066,-73.56497,Parc Jeanne-Mance (du Mont-Royal / du Parc),Le Plateau-Mont-Royal,45.517,-73.589,1653344045344,1653344848044
+de Bordeaux / St-Zotique,Rosemont - La Petite-Patrie,45.546539,-73.598665,de Lanaudière / Bélanger,Rosemont - La Petite-Patrie,45.543651,-73.60565,1653344044519,1653344264503
+Notre-Dame / Jean-d'Estrées,Ville-Marie,45.4942598,-73.5638181,des Bassins / du Séminaire,Ville-Marie,45.490452,-73.560172,1653344052604,1653344230873
+St-Dominique / St-Zotique,Rosemont - La Petite-Patrie,45.532265,-73.611063,Marquette / Rachel,Le Plateau-Mont-Royal,45.529802,-73.57029,1653344052092,1653345118657
+Ste-Émilie / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,45.472668,-73.58539,St-Patrick / Briand,Le Sud-Ouest,45.463397,-73.596436,1653344054800,1653344577207
+Gilford / St-Denis,Le Plateau-Mont-Royal,45.5251147,-73.586006,de l'Esplanade / Fairmount,Le Plateau-Mont-Royal,45.521496,-73.596827,1653344046157,1653344889425
+St-Patrick / Briand,Le Sud-Ouest,45.463397,-73.596436,Parc riverain de Lachine (des Iroquois),Lachine,45.4305431,-73.6690244,1653344052970,1653346594528
+de Maisonneuve / Aylmer (ouest),Ville-Marie,45.505063,-73.5706812,Métro Mont-Royal (Rivard / du Mont-Royal),Le Plateau-Mont-Royal,45.524673,-73.58255,1653344057539,1653344894934
+Métro Snowdon (de Westbury / Queen-Mary),Côte-des-Neiges - Notre-Dame-de-Grâce,45.485385,-73.628142,CHU Ste-Justine (de la Côte Ste-Catherine / Hudson),Côte-des-Neiges - Notre-Dame-de-Grâce,45.5039817,-73.6228395,1653344059170,1653344671457
+26e avenue / Beaubien,Rosemont - La Petite-Patrie,45.564944,-73.577639,Parc du Pélican (1ère avenue / Masson),Rosemont - La Petite-Patrie,45.5451997,-73.5764507,1653344070627,1653344651759
+du Mont-Royal / Clark,Le Plateau-Mont-Royal,45.51941,-73.58685,de Brébeuf / du Mont-Royal,Le Plateau-Mont-Royal,45.529408,-73.578154,1653344065214,1653344493741
+Métro Peel (de Maisonneuve / Stanley),Ville-Marie,45.50038,-73.57507,de Maisonneuve / Mansfield (sud),Ville-Marie,45.502145,-73.573427,1653344069025,1653344375723
+Parc Père-Marquette (Chambord / Rosemont),Rosemont - La Petite-Patrie,45.537088,-73.593219,de l'Esplanade / Fairmount,Le Plateau-Mont-Royal,45.521496,-73.596827,1653344069401,1653344720196
+de Lanaudière / Bélanger,Rosemont - La Petite-Patrie,45.543651,-73.60565,de Léry / Sherbrooke,Mercier - Hochelaga-Maisonneuve,45.5409997,-73.5582626,1653344072536,1653345592654
+St-Dominique / Rachel,Le Plateau-Mont-Royal,45.518593,-73.581566,Chabanel / du Parc,Ahuntsic-Cartierville,45.538308,-73.654884,1653344074834,1653346350304
+CHSLD St-Michel (8e avenue / Jarry),Villeray - Saint-Michel - Parc-Extension,45.5616903,-73.610512,Fabre / St-Zotique,Rosemont - La Petite-Patrie,45.543452,-73.60101,1653344067311,1653344925801
+Ste-Émilie / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,45.472668,-73.58539,Drolet / Laurier,Le Plateau-Mont-Royal,45.526252,-73.589758,1653344074158,1653347015789
+Bassin olympique (Chemin du Chenal le Moyne),Ville-Marie,45.5169025,-73.5272455,Bassin olympique (Chemin du Chenal le Moyne),Ville-Marie,45.5169025,-73.5272455,1653344069781,1653346164407
+Gilford / St-Denis,Le Plateau-Mont-Royal,45.5251147,-73.586006,Hélène-Baillargeon / St-Denis,Le Plateau-Mont-Royal,45.52974,-73.59527,1653344070611,1653344379384
+Place du Commerce,Verdun,45.46714,-73.54259,Jacques-Le Ber / de la Pointe Nord,Verdun,45.472503,-73.539285,1653344081054,1653344757508
+Pontiac / Gilford,Le Plateau-Mont-Royal,45.527009,-73.585766,Bélanger / St-Denis,Rosemont - La Petite-Patrie,45.53696,-73.61199,1653344084498,1653344990483
+Roy / St-Laurent,Le Plateau-Mont-Royal,45.515616,-73.575808,Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,1653344081746,1653345139994
+La Ronde,Ville-Marie,45.521565,-73.535332,La Ronde,Ville-Marie,45.521565,-73.535332,1653344081771,1653344504877
+Grand Boulevard / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,45.466569,-73.623295,de Maisonneuve / Greene,Westmount,45.486971,-73.589293,1653344085321,1653345998336
+27e avenue / Rosemont,Rosemont - La Petite-Patrie,45.5636787,-73.5716045,1ère avenue / Rosemont,Rosemont - La Petite-Patrie,45.5478,-73.584867,1653344084466,1653344974910
+de Lanaudière / du Mont-Royal,Le Plateau-Mont-Royal,45.5302211,-73.5769965,de Lanaudière / du Mont-Royal,Le Plateau-Mont-Royal,45.5302211,-73.5769965,1653344091997,1653344762622
+Gilford / St-Denis,Le Plateau-Mont-Royal,45.5251147,-73.586006,Hélène-Baillargeon / St-Denis,Le Plateau-Mont-Royal,45.52974,-73.59527,1653344081252,1653344390417
+Pontiac / Gilford,Le Plateau-Mont-Royal,45.527009,-73.585766,Bélanger / St-Denis,Rosemont - La Petite-Patrie,45.53696,-73.61199,1653344089853,1653344990734
+St-Dominique / de Bellechasse,Rosemont - La Petite-Patrie,45.5295036,-73.6048646,St-Urbain / Beaubien,Rosemont - La Petite-Patrie,45.52951,-73.61068,1653344087662,1653344564709
+Durocher / Sherbrooke,Le Plateau-Mont-Royal,45.5070762,-73.5722852,McTavish / Sherbrooke,Ville-Marie,45.502813,-73.576024,1653344091413,1653344385093
+Marie-Anne / St-Hubert,Le Plateau-Mont-Royal,45.524683,-73.578897,du Parc-Lafontaine / Rachel,Le Plateau-Mont-Royal,45.5254742,-73.5743251,1653344092116,1653344245885
+Ste-Émilie / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,45.472668,-73.58539,de Bordeaux / Gilford,Le Plateau-Mont-Royal,45.53611,-73.576287,1653344098545,1653347107522
+Jeanne-Mance / Laurier,Le Plateau-Mont-Royal,45.5201249,-73.5952138,Métro Mont-Royal (Rivard / du Mont-Royal),Le Plateau-Mont-Royal,45.524673,-73.58255,1653344095762,1653344516058
+Jogues / Allard,Le Sud-Ouest,45.45002,-73.600306,Métro Verdun (Willibrord / de Verdun),Verdun,45.459488,-73.572092,1653344095363,1653344821563
+La Tour de Montréal (Pierre-de-Coubertin / Bennett),Mercier - Hochelaga-Maisonneuve,45.5597053,-73.5515544,Valois / Ste-Catherine,Mercier - Hochelaga-Maisonneuve,45.54523,-73.53725,1653344086497,1653345026027
+Notre-Dame / Jean-d'Estrées,Ville-Marie,45.4942598,-73.5638181,de l'Hôtel-de-Ville / Sherbrooke,Ville-Marie,45.514565,-73.568407,1653344092277,1653344832170
+Bélanger / St-Denis,Rosemont - La Petite-Patrie,45.53696,-73.61199,Notre-Dame-de-Grâce / Westmount,Westmount,45.4804701,-73.6112161,1653344093112,1653346165571
+Parc Loyola (Somerled / Doherty),Côte-des-Neiges - Notre-Dame-de-Grâce,45.460023,-73.644442,Parc Benny (Benny / de Monkland),Côte-des-Neiges - Notre-Dame-de-Grâce,45.4669357,-73.6315311,1653344088197,1653345246884
+Gilford / St-Denis,Le Plateau-Mont-Royal,45.5251147,-73.586006,Hélène-Baillargeon / St-Denis,Le Plateau-Mont-Royal,45.52974,-73.59527,1653344087927,1653344386228
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,45.517401,-73.574605,Marquette / du Mont-Royal,Le Plateau-Mont-Royal,45.53229,-73.57544,1653344106204,1653344624565
+Fullum / de Rouen,Ville-Marie,45.5321322,-73.5587601,Aylmer / Prince-Arthur,Le Plateau-Mont-Royal,45.508567,-73.577698,1653344099410,1653345552844
+Aylmer / Prince-Arthur,Le Plateau-Mont-Royal,45.508567,-73.577698,Lucien L'Allier / St-Jacques,Ville-Marie,45.493569,-73.568576,1653344098651,1653345046511
+Cadillac / Sherbrooke,Mercier - Hochelaga-Maisonneuve,45.576963,-73.546836,Jeanne-d'Arc / Ontario,Mercier - Hochelaga-Maisonneuve,45.549598,-73.541874,1653344097540,1653354366513
+Gilford / St-Denis,Le Plateau-Mont-Royal,45.5251147,-73.586006,de l'Esplanade / Fairmount,Le Plateau-Mont-Royal,45.521496,-73.596827,1653344092699,1653344880502
+Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,St-Dominique / St-Viateur,Le Plateau-Mont-Royal,45.526557,-73.598276,1653344100070,1653344541368
+Fullum / de Rouen,Ville-Marie,45.5321322,-73.5587601,Aylmer / Prince-Arthur,Le Plateau-Mont-Royal,45.508567,-73.577698,1653344101252,1653345546887
+Bordeaux / Sherbrooke,Ville-Marie,45.529971,-73.563053,Boyer / du Mont-Royal,Le Plateau-Mont-Royal,45.527432,-73.579917,1653344105315,1653344725211
+Desjardins / Ontario,Mercier - Hochelaga-Maisonneuve,45.551192,-73.540873,Parc Maisonneuve (Viau / Sherbrooke),Rosemont - La Petite-Patrie,45.5649368,-73.5555911,1653344109191,1653345310443
+Parc St-Paul (Le Caron / Marc-Sauvalle),Le Sud-Ouest,45.461685,-73.584039,5e avenue / Bannantyne,Verdun,45.456365,-73.57614,1653344108403,1653344553474
+1ère avenue / Rosemont,Rosemont - La Petite-Patrie,45.5478,-73.584867,Métro Rosemont (de St-Vallier / Rosemont),Rosemont - La Petite-Patrie,45.531783,-73.597793,1653344116943,1653344781704
+Place du Commerce,Verdun,45.46714,-73.54259,Jacques-Le Ber / de la Pointe Nord,Verdun,45.472503,-73.539285,1653344120652,1653344747407
+Aylmer / Prince-Arthur,Le Plateau-Mont-Royal,45.508567,-73.577698,Duluth / St-Laurent,Le Plateau-Mont-Royal,45.516876,-73.57946,1653344111319,1653344426891
+de Lanaudière / du Mont-Royal,Le Plateau-Mont-Royal,45.5302211,-73.5769965,Duvernay / Charlevoix,Le Sud-Ouest,45.482098,-73.574876,1653344115557,1653345790245
+de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,45.518253,-73.588338,Jeanne-Mance / St-Viateur,Le Plateau-Mont-Royal,45.523027,-73.60184,1653344121863,1653344426014
+Parc St-Laurent (Salk / Thomas-Chapais),Montréal-Nord,45.6062348,-73.6287838,Parc St-Laurent (Salk / Thomas-Chapais),Montréal-Nord,45.6062348,-73.6287838,1653344107692,1653347180365
+Clark / Fleury,Ahuntsic-Cartierville,45.547581,-73.665234,Métro Sauvé (Berri / Sauvé),Ahuntsic-Cartierville,45.550692,-73.656367,1653344113217,1653344423324
+Milton / du Parc,Le Plateau-Mont-Royal,45.509361,-73.573864,Duluth / St-Laurent,Le Plateau-Mont-Royal,45.516876,-73.57946,1653344114269,1653344613621
+Richardson / de Montmorency,Le Sud-Ouest,45.48498,-73.560333,de la Commune / Berri,Ville-Marie,45.51086,-73.54983,1653344117734,1653345135395
+Smith / Peel,Le Sud-Ouest,-1.0,-1.0,de la Commune / St-Sulpice,Ville-Marie,45.504242,-73.55347,1653344114275,1653345511096
+de Maisonneuve / Mansfield (nord),Ville-Marie,45.502311,-73.5733635,University / Milton,Ville-Marie,45.506511,-73.576669,1653344119568,1653344374803
+U. Concordia - Campus Loyola (Sherbrooke / West Broadway),Côte-des-Neiges - Notre-Dame-de-Grâce,45.457509,-73.639485,U. Concordia - Campus Loyola (Sherbrooke / West Broadway),Côte-des-Neiges - Notre-Dame-de-Grâce,45.457509,-73.639485,1653344124218,1653344143376
+Parc Loyola (Somerled / Doherty),Côte-des-Neiges - Notre-Dame-de-Grâce,45.460023,-73.644442,Parc Benny (Benny / de Monkland),Côte-des-Neiges - Notre-Dame-de-Grâce,45.4669357,-73.6315311,1653344114738,1653345240860
+Parc St-Laurent (Salk / Thomas-Chapais),Montréal-Nord,45.6062348,-73.6287838,Parc St-Laurent (Salk / Thomas-Chapais),Montréal-Nord,45.6062348,-73.6287838,1653344115217,1653347194625
+Clark / Fleury,Ahuntsic-Cartierville,45.547581,-73.665234,Métro Sauvé (Berri / Sauvé),Ahuntsic-Cartierville,45.550692,-73.656367,1653344122084,1653344422126
+Jeanne-Mance / Laurier,Le Plateau-Mont-Royal,45.5201249,-73.5952138,Gare d'autocars de Montréal (Berri / Ontario),Ville-Marie,45.516897,-73.563949,1653344121763,1653345060529
+Notre-Dame / de la Montagne,Ville-Marie,45.493029,-73.564818,Parc Jean-Drapeau (Chemin Macdonald),Ville-Marie,45.5128006,-73.5311159,1653344126273,1653345827066
+Calixa-Lavallée / Rachel,Le Plateau-Mont-Royal,45.527795,-73.571939,Boyer / St-Zotique,Rosemont - La Petite-Patrie,45.53848,-73.60556,1653344124634,1653345111261
+de la Commune / St-Sulpice,Ville-Marie,45.504242,-73.55347,Duluth /St-Denis,Le Plateau-Mont-Royal,45.5205975,-73.5759705,1653344126636,1653345829595
+des Seigneurs / Notre-Dame,Le Sud-Ouest,45.487723,-73.569083,Parc Jean-Drapeau (Chemin Macdonald),Ville-Marie,45.5128006,-73.5311159,1653344128115,1653345535174
+de Lanaudière / du Mont-Royal,Le Plateau-Mont-Royal,45.5302211,-73.5769965,de Bullion / du Mont-Royal,Le Plateau-Mont-Royal,45.521751,-73.585268,1653344135159,1653344852805
+Louis-Hémon / Rosemont,Rosemont - La Petite-Patrie,45.544599,-73.588223,Square St-Louis (du Square St-Louis / Laval),Le Plateau-Mont-Royal,45.516091,-73.570129,1653344131436,1653345345156
+Richardson / de Montmorency,Le Sud-Ouest,45.48498,-73.560333,William / St-Henri,Ville-Marie,45.498919,-73.557254,1653344131130,1653344790292
+Ste-Émilie / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,45.472668,-73.58539,St-Patrick / Briand,Le Sud-Ouest,45.463397,-73.596436,1653344136899,1653344584297
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,45.53229,-73.57544,de Léry / Sherbrooke,Mercier - Hochelaga-Maisonneuve,45.5409997,-73.5582626,1653344133781,1653345714016
+Viger / Chenneville,Ville-Marie,45.505312,-73.560891,Parc du Pélican (1ère avenue / Masson),Rosemont - La Petite-Patrie,45.5451997,-73.5764507,1653344134989,1653345700253
+Henri-Julien / de Castelnau,Villeray - Saint-Michel - Parc-Extension,45.537891,-73.618215,Rachel / de Brébeuf,Le Plateau-Mont-Royal,45.52689,-73.57264,1653344136898,1653351693709
+Newman / Senkus,LaSalle,45.444043,-73.613752,de l'Église / Bannantyne,Verdun,45.463254,-73.575879,1653344135148,1653345491231
+Métro Radisson (Sherbrooke / des Groseilliers),Mercier - Hochelaga-Maisonneuve,45.589175,-73.539656,Souligny / Desmarteau,Mercier - Hochelaga-Maisonneuve,45.6046208,-73.5159963,1653344137774,1653344677867
+Métro Peel (de Maisonneuve / Stanley),Ville-Marie,45.50038,-73.57507,Plessis / Logan,Ville-Marie,45.5217675,-73.5571025,1653344137816,1653345202336
+Square Victoria (Viger / du Square-Victoria),Ville-Marie,45.50206,-73.56295,de la Commune / St-Sulpice,Ville-Marie,45.504242,-73.55347,1653344139744,1653344508364
+Labadie / du Parc,Le Plateau-Mont-Royal,45.519895,-73.596827,Parc Jeanne-Mance (du Mont-Royal / du Parc),Le Plateau-Mont-Royal,45.517,-73.589,1653344140599,1653344356425
+la Fontaine / Alexandre-de-Sève,Ville-Marie,45.5233037,-73.5579997,Notre-Dame / St-Gabriel,Ville-Marie,45.507144,-73.555119,1653344149699,1653345595135
+Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,Métro Vendôme (de Marlowe / de Maisonneuve),Côte-des-Neiges - Notre-Dame-de-Grâce,45.473868,-73.604538,1653344145653,1653344894895
+Turgeon / Notre-Dame,Le Sud-Ouest,45.478888,-73.581989,Notre-Dame / de la Montagne,Ville-Marie,45.493029,-73.564818,1653344142125,1653344826769
+Parc de Bullion (de Bullion / Prince-Arthur),Le Plateau-Mont-Royal,45.515604,-73.572135,St-Jacques / St-Laurent,Ville-Marie,45.506421,-73.556466,1653344144879,1653344521543
+Aylmer / Prince-Arthur,Le Plateau-Mont-Royal,45.508567,-73.577698,Lucien L'Allier / St-Jacques,Ville-Marie,45.493569,-73.568576,1653344140531,1653345045800
+Quai de la navette fluviale,Ville-Marie,45.513741,-73.538382,de la Commune / St-Sulpice,Ville-Marie,45.504242,-73.55347,1653344143026,1653345620063
+de la Roche / Bélanger,Rosemont - La Petite-Patrie,45.54167,-73.607604,5e avenue / Masson,Rosemont - La Petite-Patrie,45.5475583,-73.5754719,1653344153734,1653345126276
+Louis-Hébert / St-Zotique,Rosemont - La Petite-Patrie,45.55001,-73.59576,19e avenue / St-Zotique,Rosemont - La Petite-Patrie,45.561594,-73.585643,1653344151143,1653345634889
+Parc J.-Arthur-Champagne (de Chambly / du Mont-Royal),Rosemont - La Petite-Patrie,45.551584,-73.561916,de Bordeaux / Gilford,Le Plateau-Mont-Royal,45.53611,-73.576287,1653344152400,1653345101491
+Marché Jean-Talon (Henri-Julien / Jean-Talon),Rosemont - La Petite-Patrie,45.536785,-73.614888,12e avenue / St-Zotique,Rosemont - La Petite-Patrie,45.556867,-73.589307,1653344153743,1653345136438
+McTavish / Sherbrooke,Ville-Marie,45.502813,-73.576024,Hutchison / des Pins,Le Plateau-Mont-Royal,45.51069,-73.57805,1653344159905,1653344464129
+des Bassins / du Séminaire,Ville-Marie,45.490452,-73.560172,St-Nicolas / Place d'Youville,Ville-Marie,45.501967,-73.555153,1653344154532,1653344726834
+Souligny / Desmarteau,Mercier - Hochelaga-Maisonneuve,45.6046208,-73.5159963,Ste-Claire / Pierre-Tétreault,Mercier - Hochelaga-Maisonneuve,45.6019133,-73.5244185,1653344148540,1653344404314
+Bennett / Pierre-de-Coubertin,Mercier - Hochelaga-Maisonneuve,45.5581597,-73.5484001,Valois / Ste-Catherine,Mercier - Hochelaga-Maisonneuve,45.54523,-73.53725,1653344153736,1653344737912
+de la Commune / King,Ville-Marie,45.497515,-73.552571,Jeanne-Mance / René-Lévesque,Ville-Marie,45.506371,-73.564201,1653344156482,1653344647773
+Complexe sportif Claude-Robillard,Ahuntsic-Cartierville,45.553262,-73.638615,de St-Firmin / Fleury,Ahuntsic-Cartierville,45.570657,-73.651842,1653344158378,1653345254797
+de Bullion / du Mont-Royal,Le Plateau-Mont-Royal,45.521751,-73.585268,du Parc-Lafontaine / Rachel,Le Plateau-Mont-Royal,45.5254742,-73.5743251,1653344161980,1653344429412
+Crescent / de Maisonneuve,Ville-Marie,45.498112,-73.577615,Roy / St-Laurent,Le Plateau-Mont-Royal,45.515616,-73.575808,1653344159841,1653344650897
+Métro Fabre (Marquette / Jean-Talon),Villeray - Saint-Michel - Parc-Extension,45.5474078,-73.6076689,Parc Père-Marquette (de Lanaudière / de Bellechasse),Rosemont - La Petite-Patrie,45.539324,-73.5958784,1653344159097,1653345512996
+Hutchison / Prince-Arthur,Le Plateau-Mont-Royal,45.509759,-73.576107,de Maisonneuve / Mansfield (nord),Ville-Marie,45.502311,-73.5733635,1653344161181,1653344512556
+des Érables / Laurier,Le Plateau-Mont-Royal,45.5384608,-73.5776791,Cartier / Masson,Le Plateau-Mont-Royal,45.538021,-73.583524,1653344162195,1653344361156
+St-Dominique / Gounod,Villeray - Saint-Michel - Parc-Extension,45.538738,-73.628022,de Lanaudière / du Mont-Royal,Le Plateau-Mont-Royal,45.5302211,-73.5769965,1653344164981,1653345467841
+Labadie / du Parc,Le Plateau-Mont-Royal,45.519895,-73.596827,Parc Jeanne-Mance (du Mont-Royal / du Parc),Le Plateau-Mont-Royal,45.517,-73.589,1653344164980,1653344358709
+Boyer / Beaubien,Rosemont - La Petite-Patrie,45.537041,-73.602026,du Rosaire / St-Hubert,Villeray - Saint-Michel - Parc-Extension,45.544819,-73.62151,1653344170684,1653344619626
+University / Milton,Ville-Marie,45.506511,-73.576669,Prince-Arthur / du Parc,Le Plateau-Mont-Royal,45.51059,-73.57547,1653344170500,1653344402930
+Parc St-Paul (Le Caron / Marc-Sauvalle),Le Sud-Ouest,45.461685,-73.584039,5e avenue / Bannantyne,Verdun,45.456365,-73.57614,1653344169988,1653344572224
+Young / Wellington,Le Sud-Ouest,45.492825,-73.557978,Marché Atwater,Le Sud-Ouest,45.480208,-73.577599,1653344173685,1653344880482
+de Melrose / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,45.46982,-73.616961,Grand Boulevard / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,45.466569,-73.623295,1653344178149,1653344531142
+de Melrose / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,45.46982,-73.616961,Grand Boulevard / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,45.466569,-73.623295,1653344183762,1653344528310
+Young / Wellington,Le Sud-Ouest,45.492825,-73.557978,Marché Atwater,Le Sud-Ouest,45.480208,-73.577599,1653344181171,1653344886267
+Henri-Julien / de Castelnau,Villeray - Saint-Michel - Parc-Extension,45.537891,-73.618215,Rachel / de Brébeuf,Le Plateau-Mont-Royal,45.52689,-73.57264,1653344180648,1653351665908
+Boucher / St-Denis,Le Plateau-Mont-Royal,45.5278492,-73.5918613,Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,1653344181638,1653345801368
+Bourget / St-Jacques,Le Sud-Ouest,45.4808458,-73.5838616,Métro Place St-Henri (St-Ferdinand / St-Jacques),Le Sud-Ouest,45.477249,-73.587238,1653344185983,1653344378668
+Quai de la navette fluviale,Ville-Marie,45.513741,-73.538382,de la Commune / St-Sulpice,Ville-Marie,45.504242,-73.55347,1653344188153,1653345628415
+Gary-Carter / St-Laurent,Villeray - Saint-Michel - Parc-Extension,45.5359,-73.622443,de Lanaudière / Bélanger,Rosemont - La Petite-Patrie,45.543651,-73.60565,1653344182669,1653344903637
+Marquette / des Carrières,Rosemont - La Petite-Patrie,45.538799,-73.5887,Parc Ludger-Duvernay (St-André / St-Hubert),Le Plateau-Mont-Royal,45.5314746,-73.5924205,1653344184794,1653344542841
+Lajeunesse / Villeray,Villeray - Saint-Michel - Parc-Extension,45.542119,-73.622547,St-Dominique / Jean-Talon,Villeray - Saint-Michel - Parc-Extension,45.535248,-73.617564,1653344197681,1653344584822
+Dollard / Van Horne,Outremont,45.519153,-73.616469,Métro Édouard-Montpetit (du Mont-Royal / Vincent-d'Indy),Outremont,45.510086,-73.611429,1653344187647,1653344521710
+Grand Boulevard / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,45.466569,-73.623295,Crescent / de Maisonneuve,Ville-Marie,45.498112,-73.577615,1653344187806,1653345340700
+Boucher / St-Denis,Le Plateau-Mont-Royal,45.5278492,-73.5918613,St-Catherine / St-Laurent,Ville-Marie,45.5099315,-73.5638067,1653344189680,1653345179408
+de Lanaudière / Bélanger,Rosemont - La Petite-Patrie,45.543651,-73.60565,Gauthier / Parthenais,Le Plateau-Mont-Royal,45.532926,-73.56378,1653344187691,1653345686143
+2e avenue / Wellington,Verdun,45.457893,-73.567528,Regina / de Verdun,Verdun,45.467369,-73.570769,1653344191384,1653344703137
+Boucher / St-Denis,Le Plateau-Mont-Royal,45.5278492,-73.5918613,St-Catherine / St-Laurent,Ville-Marie,45.5099315,-73.5638067,1653344204064,1653345184124
+St-André / Cherrier,Le Plateau-Mont-Royal,45.520524,-73.567697,Laurier / de Brébeuf,Le Plateau-Mont-Royal,45.532514,-73.584811,1653344193065,1653345700831
+University / Prince-Arthur,Le Plateau-Mont-Royal,45.507402,-73.578444,St-Germain / Hochelaga,Mercier - Hochelaga-Maisonneuve,45.543699,-73.553673,1653344193031,1653345056854
+de Lanaudière / du Mont-Royal,Le Plateau-Mont-Royal,45.5302211,-73.5769965,de Bullion / du Mont-Royal,Le Plateau-Mont-Royal,45.521751,-73.585268,1653344193978,1653344846324
+Fullum / Marie-Anne,Le Plateau-Mont-Royal,45.5365054,-73.5680392,Métro Laurier (Bibaud / Rivard),Le Plateau-Mont-Royal,45.5278391,-73.5895747,1653344195362,1653344826701
+Harvard / de Monkland,Côte-des-Neiges - Notre-Dame-de-Grâce,45.474565,-73.624036,McLynn / Plamondon,Côte-des-Neiges - Notre-Dame-de-Grâce,45.4891131,-73.6470129,1653344195541,1653346624401
+St-Mathieu / Sherbrooke,Ville-Marie,45.495789,-73.582596,St-Mathieu / Sherbrooke,Ville-Marie,45.495789,-73.582596,1653344195835,1653345782829
+Casgrain / Maguire,Le Plateau-Mont-Royal,45.525933,-73.595253,La Ronde,Ville-Marie,45.521565,-73.535332,1653344196901,1653345502163
+Parc Père-Marquette (Chambord / Rosemont),Rosemont - La Petite-Patrie,45.537088,-73.593219,Laval / Rachel,Le Plateau-Mont-Royal,45.520179,-73.579424,1653344199971,1653345015361
+Métro Jarry (Lajeunesse / Jarry),Villeray - Saint-Michel - Parc-Extension,45.5435597,-73.627772,de Normanville / Villeray,Villeray - Saint-Michel - Parc-Extension,45.54717,-73.618041,1653344198607,1653344551208
+St-André / Ste-Catherine,Ville-Marie,45.516427,-73.558112,Ste-Catherine / Labelle,Ville-Marie,45.515065,-73.55923,1653344200378,1653344347228
+Métro de l'Église (Ross / de l'Église),Verdun,45.462726,-73.565959,2e avenue / Wellington,Verdun,45.457893,-73.567528,1653344204424,1653344371290
+de Lanaudière / Marie-Anne,Le Plateau-Mont-Royal,45.529326,-73.574806,Parthenais / du Mont-Royal,Le Plateau-Mont-Royal,45.536346,-73.57131,1653344204650,1653344455353
+Melville / de Maisonneuve,Westmount,45.4818402,-73.595379,Melville / de Maisonneuve,Westmount,45.4818402,-73.595379,1653344205912,1653345899020
+Bernard / St-Urbain,Le Plateau-Mont-Royal,45.526267,-73.603191,Métro Mont-Royal (Rivard / du Mont-Royal),Le Plateau-Mont-Royal,45.524673,-73.58255,1653344208069,1653344921262
+Melville / de Maisonneuve,Westmount,45.4818402,-73.595379,Melville / de Maisonneuve,Westmount,45.4818402,-73.595379,1653344213068,1653345937231
+Prince-Arthur / du Parc,Le Plateau-Mont-Royal,45.51059,-73.57547,William / Robert-Bourassa,Le Sud-Ouest,45.497165,-73.55933,1653344212119,1653344658678
+Jeanne-Mance / St-Viateur,Le Plateau-Mont-Royal,45.523027,-73.60184,de l'Esplanade / Fairmount,Le Plateau-Mont-Royal,45.521496,-73.596827,1653344217778,1653344343811
+Waverly / St-Viateur,Le Plateau-Mont-Royal,45.523856,-73.600127,Maguire / St-Laurent,Le Plateau-Mont-Royal,45.524628,-73.595811,1653344218058,1653344384508
+Parc Jeanne-Mance (du Mont-Royal / du Parc),Le Plateau-Mont-Royal,45.517,-73.589,Lincoln / du Fort,Ville-Marie,45.493034,-73.583836,1653344218833,1653345965992
+Bibliothèque de Verdun (Brown / Bannantyne),Verdun,45.448262,-73.577856,Beatty / de Verdun,Verdun,45.45073,-73.572575,1653344229832,1653344348851
+St-Christophe / René-Lévesque,Ville-Marie,45.5149464,-73.5562329,Métro Laurier (Berri / St-Joseph),Le Plateau-Mont-Royal,45.527231,-73.586726,1653344235818,1653345323329
+Dorion / Ontario,Ville-Marie,45.526991,-73.558212,Atateken / du Square Amherst,Ville-Marie,45.5206338,-73.563906,1653344232465,1653344600606
+Place du Commerce,Verdun,45.46714,-73.54259,Bourgeoys / Favard,Le Sud-Ouest,45.47993,-73.555921,1653344228562,1653345098719
+Métro Peel (de Maisonneuve / Stanley),Ville-Marie,45.50038,-73.57507,Duluth / St-Laurent,Le Plateau-Mont-Royal,45.516876,-73.57946,1653344229277,1653344961908
+Parc Jeanne-Mance (du Mont-Royal / du Parc),Le Plateau-Mont-Royal,45.517,-73.589,Lincoln / du Fort,Ville-Marie,45.493034,-73.583836,1653344232057,1653345949468
+Crescent / de Maisonneuve,Ville-Marie,45.498112,-73.577615,Crescent / René-Lévesque,Ville-Marie,45.4959617,-73.5732535,1653344232626,1653344676929
+Marché Atwater,Le Sud-Ouest,45.480208,-73.577599,de la Commune / St-Sulpice,Ville-Marie,45.504242,-73.55347,1653344241387,1653345944321
+Marquette / Laurier,Le Plateau-Mont-Royal,45.53543,-73.5822,Émile-Duployé / Sherbrooke,Le Plateau-Mont-Royal,45.527201,-73.564729,1653344239288,1653344552317
+de l'Église / Bannantyne,Verdun,45.463254,-73.575879,des Bassins / du Séminaire,Ville-Marie,45.490452,-73.560172,1653344242374,1653345376764
+Métro Place St-Henri (St-Ferdinand / St-Jacques),Le Sud-Ouest,45.477249,-73.587238,La Ronde,Ville-Marie,45.521565,-73.535332,1653344242488,1653346476337
+Dorion / Ontario,Ville-Marie,45.526991,-73.558212,Atateken / du Square Amherst,Ville-Marie,45.5206338,-73.563906,1653344243663,1653344634121
+St-Dominique / Rachel,Le Plateau-Mont-Royal,45.518593,-73.581566,Beaudry / Sherbrooke,Ville-Marie,45.523035,-73.565395,1653344243112,1653345045767
+Chabot / Beaubien,Rosemont - La Petite-Patrie,45.544376,-73.595645,de Bordeaux / Jean-Talon,Villeray - Saint-Michel - Parc-Extension,45.549755,-73.605566,1653344247657,1653344525819
+Dézéry / Ontario,Mercier - Hochelaga-Maisonneuve,45.54111,-73.54755,Ste-Catherine / Labelle,Ville-Marie,45.515065,-73.55923,1653344242587,1653345339553
+Roy / St-Denis,Le Plateau-Mont-Royal,45.51908,-73.5727,Jeanne-Mance / St-Viateur,Le Plateau-Mont-Royal,45.523027,-73.60184,1653344244760,1653345526016
+Marché Atwater,Le Sud-Ouest,45.480208,-73.577599,Métro Champ-de-Mars (Viger / Sanguinet),Ville-Marie,45.510351,-73.556508,1653344248302,1653346269576
+U. Concordia - Campus Loyola (Sherbrooke / West Broadway),Côte-des-Neiges - Notre-Dame-de-Grâce,45.457509,-73.639485,Parc Loyola (Somerled / Doherty),Côte-des-Neiges - Notre-Dame-de-Grâce,45.460023,-73.644442,1653344246943,1653344411368
+Métro Beaudry (Montcalm / de Maisonneuve),Ville-Marie,45.519132,-73.5578897,Poupart / Ste-Catherine,Ville-Marie,45.529002,-73.546199,1653344246679,1653344888391
+Chomedey / de Maisonneuve,Ville-Marie,45.4918,-73.584006,Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,1653344247961,1653344387410
+Harvard / de Monkland,Côte-des-Neiges - Notre-Dame-de-Grâce,45.474565,-73.624036,McLynn / Plamondon,Côte-des-Neiges - Notre-Dame-de-Grâce,45.4891131,-73.6470129,1653344249276,1653346632207
+Quai de la navette fluviale,Ville-Marie,45.513741,-73.538382,de la Commune / St-Sulpice,Ville-Marie,45.504242,-73.55347,1653344251517,1653345636431
+Park Row O / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,45.460729,-73.634073,Métro Vendôme (de Marlowe / de Maisonneuve),Côte-des-Neiges - Notre-Dame-de-Grâce,45.473868,-73.604538,1653344251629,1653345111849
+Aréna Rodrigue-Gilbert (du Tricentenaire / de Montigny),Rivière-des-Prairies - Pointe-aux-Trembles,45.6514058,-73.5004127,Place du Village (St-Jean-Baptiste / Notre-Dame),Rivière-des-Prairies - Pointe-aux-Trembles,45.6400029,-73.490113,1653344250303,1653345270119
+Melville / de Maisonneuve,Westmount,45.4818402,-73.595379,Melville / de Maisonneuve,Westmount,45.4818402,-73.595379,1653344250872,1653345927776
+du Parc-Lafontaine / Rachel,Le Plateau-Mont-Royal,45.5254742,-73.5743251,Dorion / Ontario,Ville-Marie,45.526991,-73.558212,1653344252702,1653344860036
+Marché Atwater,Le Sud-Ouest,45.480208,-73.577599,de la Commune / Place Jacques-Cartier,Ville-Marie,45.50761,-73.551836,1653344256884,1653345609992
+St-Christophe / René-Lévesque,Ville-Marie,45.5149464,-73.5562329,Métro Laurier (Berri / St-Joseph),Le Plateau-Mont-Royal,45.527231,-73.586726,1653344254765,1653345323724
+Mackay / Ste-Catherine,Ville-Marie,45.495709,-73.576952,Métro Guy-Concordia (Guy / St-Catherine),Ville-Marie,45.495045,-73.57783,1653344263420,1653346548350
+St-Cyril / Wiseman,Outremont,45.5208548,-73.6157396,Paré / Mountain Sights,Côte-des-Neiges - Notre-Dame-de-Grâce,45.4981,-73.652942,1653344262722,1653345338825
+Victoria Hall,Westmount,45.481291,-73.60033,de Hampton / de Monkland,Côte-des-Neiges - Notre-Dame-de-Grâce,45.471179,-73.627002,1653344262052,1653344895581
+Chomedey / de Maisonneuve,Ville-Marie,45.4918,-73.584006,Drummond / de Maisonneuve,Ville-Marie,45.49947,-73.57591,1653344265085,1653345261209
+de Lanaudière / du Mont-Royal,Le Plateau-Mont-Royal,45.5302211,-73.5769965,Garnier / St-Grégoire,Le Plateau-Mont-Royal,45.5358344,-73.5870212,1653344268472,1653344597886
+d'Outremont / Ogilvy,Villeray - Saint-Michel - Parc-Extension,45.52687,-73.626723,Métro Parc  (Hutchison / Ogilvy),Villeray - Saint-Michel - Parc-Extension,45.5303513,-73.6243924,1653344272986,1653344473595
+la Fontaine / Alexandre-de-Sève,Ville-Marie,45.5233037,-73.5579997,Notre-Dame / St-Gabriel,Ville-Marie,45.507144,-73.555119,1653344267872,1653345648820
+Melville / de Maisonneuve,Westmount,45.4818402,-73.595379,Melville / de Maisonneuve,Westmount,45.4818402,-73.595379,1653344271930,1653345909506
+Beaudry / Ontario,Ville-Marie,45.5214582,-73.5620499,Charlevoix / Lionel-Groulx,Le Sud-Ouest,45.483928,-73.577312,1653344280415,1653346031253
+du President-Kennedy / Union,Ville-Marie,45.505011,-73.572028,Plessis / Logan,Ville-Marie,45.5217675,-73.5571025,1653344277173,1653345023831
+Métro Édouard-Montpetit (du Mont-Royal / Vincent-d'Indy),Outremont,45.510086,-73.611429,Clark / Prince-Arthur,Le Plateau-Mont-Royal,45.513303,-73.572961,1653344279671,1653345112306
+18e avenue / Rosemont,Rosemont - La Petite-Patrie,45.557896,-73.576529,Louis-Hébert / Beaubien,Rosemont - La Petite-Patrie,45.548186,-73.59201,1653344282700,1653344822667
+Métro Mont-Royal (Rivard / du Mont-Royal),Le Plateau-Mont-Royal,45.524673,-73.58255,Mackay / de Maisonneuve,Ville-Marie,45.49683,-73.57913,1653344290728,1653345851430
+Durocher / Sherbrooke,Le Plateau-Mont-Royal,45.5070762,-73.5722852,Crescent / de Maisonneuve,Ville-Marie,45.498112,-73.577615,1653344290219,1653344835453
+Duluth / St-Laurent,Le Plateau-Mont-Royal,45.516876,-73.57946,William / St-Henri,Ville-Marie,45.498919,-73.557254,1653344286775,1653345136135
+Duluth / St-Laurent,Le Plateau-Mont-Royal,45.516876,-73.57946,Marquette / Rachel,Le Plateau-Mont-Royal,45.529802,-73.57029,1653344291292,1653345021316
+de l'Hôtel-de-Ville / Sherbrooke,Ville-Marie,45.514565,-73.568407,de la Montagne/ Sherbrooke,Ville-Marie,45.4997438,-73.5789384,1653344293213,1653344824910
+Ste-Catherine / Labelle,Ville-Marie,45.515065,-73.55923,de la Commune / Berri,Ville-Marie,45.51086,-73.54983,1653344290827,1653344551714
+Notre-Dame / Gauvin,Ville-Marie,45.500105,-73.560199,William / Robert-Bourassa,Le Sud-Ouest,45.497165,-73.55933,1653344292493,1653344752775
+Boyer / Everett,Villeray - Saint-Michel - Parc-Extension,45.5432845,-73.6162861,du Parc-La Fontaine / Roy,Le Plateau-Mont-Royal,45.522866,-73.568377,1653344294606,1653345540218
+Métro Guy-Concordia (Guy / St-Catherine),Ville-Marie,45.495045,-73.57783,Durocher / Sherbrooke,Le Plateau-Mont-Royal,45.5070762,-73.5722852,1653344297382,1653344987536
+Ste-Émilie / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,45.472668,-73.58539,Parc de Bullion (de Bullion / Prince-Arthur),Le Plateau-Mont-Royal,45.515604,-73.572135,1653344295130,1653346234600
+Parc St-Henri (Laporte / Guay),Le Sud-Ouest,45.4801338,-73.5859081,Victoria / de Maisonneuve,Westmount,45.477429,-73.600169,1653344295384,1653344644563
+Dorion / Ontario,Ville-Marie,45.526991,-73.558212,Parc Maisonneuve (Viau / Sherbrooke),Rosemont - La Petite-Patrie,45.5649368,-73.5555911,1653344297233,1653345850029
+St-Hubert / Laurier,Le Plateau-Mont-Royal,45.52931,-73.588657,Vallières / St-Laurent,Le Plateau-Mont-Royal,45.518967,-73.583616,1653344297621,1653344812078
+Alexandre-DeSève / Ste-Catherine,Ville-Marie,45.52123,-73.553861,Beaudry / Ontario,Ville-Marie,45.5214582,-73.5620499,1653344298167,1653344556609
+Square St-Louis (du Square St-Louis / Laval),Le Plateau-Mont-Royal,45.516091,-73.570129,University / Prince-Arthur,Le Plateau-Mont-Royal,45.507402,-73.578444,1653344298396,1653344761334
+2e avenue / Wellington,Verdun,45.457893,-73.567528,Regina / de Verdun,Verdun,45.467369,-73.570769,1653344298418,1653344692241
+d'Outremont / Ogilvy,Villeray - Saint-Michel - Parc-Extension,45.52687,-73.626723,Bloomfield / Jean-Talon,Villeray - Saint-Michel - Parc-Extension,45.5274603,-73.6241752,1653344300228,1653344997444
+Square St-Louis (du Square St-Louis / Laval),Le Plateau-Mont-Royal,45.516091,-73.570129,University / Prince-Arthur,Le Plateau-Mont-Royal,45.507402,-73.578444,1653344303766,1653344770592
+University / Milton,Ville-Marie,45.506511,-73.576669,Milton / Clark,Le Plateau-Mont-Royal,45.512541,-73.570677,1653344304076,1653344628605
+Métro Rosemont (de St-Vallier / Rosemont),Rosemont - La Petite-Patrie,45.531783,-73.597793,Bishop / Ste-Catherine,Ville-Marie,45.496583,-73.576502,1653344304896,1653345933832
+Chomedey / de Maisonneuve,Ville-Marie,45.4918,-73.584006,Métro Guy-Concordia (Guy / St-Catherine),Ville-Marie,45.495045,-73.57783,1653344306687,1653344533363
+University / Milton,Ville-Marie,45.506511,-73.576669,Milton / Clark,Le Plateau-Mont-Royal,45.512541,-73.570677,1653344310057,1653344625815
+de Bleury / de Maisonneuve,Ville-Marie,45.5070965,-73.5684416,BAnQ (Berri / de Maisonneuve),Ville-Marie,45.515299,-73.561273,1653344310276,1653344869623
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,45.517401,-73.574605,Duluth / de l'Esplanade,Le Plateau-Mont-Royal,45.515092,-73.581142,1653344309274,1653344598895
+Calixa-Lavallée / Rachel,Le Plateau-Mont-Royal,45.527795,-73.571939,,,,,1653344124184,
+16e avenue / St-Joseph,Rosemont - La Petite-Patrie,45.55287,-73.565631,Métro de Castelnau (de Castelnau / St-Laurent),Villeray - Saint-Michel - Parc-Extension,45.5357088,-73.6196235,1653344316234,1653345793509
+Parc Painter (Marcotte / Quenneville),Saint-Laurent,45.5286305,-73.6773124,Parc Painter (Marcotte / Quenneville),Saint-Laurent,45.5286305,-73.6773124,1653344307112,1653345025296
+BAnQ (Berri / de Maisonneuve),Ville-Marie,45.515299,-73.561273,Marquette / du Mont-Royal,Le Plateau-Mont-Royal,45.53229,-73.57544,1653344318983,1653345271736
+Marché Atwater,Le Sud-Ouest,45.480208,-73.577599,Métro Champ-de-Mars (Viger / Sanguinet),Ville-Marie,45.510351,-73.556508,1653344323239,1653346260986
+Villeneuve / de l'Hôtel-de-Ville,Le Plateau-Mont-Royal,45.523544,-73.587332,Durocher / Bernard,Outremont,45.522225,-73.606687,1653344320349,1653345014454
+Métro Édouard-Montpetit (du Mont-Royal / Vincent-d'Indy),Outremont,45.510086,-73.611429,Bloomfield / Bernard,Outremont,45.520688,-73.608428,1653344322797,1653344743894
+St-André / Cherrier,Le Plateau-Mont-Royal,45.520524,-73.567697,Calixa-Lavallée / Rachel,Le Plateau-Mont-Royal,45.527795,-73.571939,1653344322687,1653347378860
+16e avenue / St-Joseph,Rosemont - La Petite-Patrie,45.55287,-73.565631,18e avenue / Rosemont,Rosemont - La Petite-Patrie,45.557896,-73.576529,1653344322052,1653344699208
+Métro Assomption (Chauveau / de l'Assomption),Mercier - Hochelaga-Maisonneuve,45.569789,-73.548081,Métro Assomption (Chauveau / de l'Assomption),Mercier - Hochelaga-Maisonneuve,45.569789,-73.548081,1653344330498,1653345096879
+Logan / d'Iberville,Ville-Marie,45.53057,-73.54913,Parc Baldwin (Fullum / Sherbrooke),Le Plateau-Mont-Royal,45.5340705,-73.5626507,1653344332245,1653344650428
+Marché Jean-Talon (Casgrain / Shamrock),Rosemont - La Petite-Patrie,45.5351901,-73.6154822,Waverly / St-Zotique,Rosemont - La Petite-Patrie,45.530505,-73.614708,1653344328072,1653344564600
+Marché Atwater,Le Sud-Ouest,45.480208,-73.577599,Peel / Ottawa,Le Sud-Ouest,45.4941996,-73.5599846,1653344333456,1653345169849
+Richardson / de Montmorency,Le Sud-Ouest,45.48498,-73.560333,Léa-Roback / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,45.471669,-73.582644,1653344334557,1653345095655
+Parc Jeanne-Mance (du Mont-Royal / du Parc),Le Plateau-Mont-Royal,45.517,-73.589,Mackay / Ste-Catherine,Ville-Marie,45.495709,-73.576952,1653344343780,1653345764665
+Boyer / du Mont-Royal,Le Plateau-Mont-Royal,45.527432,-73.579917,Sanguinet / de Maisonneuve,Ville-Marie,45.513405,-73.562594,1653344338916,1653345007655
+Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,Ste-Émilie / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,45.472668,-73.58539,1653344342271,1653345204197
+University / Prince-Arthur,Le Plateau-Mont-Royal,45.507402,-73.578444,Laval / Rachel,Le Plateau-Mont-Royal,45.520179,-73.579424,1653344339309,1653345149455
+St-André / Ste-Catherine,Ville-Marie,45.516427,-73.558112,Gare d'autocars de Montréal (Berri / Ontario),Ville-Marie,45.516897,-73.563949,1653344342265,1653344849936
+Métro Peel (de Maisonneuve / Stanley),Ville-Marie,45.50038,-73.57507,Métro St-Laurent (de Maisonneuve / St-Laurent),Ville-Marie,45.51066,-73.56497,1653344342683,1653344674359
+de la Commune / St-Sulpice,Ville-Marie,45.504242,-73.55347,Rachel / de Brébeuf,Le Plateau-Mont-Royal,45.52689,-73.57264,1653344342935,1653345548807
+St-Denis / René-Lévesque,Ville-Marie,45.512871,-73.558466,Métro Papineau (Cartier / Ste-Catherine),Ville-Marie,45.52353,-73.55199,1653344353077,1653344688940
+Hutchison / Prince-Arthur,Le Plateau-Mont-Royal,45.509759,-73.576107,Chomedey / de Maisonneuve,Ville-Marie,45.4918,-73.584006,1653344345813,1653345372582
+Parc St-Henri (Laporte / Guay),Le Sud-Ouest,45.4801338,-73.5859081,Ste-Catherine / Union,Ville-Marie,45.5036663,-73.5695761,1653344362136,1653345909363
+Métro Jean-Talon (Berri / Jean-Talon),Villeray - Saint-Michel - Parc-Extension,45.5390004,-73.614251,Casgrain / St-Viateur,Le Plateau-Mont-Royal,45.527513,-73.598791,1653344350428,1653344976951
+Smith / Peel,Le Sud-Ouest,-1.0,-1.0,Smith / Peel,Le Sud-Ouest,-1.0,-1.0,1653344354009,1653344367968
+Richmond / des Bassins,Le Sud-Ouest,45.4875216,-73.565003,Place du Commerce,Verdun,45.46714,-73.54259,1653344352915,1653345614673
+Métro Place-des-Arts (du Président-Kennedy / Jeanne-Mance),Ville-Marie,45.5082046,-73.5688144,St-Mathieu / Ste-Catherine,Ville-Marie,45.49368,-73.579146,1653344351319,1653345158386
+Aylmer / Sherbrooke,Le Plateau-Mont-Royal,45.506587,-73.573299,Aylmer / Sherbrooke,Le Plateau-Mont-Royal,45.506587,-73.573299,1653344352566,1653344374745
+Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,Ste-Émilie / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,45.472668,-73.58539,1653344356259,1653345205800
+Jean-Brillant / de la Côte-des-Neiges,Côte-des-Neiges - Notre-Dame-de-Grâce,45.495415,-73.622341,Édouard-Montpetit / de Stirling,Côte-des-Neiges - Notre-Dame-de-Grâce,45.50723,-73.615085,1653344355002,1653347013692
+Crescent / de Maisonneuve,Ville-Marie,45.498112,-73.577615,Smith / Peel,Le Sud-Ouest,-1.0,-1.0,1653344355924,1653344905691
+Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,de Brébeuf / du Mont-Royal,Le Plateau-Mont-Royal,45.529408,-73.578154,1653344358517,1653345011642
+Marquette / des Carrières,Rosemont - La Petite-Patrie,45.538799,-73.5887,de Mentana / Laurier,Le Plateau-Mont-Royal,45.53045,-73.587638,1653344357726,1653344771935
+Métro Laurier (Berri / St-Joseph),Le Plateau-Mont-Royal,45.527231,-73.586726,Aylmer / Prince-Arthur,Le Plateau-Mont-Royal,45.508567,-73.577698,1653344358349,1653344996022
+Richmond / des Bassins,Le Sud-Ouest,45.4875216,-73.565003,Place du Commerce,Verdun,45.46714,-73.54259,1653344359621,1653345618443
+Boyer / du Mont-Royal,Le Plateau-Mont-Royal,45.527432,-73.579917,Sanguinet / de Maisonneuve,Ville-Marie,45.513405,-73.562594,1653344361078,1653344996871
+16e avenue / Beaubien,Rosemont - La Petite-Patrie,45.558281,-73.583159,St-André / Cherrier,Le Plateau-Mont-Royal,45.520524,-73.567697,1653344364901,1653345555412
+Sanguinet / Ste-Catherine,Ville-Marie,45.512797,-73.561463,de Maisonneuve / Aylmer (est),Ville-Marie,45.505386,-73.570432,1653344370866,1653344879472
+St-Germain / Hochelaga,Mercier - Hochelaga-Maisonneuve,45.543699,-73.553673,Hochelaga / Chapleau,Ville-Marie,45.534453,-73.559652,1653344371237,1653344754871
+Place Émilie-Gamelin,Ville-Marie,45.515901,-73.559948,Poupart / Ste-Catherine,Ville-Marie,45.529002,-73.546199,1653344366742,1653344899826
+Métro Bonaventure (de la Gauchetière / de la Cathédrale),Ville-Marie,45.4983122,-73.567256,Notre-Dame / de la Montagne,Ville-Marie,45.493029,-73.564818,1653344368519,1653344826236
+Sanguinet / Ste-Catherine,Ville-Marie,45.512797,-73.561463,de Maisonneuve / Aylmer (est),Ville-Marie,45.505386,-73.570432,1653344373263,1653344875932
+de Bordeaux / Masson,Le Plateau-Mont-Royal,45.538984,-73.582445,Laurier / de Brébeuf,Le Plateau-Mont-Royal,45.532514,-73.584811,1653344376523,1653344664501
+St-André / Ste-Catherine,Ville-Marie,45.516427,-73.558112,Notre-Dame / Jean-d'Estrées,Ville-Marie,45.4942598,-73.5638181,1653344374599,1653345235793
+Laval / du Mont-Royal,Le Plateau-Mont-Royal,45.522365,-73.584146,de la Commune / King,Ville-Marie,45.497515,-73.552571,1653344380460,1653345754149
+Richardson / de Montmorency,Le Sud-Ouest,45.48498,-73.560333,Richardson / de Montmorency,Le Sud-Ouest,45.48498,-73.560333,1653344376386,1653345153154
+Laval / du Mont-Royal,Le Plateau-Mont-Royal,45.522365,-73.584146,de la Commune / King,Ville-Marie,45.497515,-73.552571,1653344376520,1653345747819
+Métro Beaubien (de Chateaubriand / Beaubien),Rosemont - La Petite-Patrie,45.53536,-73.603635,Fabre / Beaubien,Rosemont - La Petite-Patrie,45.54206,-73.597873,1653344378386,1653344681808
+Parc des Rapides (LaSalle / 6e avenue),LaSalle,45.429471,-73.593099,4e avenue / de Verdun,Verdun,45.456885,-73.572607,1653344390176,1653345685058
+Parc Père-Marquette (Chambord / Rosemont),Rosemont - La Petite-Patrie,45.537088,-73.593219,5e avenue / Rosemont,Rosemont - La Petite-Patrie,45.5499,-73.583084,1653344383419,1653344932601
+Métro de l'Église (Ross / de l'Église),Verdun,45.462726,-73.565959,Parc des Rapides (LaSalle / 6e avenue),LaSalle,45.429471,-73.593099,1653344384494,1653346260240
+Fullum / Gilford,Le Plateau-Mont-Royal,45.539224,-73.573837,du Parc-Lafontaine / Rachel,Le Plateau-Mont-Royal,45.5254742,-73.5743251,1653344383546,1653345158582
+de Brébeuf / du Mont-Royal,Le Plateau-Mont-Royal,45.529408,-73.578154,Berri / Rachel,Le Plateau-Mont-Royal,45.522719,-73.577204,1653344385840,1653344674792
+Nicolet / Sherbrooke,Mercier - Hochelaga-Maisonneuve,45.549695,-73.554647,Laurier / de Brébeuf,Le Plateau-Mont-Royal,45.532514,-73.584811,1653344390684,1653345975756
+Parc St-Laurent (Dutrisac),Saint-Laurent,45.5259138,-73.6891115,Parc St-Laurent (Dutrisac),Saint-Laurent,45.5259138,-73.6891115,1653344381903,1653346195227
+Cartier / Masson,Le Plateau-Mont-Royal,45.538021,-73.583524,Métro Laurier (Berri / St-Joseph),Le Plateau-Mont-Royal,45.527231,-73.586726,1653344390506,1653344717893
+Parc Olympique (Pie-IX / Sherbrooke),Mercier - Hochelaga-Maisonneuve,45.5548245,-73.5537028,Molson / William-Tremblay,Rosemont - La Petite-Patrie,45.5415485,-73.5650124,1653344384203,1653345042622
+Pratt / Bates,Outremont,45.5169478,-73.6263156,St-Catherine / St-Laurent,Ville-Marie,45.5099315,-73.5638067,1653344385907,1653345863763
+St-André / Cherrier,Le Plateau-Mont-Royal,45.520524,-73.567697,St-Hubert /de Maisonneuve,Ville-Marie,45.5161321,-73.5604969,1653344391312,1653344582984
+de la Commune / Berri,Ville-Marie,45.51086,-73.54983,de la Commune / St-Sulpice,Ville-Marie,45.504242,-73.55347,1653344392294,1653344611432
+Cartier / Masson,Le Plateau-Mont-Royal,45.538021,-73.583524,Métro Laurier (Berri / St-Joseph),Le Plateau-Mont-Royal,45.527231,-73.586726,1653344396584,1653344720677
+Métro Monk (Allard / Beaulieu),Le Sud-Ouest,45.450851,-73.594027,Métro Monk (Allard / Beaulieu),Le Sud-Ouest,45.450851,-73.594027,1653344404470,1653346125948
+Marquette / Laurier,Le Plateau-Mont-Royal,45.53543,-73.5822,Roy / St-André,Le Plateau-Mont-Royal,45.521564,-73.570367,1653344395544,1653345615134
+University / Prince-Arthur,Le Plateau-Mont-Royal,45.507402,-73.578444,Laval / Rachel,Le Plateau-Mont-Royal,45.520179,-73.579424,1653344397483,1653345153771
+de Bordeaux / Marie-Anne,Le Plateau-Mont-Royal,45.533409,-73.570657,Marquette / Rachel,Le Plateau-Mont-Royal,45.529802,-73.57029,1653344397952,1653344534555
+Chomedey / de Maisonneuve,Ville-Marie,45.4918,-73.584006,Aylmer / Prince-Arthur,Le Plateau-Mont-Royal,45.508567,-73.577698,1653344399409,1653344957422
+de Lanaudière / du Mont-Royal,Le Plateau-Mont-Royal,45.5302211,-73.5769965,Laval / du Mont-Royal,Le Plateau-Mont-Royal,45.522365,-73.584146,1653344403415,1653344711954
+Aylmer / Sherbrooke,Le Plateau-Mont-Royal,45.506587,-73.573299,St-Dominique / du Mont-Royal,Le Plateau-Mont-Royal,45.5205595,-73.5858203,1653344400762,1653345404738
+Pratt / Bates,Outremont,45.5169478,-73.6263156,St-Catherine / St-Laurent,Ville-Marie,45.5099315,-73.5638067,1653344396784,1653345862237
+Métro Peel (de Maisonneuve / Stanley),Ville-Marie,45.50038,-73.57507,Prince-Arthur / St-Urbain,Le Plateau-Mont-Royal,45.512587,-73.573739,1653344406853,1653344740156
+Laval / Duluth,Le Plateau-Mont-Royal,45.519216,-73.57718,Clark / Ontario,Ville-Marie,45.5106246,-73.5669033,1653344408578,1653344928782
+St-Dominique / Rachel,Le Plateau-Mont-Royal,45.518593,-73.581566,Chomedey / de Maisonneuve,Ville-Marie,45.4918,-73.584006,1653344407754,1653345591364
+St-Alexandre / Ste-Catherine,Ville-Marie,45.505359,-73.567741,Aylmer / Prince-Arthur,Le Plateau-Mont-Royal,45.508567,-73.577698,1653344414151,1653344731643
+St-Dominique / Gounod,Villeray - Saint-Michel - Parc-Extension,45.538738,-73.628022,Marché Jean-Talon (Casgrain / Shamrock),Rosemont - La Petite-Patrie,45.5351901,-73.6154822,1653344413610,1653345380247
+Richardson / de Montmorency,Le Sud-Ouest,45.48498,-73.560333,Parc Jeanne-Mance (du Mont-Royal / du Parc),Le Plateau-Mont-Royal,45.517,-73.589,1653344420198,1653345954994
+de Chambly / Rachel,Rosemont - La Petite-Patrie,45.549911,-73.558263,Métro Mont-Royal (Rivard / du Mont-Royal),Le Plateau-Mont-Royal,45.524673,-73.58255,1653344416843,1653345390031
+du Parc-La Fontaine / Duluth,Le Plateau-Mont-Royal,45.524518,-73.571977,Drolet / Marie-Anne,Le Plateau-Mont-Royal,45.5224026,-73.5811767,1653344419312,1653345291319
+Querbes / Laurier,Outremont,45.51754,-73.597832,Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,1653344421173,1653344799210
+Aylwin / Ontario,Mercier - Hochelaga-Maisonneuve,45.544284,-73.54534,Métro Place-des-Arts (du Président-Kennedy / Jeanne-Mance),Ville-Marie,45.5082046,-73.5688144,1653344423144,1653345633868
+Vallières / St-Laurent,Le Plateau-Mont-Royal,45.518967,-73.583616,St-Dominique / Jean-Talon,Villeray - Saint-Michel - Parc-Extension,45.535248,-73.617564,1653344424412,1653345303411
+de Brébeuf / du Mont-Royal,Le Plateau-Mont-Royal,45.529408,-73.578154,Bordeaux / Sherbrooke,Ville-Marie,45.529971,-73.563053,1653344423364,1653344773127
+Métro Peel (de Maisonneuve / Stanley),Ville-Marie,45.50038,-73.57507,Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,1653344424940,1653345067900
+Métro Lasalle (de Rushbrooke / Caisse),Verdun,45.470696,-73.565422,Gordon / Wellington,Verdun,45.461078,-73.567307,1653344426468,1653346535547
+Métro Joliette  (Joliette / Hochelaga),Mercier - Hochelaga-Maisonneuve,45.546907,-73.551557,des Érables / Rachel,Le Plateau-Mont-Royal,45.533547,-73.566867,1653344427785,1653345428793
+du Mont-Royal / Augustin-Frigon,Rosemont - La Petite-Patrie,45.543763,-73.56772,du Mont-Royal / Augustin-Frigon,Rosemont - La Petite-Patrie,45.543763,-73.56772,1653344428006,1653344836497
+Durocher / Sherbrooke,Le Plateau-Mont-Royal,45.5070762,-73.5722852,McTavish / Sherbrooke,Ville-Marie,45.502813,-73.576024,1653344431376,1653344726529
+Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,Parc Georges St-Pierre (Oxford / Upper Lachine),Côte-des-Neiges - Notre-Dame-de-Grâce,45.4689119,-73.6095089,1653344430180,1653345054381
+Clark / Rachel,Le Plateau-Mont-Royal,45.517354,-73.582129,du Mont-Royal / Clark,Le Plateau-Mont-Royal,45.51941,-73.58685,1653344429573,1653344749263
+Quai de la navette fluviale,Ville-Marie,45.513741,-73.538382,Fabre / St-Zotique,Rosemont - La Petite-Patrie,45.543452,-73.60101,1653344431142,1653346912354
+Aylmer / Ste-Catherine,Ville-Marie,45.5043468,-73.5689485,St-Catherine / St-Laurent,Ville-Marie,45.5099315,-73.5638067,1653344434668,1653344781047
+de la Côte St-Paul / St-Ambroise,Le Sud-Ouest,45.4676657,-73.5939178,Hamilton / Jolicoeur,Le Sud-Ouest,45.456355,-73.597557,1653344434018,1653344708161
+St-Dominique / Rachel,Le Plateau-Mont-Royal,45.518593,-73.581566,St-Dominique / Napoléon,Le Plateau-Mont-Royal,45.5166644,-73.5772204,1653344434599,1653344527422
+de Lanaudière / du Mont-Royal,Le Plateau-Mont-Royal,45.5302211,-73.5769965,Resther / du Mont-Royal,Le Plateau-Mont-Royal,45.525628,-73.581775,1653344434940,1653344642723
+Parc du Pélican (1ère avenue / Masson),Rosemont - La Petite-Patrie,45.5451997,-73.5764507,Marquette / Laurier,Le Plateau-Mont-Royal,45.53543,-73.5822,1653344438003,1653344898838
+Parc Olympique (Pie-IX / Sherbrooke),Mercier - Hochelaga-Maisonneuve,45.5548245,-73.5537028,Ontario / Sicard,Mercier - Hochelaga-Maisonneuve,45.556262,-73.537441,1653344434052,1653345625331
+Métro Viau (Pierre-de-Coubertin / Viau),Mercier - Hochelaga-Maisonneuve,45.561783,-73.546611,Ontario / Viau,Mercier - Hochelaga-Maisonneuve,45.559482,-73.535496,1653344442379,1653344721202
+Bernard / Jeanne-Mance,Le Plateau-Mont-Royal,45.524287,-73.604973,Gary-Carter / St-Laurent,Villeray - Saint-Michel - Parc-Extension,45.5359,-73.622443,1653344440819,1653345033865
+de la Commune / King,Ville-Marie,45.497515,-73.552571,La Ronde,Ville-Marie,45.521565,-73.535332,1653344440807,1653346364297
+Métro Sherbrooke (de Rigaud / St-Denis),Le Plateau-Mont-Royal,45.5179989,-73.5681841,Parc J.-Arthur-Champagne (de Chambly / du Mont-Royal),Rosemont - La Petite-Patrie,45.551584,-73.561916,1653344442366,1653346241965
+Métro Sherbrooke (de Rigaud / St-Denis),Le Plateau-Mont-Royal,45.5179989,-73.5681841,Parc J.-Arthur-Champagne (de Chambly / du Mont-Royal),Rosemont - La Petite-Patrie,45.551584,-73.561916,1653344443156,1653346227357
+Durocher / Sherbrooke,Le Plateau-Mont-Royal,45.5070762,-73.5722852,McTavish / Sherbrooke,Ville-Marie,45.502813,-73.576024,1653344447527,1653344751764
+Métro de l'Église (Ross / de l'Église),Verdun,45.462726,-73.565959,Parc des Rapides (LaSalle / 6e avenue),LaSalle,45.429471,-73.593099,1653344446215,1653346258305
+Gilford / de Lanaudière,Le Plateau-Mont-Royal,45.532008,-73.580444,Marie-Anne / St-Hubert,Le Plateau-Mont-Royal,45.524683,-73.578897,1653344450240,1653344812450
+Laval / Duluth,Le Plateau-Mont-Royal,45.519216,-73.57718,Clark / Ontario,Ville-Marie,45.5106246,-73.5669033,1653344450196,1653344920071
+Earnscliffe / Queen-Mary,Côte-des-Neiges - Notre-Dame-de-Grâce,45.4818451,-73.6303738,Parc Benny (Benny / de Monkland),Côte-des-Neiges - Notre-Dame-de-Grâce,45.4669357,-73.6315311,1653344452836,1653345394413
+St-Dominique / Rachel,Le Plateau-Mont-Royal,45.518593,-73.581566,Metcalfe / St-Catherine,Ville-Marie,45.500832,-73.572459,1653344452920,1653345359289
+3e avenue / Holt,Rosemont - La Petite-Patrie,45.5480035,-73.5813899,1ère avenue / Rosemont,Rosemont - La Petite-Patrie,45.5478,-73.584867,1653344451574,1653345660882
+Ernest-Gendreau / du Mont-Royal,Rosemont - La Petite-Patrie,45.549714,-73.563848,St-Urbain / René-Lévesque,Ville-Marie,45.507838,-73.563136,1653344452241,1653345336091
+Jeanne-Mance / St-Viateur,Le Plateau-Mont-Royal,45.523027,-73.60184,Bloomfield / Bernard,Outremont,45.520688,-73.608428,1653344456534,1653344726333
+William / St-Henri,Ville-Marie,45.498919,-73.557254,de la Commune / King,Ville-Marie,45.497515,-73.552571,1653344457820,1653344612882
+Notre-Dame / Jean-d'Estrées,Ville-Marie,45.4942598,-73.5638181,Notre-Dame / Jean-d'Estrées,Ville-Marie,45.4942598,-73.5638181,1653344458792,1653344794123
+Fullum / Marie-Anne,Le Plateau-Mont-Royal,45.5365054,-73.5680392,Rivard / Rachel,Le Plateau-Mont-Royal,45.522278,-73.577591,1653344461037,1653345072389
+10e avenue / Holt,Rosemont - La Petite-Patrie,45.5519116,-73.5792112,Marquette / Laurier,Le Plateau-Mont-Royal,45.53543,-73.5822,1653344467086,1653344891707
+St-Dominique / Gounod,Villeray - Saint-Michel - Parc-Extension,45.538738,-73.628022,Boyer / Jean-Talon,Rosemont - La Petite-Patrie,45.541586,-73.612481,1653344464981,1653345063106
+Métro Mont-Royal (Rivard / du Mont-Royal),Le Plateau-Mont-Royal,45.524673,-73.58255,Parc Jeanne-Mance (du Mont-Royal / du Parc),Le Plateau-Mont-Royal,45.517,-73.589,1653344485194,1653344834170
+St-Urbain / Beaubien,Rosemont - La Petite-Patrie,45.52951,-73.61068,Parc Ludger-Duvernay (St-André / St-Hubert),Le Plateau-Mont-Royal,45.5314746,-73.5924205,1653344477325,1653345007446
+Milton / Durocher,Le Plateau-Mont-Royal,45.508141,-73.57493,Roy / St-Laurent,Le Plateau-Mont-Royal,45.515616,-73.575808,1653344489990,1653344739944
+Bélanger / St-Denis,Rosemont - La Petite-Patrie,45.53696,-73.61199,Louis-Hémon / Jean-Talon,Villeray - Saint-Michel - Parc-Extension,45.5517743,-73.6034784,1653344478979,1653345032252
+Fullum / Marie-Anne,Le Plateau-Mont-Royal,45.5365054,-73.5680392,Rivard / Rachel,Le Plateau-Mont-Royal,45.522278,-73.577591,1653344479751,1653345063006
+Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,Pierre-de-Coubertin / Langelier,Mercier - Hochelaga-Maisonneuve,45.580315,-73.535314,1653344480018,1653346853866
+Émile-Duployé / Sherbrooke,Le Plateau-Mont-Royal,45.527201,-73.564729,Berri / Rachel,Le Plateau-Mont-Royal,45.522719,-73.577204,1653344481303,1653344863665
+St-Dominique / Napoléon,Le Plateau-Mont-Royal,45.5166644,-73.5772204,Gilford / St-Denis,Le Plateau-Mont-Royal,45.5251147,-73.586006,1653344482070,1653344864597
+Gloria / Dollard,LaSalle,45.429711,-73.6338834,Lapierre / Serge,LaSalle,45.4385441,-73.6202163,1653344477174,1653345192107
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,45.53229,-73.57544,Marquette / Rachel,Le Plateau-Mont-Royal,45.529802,-73.57029,1653344482547,1653344701861
+du Parc-La Fontaine / Duluth,Le Plateau-Mont-Royal,45.524518,-73.571977,Drolet / Marie-Anne,Le Plateau-Mont-Royal,45.5224026,-73.5811767,1653344487260,1653345294699
+Messier / du Mont-Royal,Le Plateau-Mont-Royal,45.537114,-73.571003,Messier / du Mont-Royal,Le Plateau-Mont-Royal,45.537114,-73.571003,1653344487415,1653345768330
+Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,Waverly / St-Viateur,Le Plateau-Mont-Royal,45.523856,-73.600127,1653344487977,1653345576531
+Parc Olympique (Pie-IX / Sherbrooke),Mercier - Hochelaga-Maisonneuve,45.5548245,-73.5537028,Marie-Anne / de la Roche,Le Plateau-Mont-Royal,45.527758,-73.576185,1653344485037,1653345529972
+de la Gauchetière / Robert-Bourassa,Ville-Marie,45.500606,-73.565448,Young / Wellington,Le Sud-Ouest,45.492825,-73.557978,1653344495237,1653344735455
+Jean Langlois / Fullum,Ville-Marie,45.5265,-73.545753,Ste-Catherine / Labelle,Ville-Marie,45.515065,-73.55923,1653344497629,1653345623334
+Milton / du Parc,Le Plateau-Mont-Royal,45.509361,-73.573864,Milton / Clark,Le Plateau-Mont-Royal,45.512541,-73.570677,1653344494836,1653344595731
+Molson / Beaubien,Rosemont - La Petite-Patrie,45.549686,-73.591155,Louis-Hébert / Beaubien,Rosemont - La Petite-Patrie,45.548186,-73.59201,1653344495282,1653344689169
+Gare d'autocars de Montréal (Berri / Ontario),Ville-Marie,45.516897,-73.563949,du President-Kennedy / Union,Ville-Marie,45.505011,-73.572028,1653344493433,1653344868813
+2e avenue / Jean-Rivard,Villeray - Saint-Michel - Parc-Extension,45.562509,-73.61656,Lajeunesse / Villeray,Villeray - Saint-Michel - Parc-Extension,45.542119,-73.622547,1653344499378,1653345395380
+Métro Papineau (Cartier / Ste-Catherine),Ville-Marie,45.52353,-73.55199,St-Dominique / Rachel,Le Plateau-Mont-Royal,45.518593,-73.581566,1653344504187,1653346474229
+Métro Pie-IX (Pierre-de-Coubertin / de la Salle),Mercier - Hochelaga-Maisonneuve,45.5552411,-73.5508221,Marché Maisonneuve,Mercier - Hochelaga-Maisonneuve,45.553219,-73.539782,1653344504040,1653344883217
+de Kent / de la Côte-des-Neiges,Côte-des-Neiges - Notre-Dame-de-Grâce,45.501449,-73.633051,Jean-Brillant / de la Côte-des-Neiges,Côte-des-Neiges - Notre-Dame-de-Grâce,45.495415,-73.622341,1653344505439,1653345392155
+Parc riverain de Lachine (des Iroquois),Lachine,45.4305431,-73.6690244,Guy / Notre-Dame,Le Sud-Ouest,45.490042,-73.567111,1653344499551,1653347012361
+Maguire / Henri-Julien,Le Plateau-Mont-Royal,45.527041,-73.593471,Marquette / du Mont-Royal,Le Plateau-Mont-Royal,45.53229,-73.57544,1653344507615,1653344940182
+3e avenue / Holt,Rosemont - La Petite-Patrie,45.5480035,-73.5813899,de Bordeaux / Masson,Le Plateau-Mont-Royal,45.538984,-73.582445,1653344507106,1653344906132
+16e avenue / Jean-Talon,Villeray - Saint-Michel - Parc-Extension,45.56244,-73.595333,Guizot / St-Laurent,Villeray - Saint-Michel - Parc-Extension,45.539663,-73.634475,1653344508001,1653345659964
+Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,Waverly / St-Viateur,Le Plateau-Mont-Royal,45.523856,-73.600127,1653344507660,1653345572534
+Messier / du Mont-Royal,Le Plateau-Mont-Royal,45.537114,-73.571003,de Bullion / du Mont-Royal,Le Plateau-Mont-Royal,45.521751,-73.585268,1653344510556,1653345814954
+Earnscliffe / Queen-Mary,Côte-des-Neiges - Notre-Dame-de-Grâce,45.4818451,-73.6303738,Beaucourt / de la Côte-Ste-Catherine,Côte-des-Neiges - Notre-Dame-de-Grâce,45.491513,-73.633649,1653344510879,1653344867700
+Parc Jeanne-Mance (du Mont-Royal / du Parc),Le Plateau-Mont-Royal,45.517,-73.589,Gilford / de Brébeuf,Le Plateau-Mont-Royal,45.530816,-73.581626,1653344514254,1653344980720
+du Mont-Royal / Clark,Le Plateau-Mont-Royal,45.51941,-73.58685,Villeneuve / St-Laurent,Le Plateau-Mont-Royal,45.521342,-73.589419,1653344521489,1653344619200
+Parc riverain de Lachine (des Iroquois),Lachine,45.4305431,-73.6690244,Guy / Notre-Dame,Le Sud-Ouest,45.490042,-73.567111,1653344509931,1653347038710
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,45.53229,-73.57544,Marquette / Rachel,Le Plateau-Mont-Royal,45.529802,-73.57029,1653344514835,1653344706213
+des Seigneurs / Notre-Dame,Le Sud-Ouest,45.487723,-73.569083,Métro Lasalle (de Rushbrooke / Caisse),Verdun,45.470696,-73.565422,1653344516565,1653345334557
+des Seigneurs / Notre-Dame,Le Sud-Ouest,45.487723,-73.569083,Métro Lasalle (de Rushbrooke / Caisse),Verdun,45.470696,-73.565422,1653344518050,1653345333213
+Calixa-Lavallée / Sherbrooke,Le Plateau-Mont-Royal,45.52479,-73.56545,Atateken / du Square Amherst,Ville-Marie,45.5206338,-73.563906,1653344518976,1653344713449
+St-André / Robin,Ville-Marie,45.518128,-73.561851,St-Denis / René-Lévesque,Ville-Marie,45.512871,-73.558466,1653344522623,1653344750305
+Beaubien / 8e avenue,Rosemont - La Petite-Patrie,45.553457,-73.587842,Métro Joliette  (Joliette / Hochelaga),Mercier - Hochelaga-Maisonneuve,45.546907,-73.551557,1653344520532,1653345281276
+Parc Baldwin (Fullum / Sherbrooke),Le Plateau-Mont-Royal,45.5340705,-73.5626507,Émile-Duployé / Sherbrooke,Le Plateau-Mont-Royal,45.527201,-73.564729,1653344523882,1653344993008
+Métro Papineau (Cartier / Ste-Catherine),Ville-Marie,45.52353,-73.55199,St-Dominique / Rachel,Le Plateau-Mont-Royal,45.518593,-73.581566,1653344524666,1653346479256
+Métro Montmorency,Laval,45.558109,-73.719598,Parc St-Claude (7e avenue / 8e rue),Laval,45.562668,-73.692362,1653344517878,1653344962218
+Métro Mont-Royal (Rivard / du Mont-Royal),Le Plateau-Mont-Royal,45.524673,-73.58255,Marie-Anne / de la Roche,Le Plateau-Mont-Royal,45.527758,-73.576185,1653344524406,1653344801070
+de Kent / de la Côte-des-Neiges,Côte-des-Neiges - Notre-Dame-de-Grâce,45.501449,-73.633051,Jean-Brillant / de la Côte-des-Neiges,Côte-des-Neiges - Notre-Dame-de-Grâce,45.495415,-73.622341,1653344528984,1653345405720
+Berri / Rachel,Le Plateau-Mont-Royal,45.522719,-73.577204,Hutchison / Prince-Arthur,Le Plateau-Mont-Royal,45.509759,-73.576107,1653344526186,1653345334607
+Métro Monk (Allard / Beaulieu),Le Sud-Ouest,45.450851,-73.594027,Métro Verdun (Willibrord / de Verdun),Verdun,45.459488,-73.572092,1653344526066,1653345169119
+Boyer / Beaubien,Rosemont - La Petite-Patrie,45.537041,-73.602026,de Lanaudière / Bélanger,Rosemont - La Petite-Patrie,45.543651,-73.60565,1653344526006,1653344998641
+de la Côte St-Antoine / Royal,Côte-des-Neiges - Notre-Dame-de-Grâce,45.468927,-73.61987,de Maisonneuve / Greene,Westmount,45.486971,-73.589293,1653344532634,1653345993629
+St-Hubert / Laurier,Le Plateau-Mont-Royal,45.52931,-73.588657,Kirkfield / de Chambois,Côte-des-Neiges - Notre-Dame-de-Grâce,45.5129332,-73.6338902,1653344530784,1653345476722
+de Mentana / Laurier,Le Plateau-Mont-Royal,45.53045,-73.587638,Roy / St-Laurent,Le Plateau-Mont-Royal,45.515616,-73.575808,1653344530665,1653345542704
+des Bassins / du Séminaire,Ville-Marie,45.490452,-73.560172,Lucien L'Allier / St-Jacques,Ville-Marie,45.493569,-73.568576,1653344532092,1653344864321
+Milton / Clark,Le Plateau-Mont-Royal,45.512541,-73.570677,Clark / Prince-Arthur,Le Plateau-Mont-Royal,45.513303,-73.572961,1653344530807,1653344656138
+St-Dominique / Laurier,Le Plateau-Mont-Royal,45.5236149,-73.5924574,Métro Laurier (Bibaud / Rivard),Le Plateau-Mont-Royal,45.5278391,-73.5895747,1653344531284,1653344765405
+Rivard / Rachel,Le Plateau-Mont-Royal,45.522278,-73.577591,Calixa-Lavallée / Rachel,Le Plateau-Mont-Royal,45.527795,-73.571939,1653344536626,1653344775340
+Marmier / St-Denis,Rosemont - La Petite-Patrie,45.530871,-73.598345,Drolet / Laurier,Le Plateau-Mont-Royal,45.526252,-73.589758,1653344535152,1653344746988
+St-Charles / Thomas-Keefer,Le Sud-Ouest,45.477605,-73.573775,Place du Commerce,Verdun,45.46714,-73.54259,1653344527687,1653345308969
+Marmier / St-Denis,Rosemont - La Petite-Patrie,45.530871,-73.598345,Notre-Dame / Jean-d'Estrées,Ville-Marie,45.4942598,-73.5638181,1653344537069,1653345853814
+de St-Firmin / Fleury,Ahuntsic-Cartierville,45.570657,-73.651842,Fabre / St-Zotique,Rosemont - La Petite-Patrie,45.543452,-73.60101,1653344534883,1653346000965
+Place Rodolphe-Rousseau (Gohier / Édouard-Laurin),Saint-Laurent,45.5129939,-73.6824985,Parc Chamberland (Dorais / de l'Église),Saint-Laurent,45.502989,-73.689113,1653344531280,1653344955351
+Atwater / Greene,Le Sud-Ouest,45.480495,-73.577827,de la Côte St-Antoine / Argyle,Westmount,45.486241,-73.5957277,1653344538655,1653346925675
+2e avenue / Wellington,Verdun,45.457893,-73.567528,Shearer / Centre,Le Sud-Ouest,45.483006,-73.562187,1653344541612,1653345572616
+St-Mathieu / Sherbrooke,Ville-Marie,45.495789,-73.582596,St-Mathieu / Sherbrooke,Ville-Marie,45.495789,-73.582596,1653344540524,1653345687009
+Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,Waverly / St-Viateur,Le Plateau-Mont-Royal,45.523856,-73.600127,1653344546913,1653345568392
+Alexandre-DeSève / Ste-Catherine,Ville-Marie,45.52123,-73.553861,du Havre / de Rouen,Ville-Marie,45.534563,-73.554787,1653344547769,1653345226972
+Bélanger / St-Denis,Rosemont - La Petite-Patrie,45.53696,-73.61199,de Gaspé / Beaubien,Rosemont - La Petite-Patrie,45.5319579,-73.607001,1653344544486,1653344817952
+Métro Crémazie (Crémazie / Lajeunesse),Ahuntsic-Cartierville,45.546408,-73.638428,Complexe sportif Claude-Robillard,Ahuntsic-Cartierville,45.553262,-73.638615,1653344544679,1653344744952
+Joseph-Manseau / René-Lévesque,Ville-Marie,45.491687,-73.576767,William / Robert-Bourassa,Le Sud-Ouest,45.497165,-73.55933,1653344548758,1653345156138
+Métro Pie-IX (Pierre-de-Coubertin / de la Salle),Mercier - Hochelaga-Maisonneuve,45.5552411,-73.5508221,Marché Maisonneuve,Mercier - Hochelaga-Maisonneuve,45.553219,-73.539782,1653344546319,1653344874218
+City Councillors / du President-Kennedy,Ville-Marie,45.506251,-73.571391,Drummond / Ste-Catherine,Ville-Marie,45.498639,-73.574227,1653344547212,1653344895241
+Lajeunesse / de Liège,Villeray - Saint-Michel - Parc-Extension,45.5455805,-73.6349,Lajeunesse / de Liège,Villeray - Saint-Michel - Parc-Extension,45.5455805,-73.6349,1653344548079,1653344555386
+de Monkland / Girouard,Côte-des-Neiges - Notre-Dame-de-Grâce,45.477107,-73.621438,Parc de la Confédération (Fielding / West Hill),Côte-des-Neiges - Notre-Dame-de-Grâce,45.471882,-73.6400217,1653344548808,1653345018445
+Métro de l'Église (Ross / de l'Église),Verdun,45.462726,-73.565959,Gordon / Wellington,Verdun,45.461078,-73.567307,1653344550901,1653344620573
+Métro Parc  (Hutchison / Ogilvy),Villeray - Saint-Michel - Parc-Extension,45.5303513,-73.6243924,St-Zotique / Clark,Rosemont - La Petite-Patrie,45.531401,-73.612674,1653344558578,1653344891347
+St-Dominique / Laurier,Le Plateau-Mont-Royal,45.5236149,-73.5924574,Métro Laurier (Bibaud / Rivard),Le Plateau-Mont-Royal,45.5278391,-73.5895747,1653344560823,1653344766940
+Parc Olympique (Pie-IX / Sherbrooke),Mercier - Hochelaga-Maisonneuve,45.5548245,-73.5537028,Jeanne-d'Arc / Ontario,Mercier - Hochelaga-Maisonneuve,45.549598,-73.541874,1653344553048,1653344903716
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,45.53229,-73.57544,Marquette / Rachel,Le Plateau-Mont-Royal,45.529802,-73.57029,1653344559198,1653344700263
+Drolet / Laurier,Le Plateau-Mont-Royal,45.526252,-73.589758,Jeanne-Mance / St-Viateur,Le Plateau-Mont-Royal,45.523027,-73.60184,1653344564632,1653344974469
+Ann / Wellington,Le Sud-Ouest,45.4945271,-73.5567525,St-Charles / Thomas-Keefer,Le Sud-Ouest,45.477605,-73.573775,1653344564271,1653346119045
+Métro Villa-Maria (de Monkland / Décarie),Côte-des-Neiges - Notre-Dame-de-Grâce,45.4789684,-73.6195993,de Melrose / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,45.46982,-73.616961,1653344566580,1653344965386
+Marquette / Villeray,Villeray - Saint-Michel - Parc-Extension,45.550684,-73.615293,Métro Jean-Talon (Berri / Jean-Talon),Villeray - Saint-Michel - Parc-Extension,45.5390004,-73.614251,1653344567480,1653344871054
+Métro Villa-Maria (de Monkland / Décarie),Côte-des-Neiges - Notre-Dame-de-Grâce,45.4789684,-73.6195993,de Melrose / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,45.46982,-73.616961,1653344568300,1653344963051
+Gare d'autocars de Montréal (Berri / Ontario),Ville-Marie,45.516897,-73.563949,Smith / Peel,Le Sud-Ouest,-1.0,-1.0,1653344563385,1653345358850
+Georges-Vanier / Notre-Dame,Le Sud-Ouest,45.485048,-73.571963,Métro Lionel-Groulx (St-Jacques / Atwater),Le Sud-Ouest,45.4836285,-73.5797026,1653344572115,1653344775753
+Durocher / Sherbrooke,Le Plateau-Mont-Royal,45.5070762,-73.5722852,Lincoln / du Fort,Ville-Marie,45.493034,-73.583836,1653344576118,1653345110147
+Bishop / Ste-Catherine,Ville-Marie,45.496583,-73.576502,Sanguinet / de Maisonneuve,Ville-Marie,45.513405,-73.562594,1653344573814,1653345600134
+Métro Place-des-Arts (du Président-Kennedy / Jeanne-Mance),Ville-Marie,45.5082046,-73.5688144,du Champ-de-Mars / Gosford,Ville-Marie,45.509655,-73.554009,1653344576561,1653344981198
+Émile-Duployé / Sherbrooke,Le Plateau-Mont-Royal,45.527201,-73.564729,Calixa-Lavallée / Rachel,Le Plateau-Mont-Royal,45.527795,-73.571939,1653344577589,1653344782057
+du Mont-Royal / Clark,Le Plateau-Mont-Royal,45.51941,-73.58685,St-Hubert / Duluth,Le Plateau-Mont-Royal,45.522426,-73.574184,1653344584423,1653345130776
+Lajeunesse / de Liège,Villeray - Saint-Michel - Parc-Extension,45.5455805,-73.6349,Marquette / Villeray,Villeray - Saint-Michel - Parc-Extension,45.550684,-73.615293,1653344577693,1653345226964
+Clark / de Liège,Villeray - Saint-Michel - Parc-Extension,45.539984,-73.638135,BAnQ (Berri / de Maisonneuve),Ville-Marie,45.515299,-73.561273,1653344583148,1653346000322
+du Parc-La Fontaine / Roy,Le Plateau-Mont-Royal,45.522866,-73.568377,Calixa-Lavallée / Rachel,Le Plateau-Mont-Royal,45.527795,-73.571939,1653344579064,1653344734229
+la Fontaine / Alexandre-de-Sève,Ville-Marie,45.5233037,-73.5579997,Quai de la navette fluviale,Ville-Marie,45.513741,-73.538382,1653344579621,1653345841845
+Beaucourt / de la Côte-Ste-Catherine,Côte-des-Neiges - Notre-Dame-de-Grâce,45.491513,-73.633649,Paré / Mountain Sights,Côte-des-Neiges - Notre-Dame-de-Grâce,45.4981,-73.652942,1653344580128,1653345246478
+Ste-Famille / Sherbrooke,Le Plateau-Mont-Royal,45.510072,-73.570752,Métro Peel (de Maisonneuve / Stanley),Ville-Marie,45.50038,-73.57507,1653344589379,1653345049056
+Dézéry / Ontario,Mercier - Hochelaga-Maisonneuve,45.54111,-73.54755,Richmond / des Bassins,Le Sud-Ouest,45.4875216,-73.565003,1653344590797,1653346346045
+Earnscliffe / Queen-Mary,Côte-des-Neiges - Notre-Dame-de-Grâce,45.4818451,-73.6303738,Victoria Hall,Westmount,45.481291,-73.60033,1653344590936,1653345337748
+Émile-Duployé / Sherbrooke,Le Plateau-Mont-Royal,45.527201,-73.564729,Laurier / de Brébeuf,Le Plateau-Mont-Royal,45.532514,-73.584811,1653344597768,1653344991302
+Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,Melville / de Maisonneuve,Westmount,45.4818402,-73.595379,1653344596588,1653344890465
+Roy / St-André,Le Plateau-Mont-Royal,45.521564,-73.570367,Clark / Prince-Arthur,Le Plateau-Mont-Royal,45.513303,-73.572961,1653344599085,1653345142432
+Young / Wellington,Le Sud-Ouest,45.492825,-73.557978,de la Commune / Place Jacques-Cartier,Ville-Marie,45.50761,-73.551836,1653344597011,1653345284125
+de la Côte St-Antoine / Argyle,Westmount,45.486241,-73.5957277,de la Côte St-Antoine / Argyle,Westmount,45.486241,-73.5957277,1653344600516,1653345729398
+William / St-Henri,Ville-Marie,45.498919,-73.557254,William / Robert-Bourassa,Le Sud-Ouest,45.497165,-73.55933,1653344601141,1653344851536
+St-Mathieu / Ste-Catherine,Ville-Marie,45.49368,-73.579146,Crescent / de Maisonneuve,Ville-Marie,45.498112,-73.577615,1653344602306,1653344844750
+Laval / du Mont-Royal,Le Plateau-Mont-Royal,45.522365,-73.584146,Drummond / Sherbrooke,Ville-Marie,45.5003924,-73.578168,1653344605592,1653345809239
+Michelet / Jean-Talon,Saint-Léonard,45.5762911,-73.583529,Rosemont / Viau,Rosemont - La Petite-Patrie,45.56833,-73.566663,1653344599338,1653351150114
+Desjardins / Ontario,Mercier - Hochelaga-Maisonneuve,45.551192,-73.540873,Bennett / Adam,Mercier - Hochelaga-Maisonneuve,45.5536514,-73.5341495,1653344606829,1653344832119
+2e avenue / Jean-Rivard,Villeray - Saint-Michel - Parc-Extension,45.562509,-73.61656,Lajeunesse / Villeray,Villeray - Saint-Michel - Parc-Extension,45.542119,-73.622547,1653344606869,1653345392402
+Grand Boulevard / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,45.466569,-73.623295,Victoria / de Maisonneuve,Westmount,45.477429,-73.600169,1653344610081,1653345245917
+Boucher / St-Denis,Le Plateau-Mont-Royal,45.5278492,-73.5918613,Métro Beaubien (de Chateaubriand / Beaubien),Rosemont - La Petite-Patrie,45.53536,-73.603635,1653344612621,1653345213230
+Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,Melville / de Maisonneuve,Westmount,45.4818402,-73.595379,1653344612583,1653344890175
+de Lanaudière / du Mont-Royal,Le Plateau-Mont-Royal,45.5302211,-73.5769965,Marquette / du Mont-Royal,Le Plateau-Mont-Royal,45.53229,-73.57544,1653344611461,1653344680380
+Métro Mont-Royal (Rivard / du Mont-Royal),Le Plateau-Mont-Royal,45.524673,-73.58255,Marie-Anne / Papineau,Le Plateau-Mont-Royal,45.5317737,-73.5724462,1653344612233,1653345516070
+St-Mathieu / Ste-Catherine,Ville-Marie,45.49368,-73.579146,St-Catherine / St-Laurent,Ville-Marie,45.5099315,-73.5638067,1653344616278,1653345877029
+Louis-Hébert / Beaubien,Rosemont - La Petite-Patrie,45.548186,-73.59201,Métro Beaubien (de Chateaubriand / Beaubien),Rosemont - La Petite-Patrie,45.53536,-73.603635,1653344618197,1653344999599
+Richardson / de Montmorency,Le Sud-Ouest,45.48498,-73.560333,Richmond / des Bassins,Le Sud-Ouest,45.4875216,-73.565003,1653344622266,1653344887754
+Queen / Wellington,Ville-Marie,45.497605,-73.55535,Métro Guy-Concordia (Guy / St-Catherine),Ville-Marie,45.495045,-73.57783,1653344621397,1653345922738
+Beaucourt / de la Côte-Ste-Catherine,Côte-des-Neiges - Notre-Dame-de-Grâce,45.491513,-73.633649,Paré / Mountain Sights,Côte-des-Neiges - Notre-Dame-de-Grâce,45.4981,-73.652942,1653344622204,1653345215572
+Bishop / Ste-Catherine,Ville-Marie,45.496583,-73.576502,Sanguinet / de Maisonneuve,Ville-Marie,45.513405,-73.562594,1653344622270,1653345580521
+St-Alexandre / Ste-Catherine,Ville-Marie,45.505359,-73.567741,de Maisonneuve / Greene,Westmount,45.486971,-73.589293,1653344622307,1653345615772
+Duluth / St-Laurent,Le Plateau-Mont-Royal,45.516876,-73.57946,Villeneuve / St-Laurent,Le Plateau-Mont-Royal,45.521342,-73.589419,1653344623503,1653344930174
+Pontiac / Gilford,Le Plateau-Mont-Royal,45.527009,-73.585766,Parc du Pélican (1ère avenue / Masson),Rosemont - La Petite-Patrie,45.5451997,-73.5764507,1653344631273,1653345150026
+de l'Eglise / St-Germain,Saint-Laurent,45.512559,-73.677011,Alfred Laliberté / de Poutrincourt,Ahuntsic-Cartierville,45.53308,-73.694597,1653344633098,1653346369631
+St-Mathieu / Sherbrooke,Ville-Marie,45.495789,-73.582596,St-Mathieu / Sherbrooke,Ville-Marie,45.495789,-73.582596,1653344627247,1653345707192
+Parc Maisonneuve (Viau / Sherbrooke),Rosemont - La Petite-Patrie,45.5649368,-73.5555911,35e avenue / Beaubien,Rosemont - La Petite-Patrie,45.570081,-73.573047,1653344629435,1653345120996
+16e avenue / Beaubien,Rosemont - La Petite-Patrie,45.558281,-73.583159,1ère avenue / Rosemont,Rosemont - La Petite-Patrie,45.5478,-73.584867,1653344642541,1653345130442
+St-Charles / Thomas-Keefer,Le Sud-Ouest,45.477605,-73.573775,St-Charles / Thomas-Keefer,Le Sud-Ouest,45.477605,-73.573775,1653344624101,1653344649815
+St-Catherine / St-Laurent,Ville-Marie,45.5099315,-73.5638067,Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,1653344631761,1653345263332
+Michelet / Jean-Talon,Saint-Léonard,45.5762911,-73.583529,Rosemont / Viau,Rosemont - La Petite-Patrie,45.56833,-73.566663,1653344625559,1653351167575
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,45.53229,-73.57544,Marquette / Rachel,Le Plateau-Mont-Royal,45.529802,-73.57029,1653344631834,1653344781602
+BAnQ (Berri / de Maisonneuve),Ville-Marie,45.515299,-73.561273,Boucher / St-Denis,Le Plateau-Mont-Royal,45.5278492,-73.5918613,1653344635337,1653345618834
+Métro Verdun (Willibrord / de Verdun),Verdun,45.459488,-73.572092,Dubois / Eadie,Le Sud-Ouest,45.457597,-73.590529,1653344636389,1653345078542
+Pontiac / Gilford,Le Plateau-Mont-Royal,45.527009,-73.585766,Parc du Pélican (1ère avenue / Masson),Rosemont - La Petite-Patrie,45.5451997,-73.5764507,1653344641393,1653345147514
+Laurier / de Brébeuf,Le Plateau-Mont-Royal,45.532514,-73.584811,St-Dominique / St-Zotique,Rosemont - La Petite-Patrie,45.532265,-73.611063,1653344635608,1653345609821
+Métro Verdun (Willibrord / de Verdun),Verdun,45.459488,-73.572092,Natatorium (LaSalle / Rolland),Verdun,45.444547,-73.575091,1653344638234,1653345297250
+Querbes / Laurier,Outremont,45.51754,-73.597832,CCI Outremont (Dollard / Durcharme),Outremont,45.5200191,-73.6189073,1653344640528,1653345160368
+Fullum / Ontario,Ville-Marie,45.5303174,-73.5548669,Parthenais / Ste-Catherine,Ville-Marie,45.526006,-73.548864,1653344633423,1653345368797
+St-Charles / Thomas-Keefer,Le Sud-Ouest,45.477605,-73.573775,St-Charles / Thomas-Keefer,Le Sud-Ouest,45.477605,-73.573775,1653344633734,1653344707097
+Young / Wellington,Le Sud-Ouest,45.492825,-73.557978,de la Commune / Place Jacques-Cartier,Ville-Marie,45.50761,-73.551836,1653344640346,1653345271684
+Fullum / Ontario,Ville-Marie,45.5303174,-73.5548669,Parthenais / Ste-Catherine,Ville-Marie,45.526006,-73.548864,1653344636996,1653345329936
+Ste-Catherine / Labelle,Ville-Marie,45.515065,-73.55923,St-André / St-Antoine,Ville-Marie,45.514114,-73.552645,1653344642744,1653345057484
+Marie-Anne / de la Roche,Le Plateau-Mont-Royal,45.527758,-73.576185,Gilford / St-Denis,Le Plateau-Mont-Royal,45.5251147,-73.586006,1653344645658,1653344961024
+35e avenue / Beaubien,Rosemont - La Petite-Patrie,45.570081,-73.573047,Boyer / Beaubien,Rosemont - La Petite-Patrie,45.537041,-73.602026,1653344646066,1653345715591
+Boyer / Bélanger,Rosemont - La Petite-Patrie,45.54006,-73.60897,Métro Jarry (Lajeunesse / Jarry),Villeray - Saint-Michel - Parc-Extension,45.5435597,-73.627772,1653344650074,1653345191497
+Métro Fabre (Marquette / Jean-Talon),Villeray - Saint-Michel - Parc-Extension,45.5474078,-73.6076689,CHSLD St-Michel (8e avenue / Jarry),Villeray - Saint-Michel - Parc-Extension,45.5616903,-73.610512,1653344648697,1653345328143
+Laval / du Mont-Royal,Le Plateau-Mont-Royal,45.522365,-73.584146,Prince-Arthur / du Parc,Le Plateau-Mont-Royal,45.51059,-73.57547,1653344648281,1653345376627
+Augustin-Cantin / Shearer,Le Sud-Ouest,45.484018,-73.563437,Augustin-Cantin / Shearer,Le Sud-Ouest,45.484018,-73.563437,1653344650468,1653346846824
+Chomedey / de Maisonneuve,Ville-Marie,45.4918,-73.584006,McTavish / Sherbrooke,Ville-Marie,45.502813,-73.576024,1653344648033,1653345261576
+Crescent / de Maisonneuve,Ville-Marie,45.498112,-73.577615,de Maisonneuve / Greene,Westmount,45.486971,-73.589293,1653344650435,1653345335251
+Rivard / Rachel,Le Plateau-Mont-Royal,45.522278,-73.577591,de Mentana / Gilford,Le Plateau-Mont-Royal,45.528724,-73.583859,1653344652789,1653344937294
+Notre-Dame / de la Montagne,Ville-Marie,45.493029,-73.564818,La Ronde,Ville-Marie,45.521565,-73.535332,1653344654739,1653346359338
+Henri-Julien / de Bellechasse,Rosemont - La Petite-Patrie,45.5295036,-73.6048646,Bernard / St-Urbain,Le Plateau-Mont-Royal,45.526267,-73.603191,1653344654061,1653344877912
+Aylmer / Prince-Arthur,Le Plateau-Mont-Royal,45.508567,-73.577698,de Maisonneuve / Mansfield (nord),Ville-Marie,45.502311,-73.5733635,1653344663469,1653344970690
+Métro Peel (de Maisonneuve / Stanley),Ville-Marie,45.50038,-73.57507,de la Commune / St-Sulpice,Ville-Marie,45.504242,-73.55347,1653344660494,1653346045088
+Marcil / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,45.471743,-73.613924,Rivard / Rachel,Le Plateau-Mont-Royal,45.522278,-73.577591,1653344663605,1653347477095
+Chomedey / de Maisonneuve,Ville-Marie,45.4918,-73.584006,McTavish / Sherbrooke,Ville-Marie,45.502813,-73.576024,1653344659276,1653345264445
+Métro Peel (de Maisonneuve / Stanley),Ville-Marie,45.50038,-73.57507,Union / Ste-Catherine,Ville-Marie,45.5040272,-73.5697022,1653344661114,1653345151906
+Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,Calixa-Lavallée / Rachel,Le Plateau-Mont-Royal,45.527795,-73.571939,1653344663208,1653345558879
+Fortune / Wellington,Le Sud-Ouest,45.477923,-73.559038,Jacques-Le Ber / de la Pointe Nord,Verdun,45.472503,-73.539285,1653344664685,1653345320283
+Earnscliffe / Queen-Mary,Côte-des-Neiges - Notre-Dame-de-Grâce,45.4818451,-73.6303738,Victoria Hall,Westmount,45.481291,-73.60033,1653344665487,1653345340612
+Chabot / Beaubien,Rosemont - La Petite-Patrie,45.544376,-73.595645,Parc Père-Marquette (de Lanaudière / de Bellechasse),Rosemont - La Petite-Patrie,45.539324,-73.5958784,1653344667162,1653344876880
+St-Catherine / St-Laurent,Ville-Marie,45.5099315,-73.5638067,Métro Beaudry (Montcalm / de Maisonneuve),Ville-Marie,45.519132,-73.5578897,1653344668106,1653345024176
+d'Orléans / Masson,Rosemont - La Petite-Patrie,45.557192,-73.569847,Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,1653344668700,1653347634057
+Durocher / Sherbrooke,Le Plateau-Mont-Royal,45.5070762,-73.5722852,St-Dominique / Bernard,Le Plateau-Mont-Royal,45.527933,-73.601223,1653344671912,1653345613660
+Notre-Dame / de la Montagne,Ville-Marie,45.493029,-73.564818,de l'Hôtel-de-Ville / Ontario,Ville-Marie,45.5135916,-73.5662556,1653344670581,1653345752322
+St-Mathieu / Ste-Catherine,Ville-Marie,45.49368,-73.579146,St-Catherine / St-Laurent,Ville-Marie,45.5099315,-73.5638067,1653344674210,1653345904967
+Métro Peel (de Maisonneuve / Stanley),Ville-Marie,45.50038,-73.57507,Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,1653344672146,1653345620895
+Métro Peel (de Maisonneuve / Stanley),Ville-Marie,45.50038,-73.57507,St-Antoine / de la Montagne,Ville-Marie,45.4953717,-73.5685891,1653344672370,1653345133797
+Métro Peel (de Maisonneuve / Stanley),Ville-Marie,45.50038,-73.57507,Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,1653344672555,1653345647773
+Ste-Émilie / Sir-Georges-Etienne-Cartier,Le Sud-Ouest,45.472668,-73.58539,St-Charles / Thomas-Keefer,Le Sud-Ouest,45.477605,-73.573775,1653344673999,1653345548344
+Métro Mont-Royal (Rivard / du Mont-Royal),Le Plateau-Mont-Royal,45.524673,-73.58255,Prince-Arthur / St-Urbain,Le Plateau-Mont-Royal,45.512587,-73.573739,1653344673117,1653345229095
+Duluth / St-Laurent,Le Plateau-Mont-Royal,45.516876,-73.57946,Villeneuve / St-Laurent,Le Plateau-Mont-Royal,45.521342,-73.589419,1653344678638,1653344932146
+Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,Métro Jolicoeur (de Sève / Drake),Le Sud-Ouest,45.4560855,-73.5819371,1653344686053,1653348094668
+Drummond / de Maisonneuve,Ville-Marie,45.49947,-73.57591,William / St-Henri,Ville-Marie,45.498919,-73.557254,1653344687532,1653345434206
+Métro Papineau (Cartier / Ste-Catherine),Ville-Marie,45.52353,-73.55199,Fullum / Ontario,Ville-Marie,45.5303174,-73.5548669,1653344681722,1653345408030
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,45.53229,-73.57544,Marquette / Rachel,Le Plateau-Mont-Royal,45.529802,-73.57029,1653344685228,1653344780915
+de Rouen / Lespérance,Ville-Marie,45.5386271,-73.5528392,Métro Préfontaine (Moreau / Hochelaga),Mercier - Hochelaga-Maisonneuve,45.54178,-73.555714,1653344688725,1653344794195
+Peel / Ottawa,Le Sud-Ouest,45.4941996,-73.5599846,Richmond / des Bassins,Le Sud-Ouest,45.4875216,-73.565003,1653344686750,1653345030700
+Marcil / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,45.471743,-73.613924,Rivard / Rachel,Le Plateau-Mont-Royal,45.522278,-73.577591,1653344691973,1653347475223
+Métro Jean-Talon (Berri / Jean-Talon),Villeray - Saint-Michel - Parc-Extension,45.5390004,-73.614251,Louis-Hémon / Rosemont,Rosemont - La Petite-Patrie,45.544599,-73.588223,1653344689671,1653345505547
+des Érables / Rachel,Le Plateau-Mont-Royal,45.533547,-73.566867,Fullum / Terrasse Mercure,Le Plateau-Mont-Royal,45.5354834,-73.5659391,1653344688906,1653344783473
+Boyer / Bélanger,Rosemont - La Petite-Patrie,45.54006,-73.60897,St-Alexandre / Ste-Catherine,Ville-Marie,45.505359,-73.567741,1653344690947,1653346086721
+Métro Place-des-Arts (du Président-Kennedy / Jeanne-Mance),Ville-Marie,45.5082046,-73.5688144,St-Hubert / Duluth,Le Plateau-Mont-Royal,45.522426,-73.574184,1653344690910,1653346617583
+St-Urbain / de la Gauchetière,Ville-Marie,45.507078,-73.561395,Milton / Clark,Le Plateau-Mont-Royal,45.512541,-73.570677,1653344693862,1653345249557
+du Rosaire / St-Hubert,Villeray - Saint-Michel - Parc-Extension,45.544819,-73.62151,Leman / de Chateaubriand,Villeray - Saint-Michel - Parc-Extension,45.547218,-73.631103,1653344699320,1653344977625
+41e avenue / Rosemont,Rosemont - La Petite-Patrie,45.57179,-73.564315,St-Catherine / St-Laurent,Ville-Marie,45.5099315,-73.5638067,1653344696456,1653346446794
+Waverly / Van Horne,Le Plateau-Mont-Royal,45.527363,-73.607723,Calixa-Lavallée / Rachel,Le Plateau-Mont-Royal,45.527795,-73.571939,1653344699834,1653345856241
+de Brébeuf / du Mont-Royal,Le Plateau-Mont-Royal,45.529408,-73.578154,Boyer / Bélanger,Rosemont - La Petite-Patrie,45.54006,-73.60897,1653344700565,1653345525511
+10e avenue / Masson,Rosemont - La Petite-Patrie,45.550306,-73.573353,Ernest-Gendreau / du Mont-Royal,Rosemont - La Petite-Patrie,45.549714,-73.563848,1653344704030,1653344866510
+Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,Métro Lionel-Groulx (St-Jacques / Atwater),Le Sud-Ouest,45.4836285,-73.5797026,1653344707354,1653345026447
+Villeneuve / St-Laurent,Le Plateau-Mont-Royal,45.521342,-73.589419,Métro Peel (de Maisonneuve / Stanley),Ville-Marie,45.50038,-73.57507,1653344707387,1653345609846
+Métro Crémazie (Crémazie / Lajeunesse),Ahuntsic-Cartierville,45.546408,-73.638428,Métro Crémazie (Crémazie / Lajeunesse),Ahuntsic-Cartierville,45.546408,-73.638428,1653344709854,1653344826357
+Parc du Pélican (1ère avenue / Masson),Rosemont - La Petite-Patrie,45.5451997,-73.5764507,St-Urbain / Beaubien,Rosemont - La Petite-Patrie,45.52951,-73.61068,1653344709795,1653345724545
+Métro Jolicoeur (de Sève / Drake),Le Sud-Ouest,45.4560855,-73.5819371,Beurling / Godin,Verdun,45.4479158,-73.5838187,1653344715309,1653345082379
+de Chateaubriand / Jarry,Villeray - Saint-Michel - Parc-Extension,45.545955,-73.626992,de Brébeuf / du Mont-Royal,Le Plateau-Mont-Royal,45.529408,-73.578154,1653344711942,1653345696063
+des Érables / Rachel,Le Plateau-Mont-Royal,45.533547,-73.566867,Parc Père-Marquette (de Lanaudière / de Bellechasse),Rosemont - La Petite-Patrie,45.539324,-73.5958784,1653344717223,1653345690453
+Dollard / Van Horne,Outremont,45.519153,-73.616469,Bloomfield / Bernard,Outremont,45.520688,-73.608428,1653344718133,1653344921332
+des Ormeaux / Notre-Dame,Mercier - Hochelaga-Maisonneuve,45.5992655,-73.5122607,Letourneux / Ste-Catherine,Mercier - Hochelaga-Maisonneuve,45.5507836,-73.5341,1653344718924,1653346714069
+Drolet / Laurier,Le Plateau-Mont-Royal,45.526252,-73.589758,Duluth /St-Denis,Le Plateau-Mont-Royal,45.5205975,-73.5759705,1653344721312,1653345128535
+Milton / Clark,Le Plateau-Mont-Royal,45.512541,-73.570677,de la Cathédrale / René-Lévesque,Ville-Marie,45.499191,-73.569421,1653344722730,1653345536992
+de la Commune / Berri,Ville-Marie,45.51086,-73.54983,BAnQ (Berri / de Maisonneuve),Ville-Marie,45.515299,-73.561273,1653344731328,1653345201588
+de la Commune / Berri,Ville-Marie,45.51086,-73.54983,St-André / Cherrier,Le Plateau-Mont-Royal,45.520524,-73.567697,1653344726596,1653345384204
+Métro Place-des-Arts (du Président-Kennedy / Jeanne-Mance),Ville-Marie,45.5082046,-73.5688144,St-Hubert / Duluth,Le Plateau-Mont-Royal,45.522426,-73.574184,1653344725221,1653346619339
+de la Cathédrale / René-Lévesque,Ville-Marie,45.499191,-73.569421,Ste-Émilie / St-Rémi,Le Sud-Ouest,45.4697664,-73.5892588,1653344729161,1653346898243
+Mozart / St-Laurent,Rosemont - La Petite-Patrie,45.53318,-73.61544,Parc Kent (de Kent / Hudson),Côte-des-Neiges - Notre-Dame-de-Grâce,45.505721,-73.629459,1653344727302,1653345549056
+Parc du Pélican (1ère avenue / Masson),Rosemont - La Petite-Patrie,45.5451997,-73.5764507,St-Urbain / Beaubien,Rosemont - La Petite-Patrie,45.52951,-73.61068,1653344737880,1653345709614
+Drolet / Laurier,Le Plateau-Mont-Royal,45.526252,-73.589758,Duluth /St-Denis,Le Plateau-Mont-Royal,45.5205975,-73.5759705,1653344730818,1653345125325
+Duvernay / Charlevoix,Le Sud-Ouest,45.482098,-73.574876,St-Jacques / McGill,Ville-Marie,45.501441,-73.560144,1653344733356,1653345739431
+de la Montagne/ Sherbrooke,Ville-Marie,45.4997438,-73.5789384,William / Robert-Bourassa,Le Sud-Ouest,45.497165,-73.55933,1653344732492,1653345415332
+Marché Atwater,Le Sud-Ouest,45.480208,-73.577599,Notre-Dame-de-Grâce / Westmount,Westmount,45.4804701,-73.6112161,1653344736563,1653346660342
+Métro St-Laurent (de Maisonneuve / St-Laurent),Ville-Marie,45.51066,-73.56497,de la Roche / Bélanger,Rosemont - La Petite-Patrie,45.54167,-73.607604,1653344737377,1653345846641
+Parc Père-Marquette (Chambord / Rosemont),Rosemont - La Petite-Patrie,45.537088,-73.593219,Boyer / du Mont-Royal,Le Plateau-Mont-Royal,45.527432,-73.579917,1653344745925,1653345135786
+Parc du Pélican (2e avenue / St-Joseph),Rosemont - La Petite-Patrie,45.544513,-73.571564,Jeanne-d'Arc / Ontario,Mercier - Hochelaga-Maisonneuve,45.549598,-73.541874,1653344744740,1653345701890
+Gilford / de Lanaudière,Le Plateau-Mont-Royal,45.532008,-73.580444,1ère  avenue / St-Zotique,Rosemont - La Petite-Patrie,45.551937,-73.593928,1653344744218,1653345957113
+Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,St-Jacques / McGill,Ville-Marie,45.501441,-73.560144,1653344744865,1653345978764
+Métro Charlevoix (Centre / Charlevoix),Le Sud-Ouest,45.478228,-73.569651,Richardson / de Montmorency,Le Sud-Ouest,45.48498,-73.560333,1653344752493,1653345099883
+Cartier / St-Joseph,Le Plateau-Mont-Royal,45.535828,-73.57869,Pontiac / Gilford,Le Plateau-Mont-Royal,45.527009,-73.585766,1653344745652,1653345027847
+Gare d'autocars de Montréal (Berri / Ontario),Ville-Marie,45.516897,-73.563949,Beaudry / Ontario,Ville-Marie,45.5214582,-73.5620499,1653344743694,1653344924262
+Marché Atwater,Le Sud-Ouest,45.480208,-73.577599,Notre-Dame-de-Grâce / Westmount,Westmount,45.4804701,-73.6112161,1653344749050,1653346656099
+Hutchison/ Van Horne,Le Plateau-Mont-Royal,45.5249771,-73.6106864,St-Hubert / Laurier,Le Plateau-Mont-Royal,45.52931,-73.588657,1653344752002,1653345766285
+Fullum / Marie-Anne,Le Plateau-Mont-Royal,45.5365054,-73.5680392,Marquette / des Carrières,Rosemont - La Petite-Patrie,45.538799,-73.5887,1653344753388,1653345505560
+Ste-Catherine / St-Marc,Ville-Marie,45.492897,-73.580294,Drummond / de Maisonneuve,Ville-Marie,45.49947,-73.57591,1653344758281,1653345261940
+Tolhurst / Fleury,Ahuntsic-Cartierville,45.544149,-73.66752,Métro Henri-Bourassa (Henri-Bourassa / Millen),Ahuntsic-Cartierville,45.556751,-73.667162,1653344754390,1653345214189
+Hutchison/ Van Horne,Le Plateau-Mont-Royal,45.5249771,-73.6106864,St-Hubert / Laurier,Le Plateau-Mont-Royal,45.52931,-73.588657,1653344754851,1653345761108
+Guilbault / Clark,Le Plateau-Mont-Royal,45.514108,-73.57523,Hillside / Ste-Catherine,Westmount,45.482826,-73.590843,1653344761048,1653346160823
+Parc du Pélican (1ère avenue / Masson),Rosemont - La Petite-Patrie,45.5451997,-73.5764507,du Havre / de Rouen,Ville-Marie,45.534563,-73.554787,1653344762101,1653345237039
+Hutchison/ Van Horne,Le Plateau-Mont-Royal,45.5249771,-73.6106864,St-Hubert / Laurier,Le Plateau-Mont-Royal,45.52931,-73.588657,1653344757416,1653345763606
+Métro Beaubien (de Chateaubriand / Beaubien),Rosemont - La Petite-Patrie,45.53536,-73.603635,Molson / Beaubien,Rosemont - La Petite-Patrie,45.549686,-73.591155,1653344759892,1653345067147
+Durocher / St-Viateur,Outremont,45.5207958,-73.6032707,du Parc-Lafontaine / Rachel,Le Plateau-Mont-Royal,45.5254742,-73.5743251,1653344761223,1653345441484
+Bloomfield / Ball,Villeray - Saint-Michel - Parc-Extension,45.5299594,-73.632946,Bloomfield / Ball,Villeray - Saint-Michel - Parc-Extension,45.5299594,-73.632946,1653344765708,1653344769800
+Boyer / St-Zotique,Rosemont - La Petite-Patrie,45.53848,-73.60556,de Normanville / Villeray,Villeray - Saint-Michel - Parc-Extension,45.54717,-73.618041,1653344765189,1653345161871
+St-André / Ontario,Ville-Marie,45.51889,-73.56353,de la Commune / Berri,Ville-Marie,45.51086,-73.54983,1653344773561,1653345265614
+Messier / du Mont-Royal,Le Plateau-Mont-Royal,45.537114,-73.571003,Pontiac / Gilford,Le Plateau-Mont-Royal,45.527009,-73.585766,1653344771082,1653345685384
+St-Charles / Thomas-Keefer,Le Sud-Ouest,45.477605,-73.573775,Villeneuve / St-Urbain,Le Plateau-Mont-Royal,45.520188,-73.590559,1653344768300,1653347467780
+26e avenue / Beaubien,Rosemont - La Petite-Patrie,45.564944,-73.577639,Villeneuve / de l'Hôtel-de-Ville,Le Plateau-Mont-Royal,45.523544,-73.587332,1653344775936,1653346100817
+Beaudry / Sherbrooke,Ville-Marie,45.523035,-73.565395,Parthenais / du Mont-Royal,Le Plateau-Mont-Royal,45.536346,-73.57131,1653344778485,1653345681870
+Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,Calixa-Lavallée / Rachel,Le Plateau-Mont-Royal,45.527795,-73.571939,1653344778472,1653345563111
+St-Jacques / St-Laurent,Ville-Marie,45.506421,-73.556466,Milton / Durocher,Le Plateau-Mont-Royal,45.508141,-73.57493,1653344777169,1653345816135
+St-Charles / Thomas-Keefer,Le Sud-Ouest,45.477605,-73.573775,Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,1653344773648,1653345746191
+Cartier / St-Joseph,Le Plateau-Mont-Royal,45.535828,-73.57869,Laurier / de Brébeuf,Le Plateau-Mont-Royal,45.532514,-73.584811,1653344779839,1653344950288
+Casgrain / Maguire,Le Plateau-Mont-Royal,45.525933,-73.595253,Gilford / de Brébeuf,Le Plateau-Mont-Royal,45.530816,-73.581626,1653344783436,1653345278054
+du Mont-Royal / Clark,Le Plateau-Mont-Royal,45.51941,-73.58685,Bernard / St-Urbain,Le Plateau-Mont-Royal,45.526267,-73.603191,1653344790983,1653345368929
+Bloomfield / Ball,Villeray - Saint-Michel - Parc-Extension,45.5299594,-73.632946,Métro Parc  (Hutchison / Ogilvy),Villeray - Saint-Michel - Parc-Extension,45.5303513,-73.6243924,1653344782200,1653345056216
+Roy / St-Laurent,Le Plateau-Mont-Royal,45.515616,-73.575808,de Gaspé / Villeray,Villeray - Saint-Michel - Parc-Extension,45.5388872,-73.623907,1653344783679,1653345627175
+Valois / Ste-Catherine,Mercier - Hochelaga-Maisonneuve,45.54523,-73.53725,Calixa-Lavallée / Sherbrooke,Le Plateau-Mont-Royal,45.52479,-73.56545,1653344784063,1653345852917
+Centre ÉPIC (St-Zotique / 40e avenue),Rosemont - La Petite-Patrie,45.574147,-73.574621,Parc Maisonneuve (Viau / Sherbrooke),Rosemont - La Petite-Patrie,45.5649368,-73.5555911,1653344785177,1653345315275
+du President-Kennedy / Union,Ville-Marie,45.505011,-73.572028,Bassin olympique (Chemin du Chenal le Moyne),Ville-Marie,45.5169025,-73.5272455,1653344787219,1653346643849
+Boyer / du Mont-Royal,Le Plateau-Mont-Royal,45.527432,-73.579917,St-Urbain / Beaubien,Rosemont - La Petite-Patrie,45.52951,-73.61068,1653344784852,1653345622273
+William / Robert-Bourassa,Le Sud-Ouest,45.497165,-73.55933,St-Joseph / 8e avenue Lachine,Lachine,45.43155,-73.67112,1653344788299,1653354072110
+Chabot / de Bellechasse,Rosemont - La Petite-Patrie,45.54257,-73.592144,3e avenue / Holt,Rosemont - La Petite-Patrie,45.5480035,-73.5813899,1653344792419,1653345113974
+Mansfield / Ste-Catherine,Ville-Marie,45.5013987,-73.5717863,Boucher / St-Denis,Le Plateau-Mont-Royal,45.5278492,-73.5918613,1653344794261,1653346339516
+Richmond / des Bassins,Le Sud-Ouest,45.4875216,-73.565003,Crescent / René-Lévesque,Ville-Marie,45.4959617,-73.5732535,1653344789839,1653345245256
+Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,Lincoln / du Fort,Ville-Marie,45.493034,-73.583836,1653344796284,1653345003733
+St-Jacques / McGill,Ville-Marie,45.501441,-73.560144,des Récollets / McGill,Ville-Marie,45.5008765,-73.5590056,1653344791480,1653347428247
+St-Jacques / St-Laurent,Ville-Marie,45.506421,-73.556466,de Maisonneuve / Aylmer (est),Ville-Marie,45.505386,-73.570432,1653344798077,1653345532764
+Dézéry / Ontario,Mercier - Hochelaga-Maisonneuve,45.54111,-73.54755,Bennett / Adam,Mercier - Hochelaga-Maisonneuve,45.5536514,-73.5341495,1653344795328,1653345230388
+Hutchison/ Van Horne,Le Plateau-Mont-Royal,45.5249771,-73.6106864,St-Hubert / Laurier,Le Plateau-Mont-Royal,45.52931,-73.588657,1653344796676,1653345928854
+Alexandra / Jean-Talon,Rosemont - La Petite-Patrie,45.532331,-73.620187,Hutchison / Beaubien,Rosemont - La Petite-Patrie,45.526058,-73.612969,1653344798085,1653345250139
+de Castelnau / Lajeunesse,Villeray - Saint-Michel - Parc-Extension,45.5403962,-73.6168179,Métro de Castelnau (de Castelnau / St-Laurent),Villeray - Saint-Michel - Parc-Extension,45.5357088,-73.6196235,1653344799048,1653345037762
+Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,St-Jacques / McGill,Ville-Marie,45.501441,-73.560144,1653344802447,1653345977932
+Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,Métro Lionel-Groulx (St-Jacques / Atwater),Le Sud-Ouest,45.4836285,-73.5797026,1653344798135,1653345037243
+St-Dominique / Rachel,Le Plateau-Mont-Royal,45.518593,-73.581566,Drolet / Laurier,Le Plateau-Mont-Royal,45.526252,-73.589758,1653344799697,1653345317720
+Métro Atwater (Atwater / Ste-Catherine),Ville-Marie,45.489476,-73.584566,St-Jacques / McGill,Ville-Marie,45.501441,-73.560144,1653344808486,1653345981635
+de Melrose / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,45.46982,-73.616961,Hillside / Ste-Catherine,Westmount,45.482826,-73.590843,1653344807490,1653345569321
+Métro Sherbrooke (de Rigaud / St-Denis),Le Plateau-Mont-Royal,45.5179989,-73.5681841,Laval / Duluth,Le Plateau-Mont-Royal,45.519216,-73.57718,1653344805152,1653345124671
+Prince-Arthur / St-Urbain,Le Plateau-Mont-Royal,45.512587,-73.573739,Vallières / St-Laurent,Le Plateau-Mont-Royal,45.518967,-73.583616,1653344806752,1653345116459
+Ropery / Augustin-Cantin,Le Sud-Ouest,45.480914,-73.56846,des Bassins / du Séminaire,Ville-Marie,45.490452,-73.560172,1653344811928,1653346139634
+de Maisonneuve / Mansfield (nord),Ville-Marie,45.502311,-73.5733635,du Parc-Lafontaine / Rachel,Le Plateau-Mont-Royal,45.5254742,-73.5743251,1653344807942,1653345934020
+La Ronde,Ville-Marie,45.521565,-73.535332,de Maisonneuve / Mansfield (nord),Ville-Marie,45.502311,-73.5733635,1653344817926,1653347743087
+St-Antoine / St-François-Xavier,Ville-Marie,45.504591,-73.559188,Ste-Famille / Sherbrooke,Le Plateau-Mont-Royal,45.510072,-73.570752,1653344810626,1653345713152
+Hutchison / des Pins,Le Plateau-Mont-Royal,45.51069,-73.57805,Duluth / de l'Esplanade,Le Plateau-Mont-Royal,45.515092,-73.581142,1653344815453,1653345087264
+Marie-Anne / de la Roche,Le Plateau-Mont-Royal,45.527758,-73.576185,Parthenais / du Mont-Royal,Le Plateau-Mont-Royal,45.536346,-73.57131,1653344816278,1653346756777
+Guilbault / Clark,Le Plateau-Mont-Royal,45.514108,-73.57523,de Bordeaux / Masson,Le Plateau-Mont-Royal,45.538984,-73.582445,1653344818478,1653346024940
+St-Dominique / St-Viateur,Le Plateau-Mont-Royal,45.526557,-73.598276,Boyer / Rosemont,Rosemont - La Petite-Patrie,45.534136,-73.595478,1653344817952,1653345519447
+Bloomfield / Ball,Villeray - Saint-Michel - Parc-Extension,45.5299594,-73.632946,des Érables / Laurier,Le Plateau-Mont-Royal,45.5384608,-73.5776791,1653344821976,1653346900942
+Louis-Hémon / Jean-Talon,Villeray - Saint-Michel - Parc-Extension,45.5517743,-73.6034784,Cartier / Bélanger,Rosemont - La Petite-Patrie,45.546797,-73.602664,1653344821480,1653345136687
+Ste-Catherine / Dezery,Mercier - Hochelaga-Maisonneuve,45.539385,-73.541,Logan / de Champlain,Ville-Marie,45.523194,-73.555843,1653344821818,1653345499161
+Parc Labelle (LaSalle / Henri-Duhamel),Verdun,45.472561,-73.5699892,Drolet / Jarry,Villeray - Saint-Michel - Parc-Extension,45.541955,-73.629942,1653344818257,1653347882119
+de la Commune / Berri,Ville-Marie,45.51086,-73.54983,Smith / Peel,Le Sud-Ouest,-1.0,-1.0,1653344823885,1653345418941
+10e avenue / Holt,Rosemont - La Petite-Patrie,45.5519116,-73.5792112,Drolet / Marie-Anne,Le Plateau-Mont-Royal,45.5224026,-73.5811767,1653344839785,1653346194428
+St-Dominique / Rachel,Le Plateau-Mont-Royal,45.518593,-73.581566,Drolet / Laurier,Le Plateau-Mont-Royal,45.526252,-73.589758,1653344828797,1653345313915
+Jeanne-Mance / Laurier,Le Plateau-Mont-Royal,45.5201249,-73.5952138,Laurier / de Brébeuf,Le Plateau-Mont-Royal,45.532514,-73.584811,1653344828890,1653345242995
+des Bassins / du Séminaire,Ville-Marie,45.490452,-73.560172,Union / René-Lévesque,Ville-Marie,45.50235,-73.566583,1653344829638,1653345159727
+Bourbonnière / du Mont-Royal,Rosemont - La Petite-Patrie,45.553571,-73.560494,15e avenue / Masson,Rosemont - La Petite-Patrie,45.553898,-73.571387,1653344829570,1653345152100
+Roy / St-Laurent,Le Plateau-Mont-Royal,45.515616,-73.575808,Waverly / St-Viateur,Le Plateau-Mont-Royal,45.523856,-73.600127,1653344829419,1653345567305
+du Parc-La Fontaine / Roy,Le Plateau-Mont-Royal,45.522866,-73.568377,Drolet / Marie-Anne,Le Plateau-Mont-Royal,45.5224026,-73.5811767,1653344836213,1653345374077
+Calixa-Lavallée / Sherbrooke,Le Plateau-Mont-Royal,45.52479,-73.56545,Tupper / du Fort,Ville-Marie,45.49123,-73.580782,1653344839364,1653345916208
+Parc Maisonneuve (Viau / Sherbrooke),Rosemont - La Petite-Patrie,45.5649368,-73.5555911,Gauthier / Papineau,Le Plateau-Mont-Royal,45.529666,-73.567336,1653344839807,1653346797334
+Messier / du Mont-Royal,Le Plateau-Mont-Royal,45.537114,-73.571003,Gilford / de Lanaudière,Le Plateau-Mont-Royal,45.532008,-73.580444,1653344838395,1653345144478
+Valois / Ste-Catherine,Mercier - Hochelaga-Maisonneuve,45.54523,-73.53725,Calixa-Lavallée / Sherbrooke,Le Plateau-Mont-Royal,45.52479,-73.56545,1653344837848,1653345844786
+Victoria Hall,Westmount,45.481291,-73.60033,Parc Loyola (Somerled / Doherty),Côte-des-Neiges - Notre-Dame-de-Grâce,45.460023,-73.644442,1653344839860,1653345993026
+Métro Parc  (Hutchison / Ogilvy),Villeray - Saint-Michel - Parc-Extension,45.5303513,-73.6243924,Métro Parc  (Hutchison / Ogilvy),Villeray - Saint-Michel - Parc-Extension,45.5303513,-73.6243924,1653344845192,1653348759339
+Messier / du Mont-Royal,Le Plateau-Mont-Royal,45.537114,-73.571003,des Érables / Laurier,Le Plateau-Mont-Royal,45.5384608,-73.5776791,1653344840026,1653345048043
+La Ronde,Ville-Marie,45.521565,-73.535332,Casino de Montréal,Ville-Marie,45.506373,-73.524577,1653344841024,1653346886676
+Duvernay / Charlevoix,Le Sud-Ouest,45.482098,-73.574876,St-Jacques / McGill,Ville-Marie,45.501441,-73.560144,1653344846182,1653345749408
+de Lanaudière / du Mont-Royal,Le Plateau-Mont-Royal,45.5302211,-73.5769965,St-Dominique / Laurier,Le Plateau-Mont-Royal,45.5236149,-73.5924574,1653344848277,1653345638660
+Bloomfield / Ball,Villeray - Saint-Michel - Parc-Extension,45.5299594,-73.632946,Métro Jean-Talon (Berri / Jean-Talon),Villeray - Saint-Michel - Parc-Extension,45.5390004,-73.614251,1653344847599,1653345992064
+Sherbrooke / Vignal,Westmount,45.4898298,-73.5896777,Métro St-Laurent (de Maisonneuve / St-Laurent),Ville-Marie,45.51066,-73.56497,1653344848098,1653345885421
+St-André / Cherrier,Le Plateau-Mont-Royal,45.520524,-73.567697,Ernest-Gendreau / du Mont-Royal,Rosemont - La Petite-Patrie,45.549714,-73.563848,1653344850706,1653346243588
+de Gaspé / Beaubien,Rosemont - La Petite-Patrie,45.5319579,-73.607001,du Parc-Lafontaine / Rachel,Le Plateau-Mont-Royal,45.5254742,-73.5743251,1653344850876,1653345544334
+Ste-Famille / des Pins,Le Plateau-Mont-Royal,45.512832,-73.576888,Ste-Famille / Sherbrooke,Le Plateau-Mont-Royal,45.510072,-73.570752,1653344852472,1653345012484
+Du Quesne / Pierre-de-Coubertin,Mercier - Hochelaga-Maisonneuve,45.5750536,-73.5389322,Du Quesne / Pierre-de-Coubertin,Mercier - Hochelaga-Maisonneuve,45.5750536,-73.5389322,1653344856032,1653346549353
+Boyer / Beaubien,Rosemont - La Petite-Patrie,45.537041,-73.602026,Waverly / St-Viateur,Le Plateau-Mont-Royal,45.523856,-73.600127,1653344856710,1653345484104
+Boyer / Beaubien,Rosemont - La Petite-Patrie,45.537041,-73.602026,Waverly / St-Viateur,Le Plateau-Mont-Royal,45.523856,-73.600127,1653344862064,1653345489254
+St-Hubert /de Maisonneuve,Ville-Marie,45.5161321,-73.5604969,Beaudry / Sherbrooke,Ville-Marie,45.523035,-73.565395,1653344857595,1653345167660
+Métro Sherbrooke (de Rigaud / St-Denis),Le Plateau-Mont-Royal,45.5179989,-73.5681841,Parc de Bullion (de Bullion / Prince-Arthur),Le Plateau-Mont-Royal,45.515604,-73.572135,1653344858273,1653345035286
+Beaudry / Sherbrooke,Ville-Marie,45.523035,-73.565395,Gare d'autocars de Montréal (Berri / Ontario),Ville-Marie,45.516897,-73.563949,1653344858362,1653345054074
+Duluth / de l'Esplanade,Le Plateau-Mont-Royal,45.515092,-73.581142,Parc de Bullion (de Bullion / Prince-Arthur),Le Plateau-Mont-Royal,45.515604,-73.572135,1653344864087,1653345237246
+Roy / St-Laurent,Le Plateau-Mont-Royal,45.515616,-73.575808,Waverly / St-Viateur,Le Plateau-Mont-Royal,45.523856,-73.600127,1653344860766,1653345579338
+Sherbrooke / Frontenac,Ville-Marie,45.5367,-73.56081,Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,1653344862136,1653345895012
+Young / Wellington,Le Sud-Ouest,45.492825,-73.557978,Young / Wellington,Le Sud-Ouest,45.492825,-73.557978,1653344863938,1653345405677
+de Mentana / Laurier,Le Plateau-Mont-Royal,45.53045,-73.587638,Drolet / Laurier,Le Plateau-Mont-Royal,45.526252,-73.589758,1653344862199,1653345108528
+La Ronde,Ville-Marie,45.521565,-73.535332,de Maisonneuve / Mansfield (nord),Ville-Marie,45.502311,-73.5733635,1653344862637,1653347743626
+Bloomfield / Ball,Villeray - Saint-Michel - Parc-Extension,45.5299594,-73.632946,Bloomfield / Ball,Villeray - Saint-Michel - Parc-Extension,45.5299594,-73.632946,1653344869318,1653346516015
+Sherbrooke / Vignal,Westmount,45.4898298,-73.5896777,Métro St-Laurent (de Maisonneuve / St-Laurent),Ville-Marie,45.51066,-73.56497,1653344872446,1653345630846
+Gary-Carter / St-Laurent,Villeray - Saint-Michel - Parc-Extension,45.5359,-73.622443,de Léry / Sherbrooke,Mercier - Hochelaga-Maisonneuve,45.5409997,-73.5582626,1653344868627,1653346809997
+Gary-Carter / St-Laurent,Villeray - Saint-Michel - Parc-Extension,45.5359,-73.622443,de Léry / Sherbrooke,Mercier - Hochelaga-Maisonneuve,45.5409997,-73.5582626,1653344868167,1653346811148
+La Ronde,Ville-Marie,45.521565,-73.535332,de Maisonneuve / Mansfield (nord),Ville-Marie,45.502311,-73.5733635,1653344874825,1653347759674
+Berri / Cherrier,Le Plateau-Mont-Royal,45.519088,-73.569509,Berri / Cherrier,Le Plateau-Mont-Royal,45.519088,-73.569509,1653344872208,1653344924513
+Pratt / Bates,Outremont,45.5169478,-73.6263156,Pratt / Bates,Outremont,45.5169478,-73.6263156,1653344867503,1653344889508
+St-Mathieu / Sherbrooke,Ville-Marie,45.495789,-73.582596,des Jockeys / Décarie,Côte-des-Neiges - Notre-Dame-de-Grâce,45.4940443,-73.6544949,1653344875955,1653346437462
+St-Catherine / St-Laurent,Ville-Marie,45.5099315,-73.5638067,Ste-Catherine / St-Marc,Ville-Marie,45.492897,-73.580294,1653344875057,1653347009769
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,45.517401,-73.574605,Metcalfe / de Maisonneuve,Ville-Marie,45.501715,-73.57413,1653344875484,1653345652769
+Drummond / de Maisonneuve,Ville-Marie,45.49947,-73.57591,Tupper / du Fort,Ville-Marie,45.49123,-73.580782,1653344877900,1653345318503
+Métro Laurier (Berri / St-Joseph),Le Plateau-Mont-Royal,45.527231,-73.586726,des Érables / Laurier,Le Plateau-Mont-Royal,45.5384608,-73.5776791,1653344878459,1653345274771
+Métro Crémazie (Crémazie / Lajeunesse),Ahuntsic-Cartierville,45.546408,-73.638428,Complexe sportif Claude-Robillard,Ahuntsic-Cartierville,45.553262,-73.638615,1653344882360,1653345517923
+Parc Maisonneuve (Viau / Sherbrooke),Rosemont - La Petite-Patrie,45.5649368,-73.5555911,Métro St-Michel (Shaughnessy / St-Michel),Villeray - Saint-Michel - Parc-Extension,45.559199,-73.599658,1653344877391,1653346236365
+Metcalfe / St-Catherine,Ville-Marie,45.500832,-73.572459,Wolfe / Robin,Ville-Marie,45.519581,-73.560116,1653344886237,1653345631475
+William / Robert-Bourassa,Le Sud-Ouest,45.497165,-73.55933,St-Joseph / 8e avenue Lachine,Lachine,45.43155,-73.67112,1653344879725,1653354075081
+des Bassins / du Séminaire,Ville-Marie,45.490452,-73.560172,Place d'Youville / McGill,Ville-Marie,45.4999647,-73.5561544,1653344883734,1653345399205
+Calixa-Lavallée / Sherbrooke,Le Plateau-Mont-Royal,45.52479,-73.56545,Fullum / Marie-Anne,Le Plateau-Mont-Royal,45.5365054,-73.5680392,1653344893022,1653345376606
+Messier / du Mont-Royal,Le Plateau-Mont-Royal,45.537114,-73.571003,Parc Baldwin (Fullum / Sherbrooke),Le Plateau-Mont-Royal,45.5340705,-73.5626507,1653344885019,1653345149055
+Parthenais / du Mont-Royal,Le Plateau-Mont-Royal,45.536346,-73.57131,1ère avenue / Rosemont,Rosemont - La Petite-Patrie,45.5478,-73.584867,1653344887220,1653345810402
+Métro Charlevoix (Centre / Charlevoix),Le Sud-Ouest,45.478228,-73.569651,Bourgeoys / Favard,Le Sud-Ouest,45.47993,-73.555921,1653344886994,1653345296772
+des Bassins / du Séminaire,Ville-Marie,45.490452,-73.560172,Place d'Youville / McGill,Ville-Marie,45.4999647,-73.5561544,1653344888776,1653345384591
+Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,Jeanne-Mance / Beaubien,Rosemont - La Petite-Patrie,45.52765,-73.6123,1653344893722,1653346500917
+Métro Charlevoix (Centre / Charlevoix),Le Sud-Ouest,45.478228,-73.569651,Bourgeoys / Favard,Le Sud-Ouest,45.47993,-73.555921,1653344895961,1653345299522
+La Ronde,Ville-Marie,45.521565,-73.535332,de Maisonneuve / Mansfield (nord),Ville-Marie,45.502311,-73.5733635,1653344895819,1653347748421
+Metcalfe / de Maisonneuve,Ville-Marie,45.501715,-73.57413,Notre-Dame / Jean-d'Estrées,Ville-Marie,45.4942598,-73.5638181,1653344900430,1653345287335
+Bélanger / St-Denis,Rosemont - La Petite-Patrie,45.53696,-73.61199,Drolet / Gounod,Villeray - Saint-Michel - Parc-Extension,45.540951,-73.626375,1653344897287,1653345157063
+Bloomfied / St-Viateur,Outremont,45.5191037,-73.6051905,Jeanne-Mance / St-Viateur,Le Plateau-Mont-Royal,45.523027,-73.60184,1653344897995,1653345020347
+Casgrain / Maguire,Le Plateau-Mont-Royal,45.525933,-73.595253,Poupart / Ontario,Ville-Marie,45.531939,-73.553439,1653344898283,1653345969950
+St-Urbain / Beaubien,Rosemont - La Petite-Patrie,45.52951,-73.61068,Jeanne-Mance / St-Viateur,Le Plateau-Mont-Royal,45.523027,-73.60184,1653344903685,1653345559201
+de la Commune / Place Jacques-Cartier,Ville-Marie,45.50761,-73.551836,Plessis / Logan,Ville-Marie,45.5217675,-73.5571025,1653344898767,1653346180289
+de Lanaudière / Bélanger,Rosemont - La Petite-Patrie,45.543651,-73.60565,de Bordeaux / St-Zotique,Rosemont - La Petite-Patrie,45.546539,-73.598665,1653344899800,1653345058785
+de la Commune / Place Jacques-Cartier,Ville-Marie,45.50761,-73.551836,Plessis / Logan,Ville-Marie,45.5217675,-73.5571025,1653344903130,1653346175075
+Ste-Catherine / Labelle,Ville-Marie,45.515065,-73.55923,de Bullion / St-Joseph,Le Plateau-Mont-Royal,45.524037,-73.590143,1653344904697,1653345938716
+Mairie d'arrondissement LaSalle (Dupras / Jeannette),LaSalle,45.429167,-73.6628097,Parc Summerlea (53e avenue / St-Joseph),Lachine,45.4383671,-73.7154669,1653344906407,1653345992002
+Métro Vendôme (de Marlowe / de Maisonneuve),Côte-des-Neiges - Notre-Dame-de-Grâce,45.473868,-73.604538,Bloomfield / Bernard,Outremont,45.520688,-73.608428,1653344917578,1653347993817
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,45.53229,-73.57544,Beaudry / Ontario,Ville-Marie,45.5214582,-73.5620499,1653344911138,1653345346570
+Duluth / St-Laurent,Le Plateau-Mont-Royal,45.516876,-73.57946,Métro Peel (de Maisonneuve / Stanley),Ville-Marie,45.50038,-73.57507,1653344908024,1653345451246
+Marquette / du Mont-Royal,Le Plateau-Mont-Royal,45.53229,-73.57544,Beaudry / Ontario,Ville-Marie,45.5214582,-73.5620499,1653344908653,1653345344639
+Roy / St-André,Le Plateau-Mont-Royal,45.521564,-73.570367,Ste-Famille / des Pins,Le Plateau-Mont-Royal,45.512832,-73.576888,1653344918199,1653345376098
+Pratt / Bates,Outremont,45.5169478,-73.6263156,Pratt / Bates,Outremont,45.5169478,-73.6263156,1653344906815,1653344928714
+Métro Peel (de Maisonneuve / Stanley),Ville-Marie,45.50038,-73.57507,BAnQ (Berri / de Maisonneuve),Ville-Marie,45.515299,-73.561273,1653344912815,1653345540073
+Bernard / St-Urbain,Le Plateau-Mont-Royal,45.526267,-73.603191,Bernard / St-Urbain,Le Plateau-Mont-Royal,45.526267,-73.603191,1653344913062,1653345027733
+Parc de la Confédération (Fielding / West Hill),Côte-des-Neiges - Notre-Dame-de-Grâce,45.471882,-73.6400217,Grand Boulevard / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,45.466569,-73.623295,1653344910166,1653345401810
+Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,Jeanne-Mance / Beaubien,Rosemont - La Petite-Patrie,45.52765,-73.6123,1653344918444,1653346505521
+la Fontaine / Alexandre-de-Sève,Ville-Marie,45.5233037,-73.5579997,Métro Papineau (Cartier / Ste-Catherine),Ville-Marie,45.52353,-73.55199,1653344923200,1653345178643
+Métro Peel (de Maisonneuve / Stanley),Ville-Marie,45.50038,-73.57507,BAnQ (Berri / de Maisonneuve),Ville-Marie,45.515299,-73.561273,1653344924538,1653345546019
+CCI Outremont (Dollard / Durcharme),Outremont,45.5200191,-73.6189073,Villeneuve / du Parc,Le Plateau-Mont-Royal,45.51829,-73.59235,1653344920816,1653345601671
+Rivard / Rachel,Le Plateau-Mont-Royal,45.522278,-73.577591,Rivard / Rachel,Le Plateau-Mont-Royal,45.522278,-73.577591,1653344931317,1653345059044
+St-André / Robin,Ville-Marie,45.518128,-73.561851,de Maisonneuve / Aylmer (est),Ville-Marie,45.505386,-73.570432,1653344931926,1653345536419
+Young / Wellington,Le Sud-Ouest,45.492825,-73.557978,Victoria Hall,Westmount,45.481291,-73.60033,1653344939426,1653346685921
+Notre-Dame / de la Montagne,Ville-Marie,45.493029,-73.564818,Parc de Dieppe,Ville-Marie,45.5018635,-73.543961,1653344937777,1653346243357
+Duvernay / Charlevoix,Le Sud-Ouest,45.482098,-73.574876,Métro Georges-Vanier (St-Antoine / Canning),Le Sud-Ouest,45.4891,-73.57656,1653344936812,1653345097730
+Métro Joliette  (Joliette / Hochelaga),Mercier - Hochelaga-Maisonneuve,45.546907,-73.551557,Jeanne-d'Arc / Ontario,Mercier - Hochelaga-Maisonneuve,45.549598,-73.541874,1653344940792,1653345248167
+Crescent / de Maisonneuve,Ville-Marie,45.498112,-73.577615,Crescent / de Maisonneuve,Ville-Marie,45.498112,-73.577615,1653344937651,1653345405020
+Parc Maisonneuve (Viau / Sherbrooke),Rosemont - La Petite-Patrie,45.5649368,-73.5555911,Gauthier / Papineau,Le Plateau-Mont-Royal,45.529666,-73.567336,1653344939893,1653346798893
+6e avenue / Bélanger,Rosemont - La Petite-Patrie,45.5545638,-73.5961568,Cartier / Bélanger,Rosemont - La Petite-Patrie,45.546797,-73.602664,1653344933692,1653345218754
+Rivard / Rachel,Le Plateau-Mont-Royal,45.522278,-73.577591,Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,1653344948032,1653346926293
+Jeanne-Mance / Laurier,Le Plateau-Mont-Royal,45.5201249,-73.5952138,Duluth / St-Laurent,Le Plateau-Mont-Royal,45.516876,-73.57946,1653344940827,1653345369348
+Berri / Cherrier,Le Plateau-Mont-Royal,45.519088,-73.569509,Roy / St-André,Le Plateau-Mont-Royal,45.521564,-73.570367,1653344941086,1653345069986
+Notre-Dame / Gauvin,Ville-Marie,45.500105,-73.560199,Cypress / Peel,Ville-Marie,45.499325,-73.571768,1653344942252,1653347140764
+Laurier / de Brébeuf,Le Plateau-Mont-Royal,45.532514,-73.584811,Boucher / St-Denis,Le Plateau-Mont-Royal,45.5278492,-73.5918613,1653344942158,1653345313446
+Clark / Prince-Arthur,Le Plateau-Mont-Royal,45.513303,-73.572961,Clark / Prince-Arthur,Le Plateau-Mont-Royal,45.513303,-73.572961,1653344943934,1653347428882
+Métro Mont-Royal (Rivard / du Mont-Royal),Le Plateau-Mont-Royal,45.524673,-73.58255,du Parc-Lafontaine / Rachel,Le Plateau-Mont-Royal,45.5254742,-73.5743251,1653344945422,1653345315554
+Maguire / St-Laurent,Le Plateau-Mont-Royal,45.524628,-73.595811,Clark / St-Viateur,Le Plateau-Mont-Royal,45.5251603,-73.5992467,1653344960545,1653345826701
+Gordon / Wellington,Verdun,45.461078,-73.567307,de l'Église / de Verdun,Verdun,45.463001,-73.571569,1653344951702,1653347802296
+Métro Beaubien (de Chateaubriand / Beaubien),Rosemont - La Petite-Patrie,45.53536,-73.603635,Métro Édouard-Montpetit (du Mont-Royal / Vincent-d'Indy),Outremont,45.510086,-73.611429,1653344947911,1653345593675
+Notre-Dame / de la Montagne,Ville-Marie,45.493029,-73.564818,Notre-Dame / de la Montagne,Ville-Marie,45.493029,-73.564818,1653344948084,1653345298521
+de l'Hôtel-de-Ville / Roy,Le Plateau-Mont-Royal,45.517401,-73.574605,Beaudry / Ontario,Ville-Marie,45.5214582,-73.5620499,1653344951074,1653345373322
+Pratt / Bates,Outremont,45.5169478,-73.6263156,Pratt / Bates,Outremont,45.5169478,-73.6263156,1653344950008,1653346557495
+St-Ambroise / Louis-Cyr,Le Sud-Ouest,45.4751933,-73.5809433,Valois / Ste-Catherine,Mercier - Hochelaga-Maisonneuve,45.54523,-73.53725,1653344953727,1653347205124
+Sherbrooke / Frontenac,Ville-Marie,45.5367,-73.56081,Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,1653344960904,1653345893252
+Louis-Hémon / Jean-Talon,Villeray - Saint-Michel - Parc-Extension,45.5517743,-73.6034784,Louis-Hémon / Jean-Talon,Villeray - Saint-Michel - Parc-Extension,45.5517743,-73.6034784,1653344963969,1653345458884
+Gauthier / Papineau,Le Plateau-Mont-Royal,45.529666,-73.567336,Marquette / du Mont-Royal,Le Plateau-Mont-Royal,45.53229,-73.57544,1653344965504,1653345326900
+Jean-Brillant / de la Côte-des-Neiges,Côte-des-Neiges - Notre-Dame-de-Grâce,45.495415,-73.622341,Métro Snowdon (de Westbury / Queen-Mary),Côte-des-Neiges - Notre-Dame-de-Grâce,45.485385,-73.628142,1653344966186,1653345614622
+Métro Sherbrooke (de Rigaud / St-Denis),Le Plateau-Mont-Royal,45.5179989,-73.5681841,St-Dominique / Napoléon,Le Plateau-Mont-Royal,45.5166644,-73.5772204,1653344968249,1653345282332
+University / Prince-Arthur,Le Plateau-Mont-Royal,45.507402,-73.578444,Milton / Durocher,Le Plateau-Mont-Royal,45.508141,-73.57493,1653344970205,1653345065793
+Plessis / Logan,Ville-Marie,45.5217675,-73.5571025,Métro Place-d'Armes (Viger / St-Urbain),Ville-Marie,45.50623,-73.55976,1653344964958,1653345451745
+Duluth / de l'Esplanade,Le Plateau-Mont-Royal,45.515092,-73.581142,Gauthier / Parthenais,Le Plateau-Mont-Royal,45.532926,-73.56378,1653344974736,1653345602007
+Métro Joliette  (Joliette / Hochelaga),Mercier - Hochelaga-Maisonneuve,45.546907,-73.551557,Jeanne-d'Arc / Ontario,Mercier - Hochelaga-Maisonneuve,45.549598,-73.541874,1653344970757,1653345245455
+19e avenue / St-Zotique,Rosemont - La Petite-Patrie,45.561594,-73.585643,Métro Laurier (Bibaud / Rivard),Le Plateau-Mont-Royal,45.5278391,-73.5895747,1653344973282,1653346160802
+Richmond / des Bassins,Le Sud-Ouest,45.4875216,-73.565003,de Maisonneuve / Greene,Westmount,45.486971,-73.589293,1653344974136,1653345675283
+Notre-Dame / de la Montagne,Ville-Marie,45.493029,-73.564818,des Seigneurs / Notre-Dame,Le Sud-Ouest,45.487723,-73.569083,1653344978761,1653345460108
+de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,45.518253,-73.588338,Bélanger / St-Denis,Rosemont - La Petite-Patrie,45.53696,-73.61199,1653344979916,1653345796075
+Parc Labelle (LaSalle / Henri-Duhamel),Verdun,45.472561,-73.5699892,Métro Lasalle (de Rushbrooke / Caisse),Verdun,45.470696,-73.565422,1653344976361,1653345163992
+Bibliothèque d'Ahuntsic (Lajeunesse / Fleury),Ahuntsic-Cartierville,45.5534001,-73.6622545,de St-Firmin / Fleury,Ahuntsic-Cartierville,45.570657,-73.651842,1653344979227,1653345994665
+de la Montagne/ Sherbrooke,Ville-Marie,45.4997438,-73.5789384,Chomedey / de Maisonneuve,Ville-Marie,45.4918,-73.584006,1653344985557,1653345325958
+de Gaspé / Fairmount,Le Plateau-Mont-Royal,45.525648,-73.592928,Jeanne-Mance / St-Viateur,Le Plateau-Mont-Royal,45.523027,-73.60184,1653344991234,1653345384731
+Drolet / Laurier,Le Plateau-Mont-Royal,45.526252,-73.589758,Métro Mont-Royal (Rivard / du Mont-Royal),Le Plateau-Mont-Royal,45.524673,-73.58255,1653344991937,1653345271271
+6e avenue / Bélanger,Rosemont - La Petite-Patrie,45.5545638,-73.5961568,Métro Parc  (Hutchison / Ogilvy),Villeray - Saint-Michel - Parc-Extension,45.5303513,-73.6243924,1653344984187,1653346004876
+University / Milton,Ville-Marie,45.506511,-73.576669,Drummond / de Maisonneuve,Ville-Marie,45.49947,-73.57591,1653345000172,1653345492753
+Métro Lasalle (de Rushbrooke / Caisse),Verdun,45.470696,-73.565422,de la Commune / King,Ville-Marie,45.497515,-73.552571,1653344990135,1653347269634
+Hutchison / Prince-Arthur,Le Plateau-Mont-Royal,45.509759,-73.576107,de Maisonneuve / Mansfield (sud),Ville-Marie,45.502145,-73.573427,1653344991806,1653345333172
+Roy / St-André,Le Plateau-Mont-Royal,45.521564,-73.570367,St-Zotique / Clark,Rosemont - La Petite-Patrie,45.531401,-73.612674,1653344995746,1653346381008
+Parc MacDonald (Clanranald / Isabella),Côte-des-Neiges - Notre-Dame-de-Grâce,45.4826927,-73.6348128,Parc MacDonald (Clanranald / Isabella),Côte-des-Neiges - Notre-Dame-de-Grâce,45.4826927,-73.6348128,1653344989407,1653348243356
+Cadillac / Sherbrooke,Mercier - Hochelaga-Maisonneuve,45.576963,-73.546836,Ontario / Sicard,Mercier - Hochelaga-Maisonneuve,45.556262,-73.537441,1653344997493,1653345991236
+Christophe-Colomb / St-Joseph,Le Plateau-Mont-Royal,45.5303649,-73.5843927,Chabot / Beaubien,Rosemont - La Petite-Patrie,45.544376,-73.595645,1653344999955,1653345605699
+Duvernay / Charlevoix,Le Sud-Ouest,45.482098,-73.574876,Berlioz / de l'Île des Soeurs,Verdun,45.459986,-73.543956,1653344998671,1653346547159
+du Champ-de-Mars / Gosford,Ville-Marie,45.509655,-73.554009,du Champ-de-Mars / Gosford,Ville-Marie,45.509655,-73.554009,1653345007956,1653345034843
+Métro de l'Église (Ross / de l'Église),Verdun,45.462726,-73.565959,Dubois / Eadie,Le Sud-Ouest,45.457597,-73.590529,1653345008884,1653345788918
+Laurier / de Brébeuf,Le Plateau-Mont-Royal,45.532514,-73.584811,Chabot / Villeray,Villeray - Saint-Michel - Parc-Extension,45.5522894,-73.6130065,1653345001985,1653345908826
+de la Côte St-Paul / St-Ambroise,Le Sud-Ouest,45.4676657,-73.5939178,Métro Place St-Henri (St-Ferdinand / St-Jacques),Le Sud-Ouest,45.477249,-73.587238,1653345002288,1653346366532
+Métro Snowdon (de Westbury / Queen-Mary),Côte-des-Neiges - Notre-Dame-de-Grâce,45.485385,-73.628142,McKenna / Édouard-Montpetit,Côte-des-Neiges - Notre-Dame-de-Grâce,45.5011651,-73.6205475,1653345002814,1653345434007
+de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,45.518253,-73.588338,de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,45.518253,-73.588338,1653345004002,1653345012038
+Faillon / St-Denis,Villeray - Saint-Michel - Parc-Extension,45.5398641,-73.6203128,Laval / du Mont-Royal,Le Plateau-Mont-Royal,45.522365,-73.584146,1653345012530,1653346096398
+Boyer / Rosemont,Rosemont - La Petite-Patrie,45.534136,-73.595478,Marquette / Rachel,Le Plateau-Mont-Royal,45.529802,-73.57029,1653345006901,1653345605734
+Casgrain / Maguire,Le Plateau-Mont-Royal,45.525933,-73.595253,Bloomfield / Bernard,Outremont,45.520688,-73.608428,1653345010422,1653345496180
+Notre-Dame / de la Montagne,Ville-Marie,45.493029,-73.564818,des Seigneurs / Notre-Dame,Le Sud-Ouest,45.487723,-73.569083,1653345018503,1653345436503
+Hamilton / Jolicoeur,Le Sud-Ouest,45.456355,-73.597557,Beatty / de Verdun,Verdun,45.45073,-73.572575,1653345011693,1653346490665
+St-Denis / René-Lévesque,Ville-Marie,45.512871,-73.558466,St-André / Robin,Ville-Marie,45.518128,-73.561851,1653345015553,1653345321889
+Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,1653345015348,1653345051044
+Drolet / Gounod,Villeray - Saint-Michel - Parc-Extension,45.540951,-73.626375,Guizot / St-Laurent,Villeray - Saint-Michel - Parc-Extension,45.539663,-73.634475,1653345018796,1653345243337
+Métro Lasalle (de Rushbrooke / Caisse),Verdun,45.470696,-73.565422,de la Commune / King,Ville-Marie,45.497515,-73.552571,1653345019174,1653347285190
+Ste-Catherine / Labelle,Ville-Marie,45.515065,-73.55923,Métro Lucien-L'Allier  (Lucien l'Allier / Argyle),Ville-Marie,45.494872,-73.571124,1653345023954,1653346075723
+Parc Lalancette (de Rouen/ Valois),Mercier - Hochelaga-Maisonneuve,45.548145,-73.5471261,de Rouen / Lespérance,Ville-Marie,45.5386271,-73.5528392,1653345020566,1653345208971
+Marquette / Rachel,Le Plateau-Mont-Royal,45.529802,-73.57029,de Mentana / Gilford,Le Plateau-Mont-Royal,45.528724,-73.583859,1653345023633,1653345447716
+Hôpital général juif (de la Côte Ste-Catherine / Légaré),Côte-des-Neiges - Notre-Dame-de-Grâce,45.496302,-73.629822,Parc Kent (de Kent / Hudson),Côte-des-Neiges - Notre-Dame-de-Grâce,45.505721,-73.629459,1653345024538,1653345301408
+Christophe-Colomb / St-Joseph,Le Plateau-Mont-Royal,45.5303649,-73.5843927,St-André / Ontario,Ville-Marie,45.51889,-73.56353,1653345028421,1653345494354
+City Councillors / du President-Kennedy,Ville-Marie,45.506251,-73.571391,Villeneuve / St-Laurent,Le Plateau-Mont-Royal,45.521342,-73.589419,1653345029349,1653345588078
+Grey / Sherbrooke,Côte-des-Neiges - Notre-Dame-de-Grâce,45.4763443,-73.6062594,Hillside / Ste-Catherine,Westmount,45.482826,-73.590843,1653345026574,1653345420765
+St-André / Cherrier,Le Plateau-Mont-Royal,45.520524,-73.567697,Prince-Arthur / du Parc,Le Plateau-Mont-Royal,45.51059,-73.57547,1653345028317,1653345590567
+Métro Verdun (Willibrord / de Verdun),Verdun,45.459488,-73.572092,Métro Verdun (Willibrord / de Verdun),Verdun,45.459488,-73.572092,1653345035411,1653346262699
+Métro Laurier (Bibaud / Rivard),Le Plateau-Mont-Royal,45.5278391,-73.5895747,Garnier / St-Grégoire,Le Plateau-Mont-Royal,45.5358344,-73.5870212,1653345030067,1653345252715
+5e avenue / Bannantyne,Verdun,45.456365,-73.57614,Gagne / LaSalle,LaSalle,45.422451,-73.601194,1653345034412,1653346199434
+Mackay / Ste-Catherine,Ville-Marie,45.495709,-73.576952,de Maisonneuve / Mansfield (nord),Ville-Marie,45.502311,-73.5733635,1653345036672,1653347907003
+Parc Baldwin (Fullum / Sherbrooke),Le Plateau-Mont-Royal,45.5340705,-73.5626507,Drolet / Laurier,Le Plateau-Mont-Royal,45.526252,-73.589758,1653345039554,1653345827738
+Clark / Fleury,Ahuntsic-Cartierville,45.547581,-73.665234,Clark / Fleury,Ahuntsic-Cartierville,45.547581,-73.665234,1653345050621,1653346221660
+du Parc-La Fontaine / Duluth,Le Plateau-Mont-Royal,45.524518,-73.571977,St-Urbain / Beaubien,Rosemont - La Petite-Patrie,45.52951,-73.61068,1653345036272,1653345995700
+du Rosaire / St-Hubert,Villeray - Saint-Michel - Parc-Extension,45.544819,-73.62151,Mozart / St-Laurent,Rosemont - La Petite-Patrie,45.53318,-73.61544,1653345038230,1653345682623
+Boyer / du Mont-Royal,Le Plateau-Mont-Royal,45.527432,-73.579917,Gare d'autocars de Montréal (Berri / Ontario),Ville-Marie,45.516897,-73.563949,1653345043536,1653345475401
+La Ronde,Ville-Marie,45.521565,-73.535332,Casino de Montréal,Ville-Marie,45.506373,-73.524577,1653345040962,1653346896732
+Waverly / St-Viateur,Le Plateau-Mont-Royal,45.523856,-73.600127,Laurier / de Brébeuf,Le Plateau-Mont-Royal,45.532514,-73.584811,1653345046207,1653345699982
+Louis-Hébert / de Bellechasse,Rosemont - La Petite-Patrie,45.546661,-73.588684,1ère avenue / Rosemont,Rosemont - La Petite-Patrie,45.5478,-73.584867,1653345040463,1653345288745
+Hamilton / Jolicoeur,Le Sud-Ouest,45.456355,-73.597557,Atwater / Greene,Le Sud-Ouest,45.480495,-73.577827,1653345045649,1653347020775
+Richmond / des Bassins,Le Sud-Ouest,45.4875216,-73.565003,de la Commune / King,Ville-Marie,45.497515,-73.552571,1653345042372,1653345487925
+Plessis / Ontario,Ville-Marie,45.523492,-73.56073,Alexandre-DeSève / Ste-Catherine,Ville-Marie,45.52123,-73.553861,1653345045225,1653345426179
+de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,45.518253,-73.588338,Marché Jean-Talon (Casgrain / Shamrock),Rosemont - La Petite-Patrie,45.5351901,-73.6154822,1653345045051,1653345911809
+Drolet / Gounod,Villeray - Saint-Michel - Parc-Extension,45.540951,-73.626375,St-Dominique / Gounod,Villeray - Saint-Michel - Parc-Extension,45.538738,-73.628022,1653345046961,1653345235309
+Parc Baldwin (Fullum / Sherbrooke),Le Plateau-Mont-Royal,45.5340705,-73.5626507,Drolet / Laurier,Le Plateau-Mont-Royal,45.526252,-73.589758,1653345051072,1653345823311
+Richmond / des Bassins,Le Sud-Ouest,45.4875216,-73.565003,de la Commune / King,Ville-Marie,45.497515,-73.552571,1653345050633,1653345489789
+Jeanne-Mance / René-Lévesque,Ville-Marie,45.506371,-73.564201,Place Émilie-Gamelin,Ville-Marie,45.515901,-73.559948,1653345051581,1653345486119
+Jeanne-Mance / René-Lévesque,Ville-Marie,45.506371,-73.564201,Place Émilie-Gamelin,Ville-Marie,45.515901,-73.559948,1653345051216,1653345485391
+Beaudry / Ontario,Ville-Marie,45.5214582,-73.5620499,Alexandre-DeSève  / Ontario,Ville-Marie,45.5243588,-73.5605344,1653345051834,1653345240492
+Queen / Wellington,Ville-Marie,45.497605,-73.55535,de la Commune / King,Ville-Marie,45.497515,-73.552571,1653345054363,1653347352394
+Drolet / St-Zotique,Rosemont - La Petite-Patrie,45.534882,-73.609412,de Bordeaux / Masson,Le Plateau-Mont-Royal,45.538984,-73.582445,1653345055126,1653345820956
+du Parc-Lafontaine / Rachel,Le Plateau-Mont-Royal,45.5254742,-73.5743251,Milton / du Parc,Le Plateau-Mont-Royal,45.509361,-73.573864,1653345055511,1653346067619
+du Champ-de-Mars / Gosford,Ville-Marie,45.509655,-73.554009,du Parc-Lafontaine / Rachel,Le Plateau-Mont-Royal,45.5254742,-73.5743251,1653345059068,1653345777968
+10e avenue / Holt,Rosemont - La Petite-Patrie,45.5519116,-73.5792112,16e avenue / St-Joseph,Rosemont - La Petite-Patrie,45.55287,-73.565631,1653345059723,1653348323141
+19e avenue / St-Zotique,Rosemont - La Petite-Patrie,45.561594,-73.585643,19e avenue / St-Zotique,Rosemont - La Petite-Patrie,45.561594,-73.585643,1653345060920,1653349434042
+Bernard / St-Urbain,Le Plateau-Mont-Royal,45.526267,-73.603191,Milton / du Parc,Le Plateau-Mont-Royal,45.509361,-73.573864,1653345062520,1653345900174
+Métro Guy-Concordia (Guy / St-Catherine),Ville-Marie,45.495045,-73.57783,de la Commune / Berri,Ville-Marie,45.51086,-73.54983,1653345064087,1653346462708
+de la Commune / St-Sulpice,Ville-Marie,45.504242,-73.55347,Parthenais / Ste-Catherine,Ville-Marie,45.526006,-73.548864,1653345062835,1653346194074
+de Soissons / de Darlington,Côte-des-Neiges - Notre-Dame-de-Grâce,45.506899,-73.623526,Graham / Brookfield,Mont-Royal,45.520222,-73.629856,1653345064434,1653346432174
+Marché Atwater,Le Sud-Ouest,45.480208,-73.577599,Ste-Catherine / Union,Ville-Marie,45.5036663,-73.5695761,1653345076685,1653346197717
+St-Jacques / des Seigneurs,Le Sud-Ouest,45.489186,-73.5719,Turgeon / Notre-Dame,Le Sud-Ouest,45.478888,-73.581989,1653345067439,1653345652504
+Fullum / Marie-Anne,Le Plateau-Mont-Royal,45.5365054,-73.5680392,Louis-Hébert / Beaubien,Rosemont - La Petite-Patrie,45.548186,-73.59201,1653345075774,1653345658205
+Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,Jeanne-Mance / Laurier,Le Plateau-Mont-Royal,45.5201249,-73.5952138,1653345074198,1653345317612
+Complexe sportif Claude-Robillard,Ahuntsic-Cartierville,45.553262,-73.638615,Thimens / Alexis-Nihon,Saint-Laurent,45.508978,-73.698564,1653345078881,1653346854848
+Marquette / des Carrières,Rosemont - La Petite-Patrie,45.538799,-73.5887,Marquette / des Carrières,Rosemont - La Petite-Patrie,45.538799,-73.5887,1653345084040,1653346514763
+Hutchison / Prince-Arthur,Le Plateau-Mont-Royal,45.509759,-73.576107,Métro Place-des-Arts (du Président-Kennedy / Jeanne-Mance),Ville-Marie,45.5082046,-73.5688144,1653345076071,1653345258197
+Crescent / de Maisonneuve,Ville-Marie,45.498112,-73.577615,Berri / Rachel,Le Plateau-Mont-Royal,45.522719,-73.577204,1653345076002,1653346861527
+Aylmer / Sherbrooke,Le Plateau-Mont-Royal,45.506587,-73.573299,Drolet / St-Zotique,Rosemont - La Petite-Patrie,45.534882,-73.609412,1653345077754,1653346801373
+de l'Esplanade / Fairmount,Le Plateau-Mont-Royal,45.521496,-73.596827,de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,45.518253,-73.588338,1653345076431,1653346363196
+Métro Jolicoeur (de Sève / Drake),Le Sud-Ouest,45.4560855,-73.5819371,Cégep André-Laurendeau (Lapierre),LaSalle,45.4360551,-73.6057752,1653345080047,1653346312482
+Bernard / St-Urbain,Le Plateau-Mont-Royal,45.526267,-73.603191,de l'Esplanade / du Mont-Royal,Le Plateau-Mont-Royal,45.518253,-73.588338,1653345083679,1653345539270
+Laurier / de Brébeuf,Le Plateau-Mont-Royal,45.532514,-73.584811,St-Dominique / Bernard,Le Plateau-Mont-Royal,45.527933,-73.601223,1653345083716,1653345862458
+O'Brien / Poirier,Saint-Laurent,45.52246,-73.691564,du Souvenir / Chomedey,Laval,45.551886,-73.74444,1653345084256,1653346550433
+Parc Jeanne-Mance (du Mont-Royal / du Parc),Le Plateau-Mont-Royal,45.517,-73.589,Aylmer / Prince-Arthur,Le Plateau-Mont-Royal,45.508567,-73.577698,1653345085051,1653345343524
+Crescent / de Maisonneuve,Ville-Marie,45.498112,-73.577615,Milton / du Parc,Le Plateau-Mont-Royal,45.509361,-73.573864,1653345086441,1653345613631
+Parc Olympique (Pie-IX / Sherbrooke),Mercier - Hochelaga-Maisonneuve,45.5548245,-73.5537028,Parc Père-Marquette (de Lanaudière / de Bellechasse),Rosemont - La Petite-Patrie,45.539324,-73.5958784,1653345082069,1653346798575
+de Bordeaux / Masson,Le Plateau-Mont-Royal,45.538984,-73.582445,Parthenais / du Mont-Royal,Le Plateau-Mont-Royal,45.536346,-73.57131,1653345094166,1653345415295
+St-Jacques / des Seigneurs,Le Sud-Ouest,45.489186,-73.5719,LaSalle / Godin,Verdun,45.446934,-73.572199,1653345090866,1653347644731
+Bassin olympique (Chemin du Chenal le Moyne),Ville-Marie,45.5169025,-73.5272455,Parc Plage,Ville-Marie,45.502828,-73.527793,1653345086530,1653349041178
+Métro Villa-Maria (de Monkland / Décarie),Côte-des-Neiges - Notre-Dame-de-Grâce,45.4789684,-73.6195993,Grand Boulevard / de Terrebonne,Côte-des-Neiges - Notre-Dame-de-Grâce,45.470544,-73.63168,1653345092757,1653345479885
+Dorion / Ontario,Ville-Marie,45.526991,-73.558212,Laval / Rachel,Le Plateau-Mont-Royal,45.520179,-73.579424,1653345095531,1653345684508
+du Mont-Royal / Clark,Le Plateau-Mont-Royal,45.51941,-73.58685,de Léry / Sherbrooke,Mercier - Hochelaga-Maisonneuve,45.5409997,-73.5582626,1653345092748,1653346124528
+de Bordeaux / Masson,Le Plateau-Mont-Royal,45.538984,-73.582445,Parthenais / du Mont-Royal,Le Plateau-Mont-Royal,45.536346,-73.57131,1653345093688,1653345410716
+Ropery / Augustin-Cantin,Le Sud-Ouest,45.480914,-73.56846,de la Commune / King,Ville-Marie,45.497515,-73.552571,1653345097127,1653346486321
+Crescent / René-Lévesque,Ville-Marie,45.4959617,-73.5732535,Métro Lucien-L'Allier  (Lucien l'Allier / Argyle),Ville-Marie,45.494872,-73.571124,1653345102217,1653345172908
+de la Roche /  de Bellechasse,Rosemont - La Petite-Patrie,45.537159,-73.597476,Cartier / Masson,Le Plateau-Mont-Royal,45.538021,-73.583524,1653345100339,1653345389181
+Rivard / Rachel,Le Plateau-Mont-Royal,45.522278,-73.577591,Parc Jeanne Mance (monument sir George-Etienne Cartier),Le Plateau-Mont-Royal,45.51484,-73.584779,1653345100836,1653346912868
+Ropery / Augustin-Cantin,Le Sud-Ouest,45.480914,-73.56846,de la Commune / King,Ville-Marie,45.497515,-73.552571,1653345105223,1653346430848
