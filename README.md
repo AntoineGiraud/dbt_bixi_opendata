@@ -52,6 +52,8 @@ FROM READ_PARQUET('s3://bike-sharing-history/toulouse/**/*.parquet');
 - **stg** : intermediate tables
 - **dtm** : tables ready for analytics & reporting use
 
+![dbt lineage](./dbt_lineage.png)
+
 ### Loading
 
 DuckDB realy shines by it's speed & local OLAP capabilities 😎
