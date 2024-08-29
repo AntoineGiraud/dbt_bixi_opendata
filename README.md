@@ -54,6 +54,8 @@ FROM READ_PARQUET('s3://bike-sharing-history/toulouse/**/*.parquet');
 
 ![dbt lineage](./dbt_lineage.png)
 
+if needed : 🖼 [DBeaver MLD](./dbeaver_table_mld.png)
+
 ### Loading
 
 DuckDB realy shines by it's speed & local OLAP capabilities 😎
