@@ -4,3 +4,9 @@ dbt_packages/
 logs/
 *.db
 *.duckdb
+*.block
+*.tmp
+input/rentals_v1/*
+input/rentals_v2/*
+input/stations_v1/*
+output/*
