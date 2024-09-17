@@ -61,8 +61,8 @@ if needed : 🖼 [DBeaver MLD](./dbeaver_table_mld.png)
 DuckDB realy shines by it's speed & local OLAP capabilities 😎
 
 Here is 🚲 v1 rentals (2014 - 2021) load & offload to .parquet
+- `.csv` is **4.5** times heavier than `.parquet`
+- `.json` is **2.7** times heavier than `.csv`
 
 ![bixi rentals loading with DuckDB 🚀🦆](./load_and_offload.png)
 
-- `.csv` is **4.5** times heavier than `.parquet`
-- `.json` is **2.7** times heavier than `.csv`
