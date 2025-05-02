@@ -12,3 +12,4 @@ output/*
 input/rentals_v1/OD_2014-04_demo.csv
 input/rentals_v2/DonneesOuverte2022_demo.csv
 input/rentals_v1_2021/*2021*.csv
+uv.lock
