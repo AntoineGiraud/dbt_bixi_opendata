@@ -7,6 +7,8 @@ SELECT
     date_trunc('month', start_date::date) start_date_month,
     start_date::date start_date,
     hour(start_date) AS start_hour,
+    end_date::date end_date,
+    hour(end_date) AS end_hour,
     time_bucket(interval '15 minutes', start_date)::time AS start_time_15min,
     least(round(duration_sec / 60 /5, 0)*5, 45) duration_5min_group,
     round(duration_sec / 60, 0) duration_min,

@@ -42,3 +42,6 @@ models:
     dtm:
       +schema: dtm
       +tags: [dtm]
+    report:
+      +schema: report
+      +tags: [report]
