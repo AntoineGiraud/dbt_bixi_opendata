@@ -1,4 +1,4 @@
 {{ config(materialized='view') }}
 
-select *
+select *,
 from {{ ref('raw_sectors') }}

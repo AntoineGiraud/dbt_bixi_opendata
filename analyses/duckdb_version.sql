@@ -1,1 +1,1 @@
-select version()
+select version(),
