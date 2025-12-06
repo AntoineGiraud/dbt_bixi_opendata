@@ -6,5 +6,5 @@ dbt_bixi_opendata:
       path: dbt_bixi_opendata.db
       extensions: # si besoin
         - httpfs
-        # - spatial
+        - spatial
       threads: 2

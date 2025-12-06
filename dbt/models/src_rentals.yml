@@ -3,20 +3,13 @@ sources:
     tables:
       - name: rentals_v1
         meta:
-          external_location: |
-                read_csv('~\Documents\codes\dbt_bixi_opendata\input/rentals_v1/*.csv',
-                filename=true, all_varchar=1)
+          external_location: read_csv('../input/rentals_v1/*.csv', all_varchar=1)
       - name: rentals_v1_2021
         meta:
-          external_location: |
-                read_csv('~\Documents\codes\dbt_bixi_opendata\input/rentals_v1_2021/2021_donnees_ouvertes.csv',
-                filename=true, all_varchar=1)
+          external_location: read_csv('../input/rentals_v1_2021/*.csv', all_varchar=1)
       - name: rentals_v2
         meta:
-          external_location: |
-            read_csv('input/rentals_v2/*.csv',
-                header=true, AUTO_DETECT=TRUE, filename=true, ignore_errors=true)
+          external_location: read_csv('../input/rentals_v2/*.csv', header=true, AUTO_DETECT=TRUE, ignore_errors=true)
       - name: stations_v1
         meta:
-          external_location: |
-            read_csv('input/stations_v1/*.csv', filename=true, all_varchar=1, union_by_name=True)
+          external_location: read_csv('../input/stations_v1/*.csv', all_varchar=1, union_by_name=True)

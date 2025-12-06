@@ -1,15 +1,15 @@
 
-target/
-dbt_packages/
-logs/
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+
 *.db
 *.duckdb
 *.block
 *.tmp
-input/rentals_v1/*
-input/rentals_v2/*
+
+input/rentals_v*
 output/*
-input/rentals_v1/OD_2014-04_demo.csv
-input/rentals_v2/DonneesOuverte2022_demo.csv
-input/rentals_v1_2021/*2021*.csv
+
 uv.lock
+.venv
