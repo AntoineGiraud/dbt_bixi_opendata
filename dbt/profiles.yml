@@ -1,0 +1,10 @@
+dbt_bixi_opendata:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: dbt_bixi_opendata.db
+      extensions: # si besoin
+        - httpfs
+        # - spatial
+      threads: 2
