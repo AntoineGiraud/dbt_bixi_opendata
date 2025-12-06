@@ -1,8 +1,11 @@
-with union_v1_v2 as (
-    select * exclude (filename), from {{ ref("raw_rentals_v1") }}
-    union all
-    select * exclude (start_year), from {{ ref("stg_rentals_v2tov1") }}
-)
+with
+    union_v1_v2 as (
+        select * exclude (filename),
+        from {{ ref("raw_rentals_v1") }}
+        union all
+        select * exclude (start_year),
+        from {{ ref("stg_rentals_v2tov1") }}
+    )
 
 select
     date_trunc('month', start_date::date) as start_date_month,

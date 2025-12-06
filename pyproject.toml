@@ -3,8 +3,18 @@ name = "dbt-bixi-opendata"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.13"
 dependencies = [
-    "dbt-core>=1.9.4",
-    "dbt-duckdb>=1.9.3",
+    "dbt-duckdb>=1.10.0",
+    "faker>=38.2.0",
+    "polars>=1.35.2",
 ]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.14.8",
+    "shandy-sqlfmt[jinjafmt]>=0.28.2",
+]
+
+[tool.sqlfmt]
+exclude=["dbt/target/**/*", "dbt/dbt_packages/**/*"]
