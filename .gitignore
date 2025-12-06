@@ -11,5 +11,4 @@ dbt/logs/
 input/rentals_v*
 output/*
 
-uv.lock
 .venv

@@ -116,8 +116,8 @@ Here is 🚲 v1 rentals (2014 - 2021) load & offload to .parquet
 
 #### Clone & setup local du projet
 
-- `git clone https://github.com/AntoineGiraud/dbt_hypermarche.git`
-- `cd dbt_hypermarche` <em style="color: grey">se déplacer dans le dossier récupéré avec git</em>
+- `git clone https://github.com/AntoineGiraud/dbt_bixi_opendata.git`
+- `cd dbt_bixi_opendata` <em style="color: grey">se déplacer dans le dossier récupéré avec git</em>
 - `uv sync`
   - télécharge **python** <em style="color: grey">si non présent</em>
   - initialise un environnement virtuel python (venv) <em style="color: grey">si non présent</em>

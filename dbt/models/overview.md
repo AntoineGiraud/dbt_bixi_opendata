@@ -14,7 +14,7 @@
 
 - 🧭 **Municipal sectors** : from the OD 2013 survey (cf. [donnees quebec](https://www.donneesquebec.ca/recherche/dataset/artm-secteurs-municipaux-od13/resource/95ab084b-727e-4322-9433-0fed7baa690d))
 
-## Schema/DB steps :
+## Schema/DB steps
 
 - **raw** : raw tables loaded as is from .csv
 - **stg** : intermediate tables
