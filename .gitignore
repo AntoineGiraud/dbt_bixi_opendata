@@ -1,14 +1,18 @@
+# python stuff
+.venv
 
+# dbt artefacts
 dbt/target/
 dbt/dbt_packages/
 dbt/logs/
 
+# data artefacts
 *.db
 *.duckdb
 *.block
 *.tmp
+*.pbix
 
+# data folders
 input/rentals_v*
 output/*
-
-.venv

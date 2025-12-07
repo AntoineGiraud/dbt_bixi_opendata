@@ -9,7 +9,7 @@ I used Power BI to explore the transformed data offloaded to `.parquet` *(~ 4.7 
 
 After the pandemic, Montrealers realy went back to bixi 🥳
 
-![Explore Montréal bixi rentals with Power BI](./montreal_bixi_rentals.png)
+![Explore Montréal bixi rentals with Power BI](./images/montreal_bixi_rentals.png)
 
 ## Data sources
 
@@ -31,20 +31,10 @@ After the pandemic, Montrealers realy went back to bixi 🥳
 
 ### GBFS scrapping (one day)
 
-> GBFS means *General Bikeshare Feed Specification*, it's a standardized data feed for shared mobility system availability (cf. [Github > MobilityData/gbfs](https://github.com/MobilityData/gbfs))
+> **GBFS** means *General Bikeshare Feed Specification*, it's a standardized data feed for shared mobility system availability (cf. [Github > MobilityData/gbfs](https://github.com/MobilityData/gbfs))
 
-#### Max Halford's GBFS scrapping
-
-Max Halford launch a web scrapping on 76 bikeshares around the globe at summer 2023. (cf. it's [bike sharing forecasting training set](https://maxhalford.github.io/blog/bike-sharing-forecasting-training-set/) article)
+💡 Max Halford launch a web scrapping on 76 bikeshares around the globe at summer 2023. (cf. it's [bike sharing forecasting training set](https://maxhalford.github.io/blog/bike-sharing-forecasting-training-set/) article)
 Montréal was added at the end of spring.
-
-To be added to rework & explore those bixi's station avalability overtime
-
-```sql
--- example fetch toulouse station_status 🦆
-SET s3_endpoint='storage.googleapis.com';
-FROM READ_PARQUET('s3://bike-sharing-history/toulouse/**/*.parquet');
-```
 
 ## Schema/DB steps :
 
@@ -52,9 +42,9 @@ FROM READ_PARQUET('s3://bike-sharing-history/toulouse/**/*.parquet');
 - **stg** : intermediate tables
 - **dtm** : tables ready for analytics & reporting use
 
-![dbt lineage](./dbt_lineage.png)
+![dbt lineage](./images/dbt_lineage.png)
 
-if needed : 🖼 [DBeaver MLD](./dbeaver_table_mld.png)
+if needed : 🖼 [DBeaver MLD](./images/dbeaver_table_mld.png)
 
 ### Loading
 
@@ -64,7 +54,7 @@ Here is 🚲 v1 rentals (2014 - 2021) load & offload to .parquet
 - `.csv` is **4.5** times heavier than `.parquet`
 - `.json` is **2.7** times heavier than `.csv`
 
-![bixi rentals loading with DuckDB 🚀🦆](./load_and_offload.png)
+![bixi rentals loading with DuckDB 🚀🦆](./images/load_and_offload.png)
 
 ## Resources
 

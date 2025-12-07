@@ -1,1 +1,3 @@
-{{ config(materialized="view") }} select *, from {{ ref("raw_sectors") }}
+{{ config(materialized="view") }}
+
+select *, from {{ ref("raw_sectors") }}

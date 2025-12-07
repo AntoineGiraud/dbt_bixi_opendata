@@ -8,7 +8,7 @@
 
 - 🚲 **Rentals V1** : from 2014 to 2021
 - ⛽ **Stations V1** : from 2014 to 2021 (1 station per year)
-- 🚲 **Rentals V2** : from 2022 to 2024+ (start/end station info on each rentals)
+- 🚲 **Rentals V2** : from 2022 to 2025+ (start/end station info on each rentals)
 
 ### Geospatial
 
