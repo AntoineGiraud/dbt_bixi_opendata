@@ -1,6 +1,7 @@
 with
     starts as (
         select
+            year,
             start_date as date,
             start_station_year_code as station_year_code,
             count(1) nb_rentals_starts,
@@ -19,6 +20,7 @@ with
     ),
     ends as (
         select
+            year,
             end_date as date,
             end_station_year_code as station_year_code,
             count(1) nb_rentals_ends,
@@ -32,6 +34,7 @@ with
         group by all
     )
 select
+    coalesce(starts.year, ends.year) as year,
     coalesce(starts.date, ends.date) as date,
     coalesce(starts.station_year_code, ends.station_year_code) as station_year_code,
     starts.nb_rentals_starts,
@@ -43,5 +46,5 @@ select
     starts.nb_rentals_0_14min_starts,
     ends.nb_rentals_0_14min_ends,
 from starts
-full outer join ends using (date, station_year_code)
+full outer join ends using (year, date, station_year_code)
 order by 1, 2, 3

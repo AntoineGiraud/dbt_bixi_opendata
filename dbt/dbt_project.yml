@@ -32,10 +32,10 @@ clean-targets: # directories to be removed by `dbt clean`
 # files using the `{{ config(...) }}` macro.
 models:
   dbt_bixi_opendata:
-    +materialized: table
     +persist_docs:
       relation: true
       columns: true
+    +materialized: external  # store as .parquet
     raw:
       +schema: raw
       +tags: [raw]

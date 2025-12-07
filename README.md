@@ -137,5 +137,6 @@ Here is 🚲 v1 rentals (2014 - 2021) load & offload to .parquet
 | `dbt test` | Lance uniquement les tests |
 | `dbt build` | Exécute modèles + tests |
 | `dbt build -s +stg_commande+` | Construit `stg_commande` + parent & enfants |
+| `dbt retry` | Reprendre depuis la dernière erreur (run, build, test, compile, docs...) |
 | `dbt docs generate` | Génère la documentation |
 | `dbt docs serve` | Lance un serveur web pour explorer doc & lineage |

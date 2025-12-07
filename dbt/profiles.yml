@@ -8,3 +8,5 @@ dbt_bixi_opendata:
         - httpfs
         - spatial
       threads: 2
+      format: parquet
+      external_root: ../output  # output folder

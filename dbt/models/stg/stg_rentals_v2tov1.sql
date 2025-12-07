@@ -1,3 +1,9 @@
+{{
+    config(
+        materialized="external", options={"partition_by": "year", "overwrite": True}
+    )
+}}
+
 with
     od as (
         select
@@ -7,7 +13,7 @@ with
                     starttimems / 1000
                 )::timestamptz at time zone 'America/Montreal'
             )::datetime as start_date,
-            year(start_date) as start_year,
+            year(start_date) as year,
             startstationname,
             date_trunc(
                 'minute',
@@ -21,7 +27,7 @@ with
     )
 
 select
-    start_year,
+    od.year,
     start_date,
     sta_start.rg_station_yearly as start_station_code,
     end_date,
@@ -31,9 +37,10 @@ select
 from od
 left join
     {{ ref("stg_stations_v2") }} as sta_start
-    on sta_start.year = od.start_year
+    on sta_start.year = od.year
     and sta_start.station_name = od.startstationname
 left join
     {{ ref("stg_stations_v2") }} as sta_end
-    on sta_end.year = od.start_year
+    on sta_end.year = od.year
     and sta_end.station_name = od.endstationname
+order by od.year, od.start_date
