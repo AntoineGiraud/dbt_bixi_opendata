@@ -1,14 +1,13 @@
 {
   "recommendations": [
-    // linter & formateurs
-    "tamasfe.even-better-toml", // .toml
-    "yzhang.markdown-all-in-one", // .md
-    "charliermarsh.ruff", // .py
-    "mechatroner.rainbow-csv", // .csv
-    "adamviola.parquet-explorer", // .parquet avec duckdb 🦆
-    // projet
+    "tamasfe.even-better-toml",
+    "yzhang.markdown-all-in-one",
+    "charliermarsh.ruff",
+    "mechatroner.rainbow-csv",
+    "adamviola.parquet-explorer",
+
     "mhutchie.git-graph",
-    // propre à dbt
+
     "innoverio.vscode-dbt-power-user"
   ],
   "unwantedRecommendations": [

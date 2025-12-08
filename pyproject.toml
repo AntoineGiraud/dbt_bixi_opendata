@@ -12,6 +12,9 @@ dependencies = [
 
 [dependency-groups]
 dev = [
+    # "pre-commit>=4.5.0",
+    # "pre-commit-uv>=4.2.0",
+    # préférer install globale ?? -> `uv tool install pre-commit --with pre-commit-uv`
     "ruff>=0.14.8",
     "shandy-sqlfmt[jinjafmt]>=0.28.2",
 ]

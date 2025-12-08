@@ -87,6 +87,34 @@ Here is 🚲 v1 rentals (2014 - 2021) load & offload to .parquet
   - lire [Continuous integration in dbt](https://docs.getdbt.com/docs/deploy/continuous-integration) → avancé
   - lire [Using defer in dbt](https://docs.getdbt.com/docs/cloud/about-cloud-develop-defer) → avancé
 
+### Commandes dbt importantes
+
+| Commande | Rôle |
+|----------|------|
+| `dbt ls` | Liste les modèles |
+| `dbt parse` | Vérifie syntaxe et validité |
+| `dbt compile` | Génère SQL à partir des modèles |
+| `dbt run` | Exécute les modèles (sans tests) |
+| `dbt test` | Lance uniquement les tests |
+| `dbt build` | Exécute modèles + tests |
+| `dbt build -s +stg_commande+` | Construit `stg_commande` + parent & enfants |
+| `dbt retry` | Reprendre depuis la dernière erreur (run, build, test, compile, docs...) |
+| `dbt docs generate` | Génère la documentation |
+| `dbt docs serve` | Lance un serveur web pour explorer doc & lineage |
+
+### Bonnes pratiques nommage des commit
+
+Format: `<type>(<scope>): <subject>`<br>
+`<scope>` is optional
+
+- **chore:** add Oyster build script
+- **docs:** explain hat wobble
+- **feat:** add beta sequence
+- **fix:** remove broken confirmation message
+- **refactor:** share logic between 4d3d3d3 and flarhgunnstow
+- **style:** convert tabs to spaces
+- **test:** ensure Tayne retains clothing
+
 ### Installation
 
 #### Récupérer les outils
@@ -115,18 +143,8 @@ Here is 🚲 v1 rentals (2014 - 2021) load & offload to .parquet
 - `.venv/Scripts/activate.ps1` (unix `source .venv/bin/activate`)\
   rendre **dbt** disponible dans le terminal
 - `code .` ouvrir dans VS Code le répertoire courrant
-
-### Commandes dbt importantes
-
-| Commande | Rôle |
-|----------|------|
-| `dbt ls` | Liste les modèles |
-| `dbt parse` | Vérifie syntaxe et validité |
-| `dbt compile` | Génère SQL à partir des modèles |
-| `dbt run` | Exécute les modèles (sans tests) |
-| `dbt test` | Lance uniquement les tests |
-| `dbt build` | Exécute modèles + tests |
-| `dbt build -s +stg_commande+` | Construit `stg_commande` + parent & enfants |
-| `dbt retry` | Reprendre depuis la dernière erreur (run, build, test, compile, docs...) |
-| `dbt docs generate` | Génère la documentation |
-| `dbt docs serve` | Lance un serveur web pour explorer doc & lineage |
+- S'assurer que `pre-commit` est installé (cf. [📹 vidéo intro](https://youtu.be/2r4uLr8MdcA) - 5min)
+  - `uv tool install pre-commit --with pre-commit-uv` : installer pre-commit comme outil python global (option)
+  - `uv run pre-commit install` : initialiser le hook git
+    - juste avec ça, sur les prochains fichiers édités, ruff sera lancé automatiquement
+  - `uv run pre-commit run --all-files` : pour traiter TOUS les fichiers

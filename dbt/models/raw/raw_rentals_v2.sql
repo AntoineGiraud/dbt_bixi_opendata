@@ -1,3 +1,1 @@
-{{ config(materialized="view") }}
-
-select * from {{ source("rentals", "rentals_v2") }}
+{{ config(materialized="view") }} select * from {{ source("rentals", "rentals_v2") }}
