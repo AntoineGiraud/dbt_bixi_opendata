@@ -1,4 +1,4 @@
-name: Deploy dbt docs to GitHub Pages
+name: Deploy dbt docs & colibri to GitHub Pages
 
 on:
   push:
@@ -28,8 +28,12 @@ jobs:
       - name: Sync dependencies
         run: uv sync --frozen
 
-      - name: Generate dbt docs
-        run: cd dbt && uv run dbt docs generate && cd ..
+      - name: Generate dbt build ⚙️
+        run: cd dbt && uv run dbt build
+      - name: Generate dbt docs 📖
+        run: cd dbt && uv run dbt docs generate
+      - name: Generate dbt colibri 🐦
+        run: cd dbt && uv run colibri generate --output-dir target/colibri
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

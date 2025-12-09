@@ -17,6 +17,7 @@ dev = [
     # préférer install globale ?? -> `uv tool install pre-commit --with pre-commit-uv`
     "ruff>=0.14.8",
     "shandy-sqlfmt[jinjafmt]>=0.28.2",
+    "dbt-colibri>=0.2.7",
 ]
 
 [tool.sqlfmt]

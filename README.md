@@ -3,17 +3,15 @@
 
 Here is a [dbt-core](https://github.com/dbt-labs/dbt-core) project that loads & transform [bixi OpenData](https://bixi.com/fr/donnees-ouvertes/) thanks to [DuckDB](https://duckdb.org/) 🦆🚀
 
-### Viz' exploration
-
-I used Power BI to explore the transformed data offloaded to `.parquet` *(~ 4.7 times lighter than `.csv`)*
+## Viz' exploration
 
 After the pandemic, Montrealers realy went back to bixi 🥳
 
-![Explore Montréal bixi rentals with Power BI](./images/montreal_bixi_rentals.png)
+![Explore Montréal bixi rentals with Power BI](./images/montreal_bixi_rentals.gif)
 
 ## Data sources
 
-### Bixi Rentals OpenData ([link](https://bixi.com/fr/donnees-ouvertes/))
+#### Bixi Rentals OpenData ([link](https://bixi.com/fr/donnees-ouvertes/))
 
 - 🚲 **Rentals V1** : from 2014 to 2021
   > for station info, join to station
@@ -25,11 +23,11 @@ After the pandemic, Montrealers realy went back to bixi 🥳
   *-> 2.7 times heavier `.csv`* 1.4Gb -> 0.5Gb\
   *-> 2.3 times heavier `.parquet` 250Mb -> 106Mb*
 
-### GIS referential
+#### GIS referential
 
 - 🧭 **Municipal sectors** : from the OD 2013 survey (cf. [donnees quebec](https://www.donneesquebec.ca/recherche/dataset/artm-secteurs-municipaux-od13/resource/95ab084b-727e-4322-9433-0fed7baa690d))
 
-### GBFS scrapping (one day)
+#### GBFS scrapping - station live status (one day)
 
 > **GBFS** means *General Bikeshare Feed Specification*, it's a standardized data feed for shared mobility system availability (cf. [Github > MobilityData/gbfs](https://github.com/MobilityData/gbfs))
 
@@ -41,8 +39,15 @@ Montréal was added at the end of spring.
 - **raw** : raw tables loaded as is from .csv
 - **stg** : intermediate tables
 - **dtm** : tables ready for analytics & reporting use
+- **reports** : aggregations for viz' use
+
+#### dbt docs catalog & lineage ([url](https://antoinegiraud.github.io/dbt_bixi_opendata/#!/overview?g_v=1))
 
 ![dbt lineage](./images/dbt_lineage.png)
+
+#### dbt colibri column lineage view ([url](https://antoinegiraud.github.io/dbt_bixi_opendata/colibri))
+
+![colibri column lineage](./images/dbt_colibri_column_lineage.png)
 
 if needed : 🖼 [DBeaver MLD](./images/dbeaver_table_mld.png)
 
@@ -69,6 +74,7 @@ Here is 🚲 v1 rentals (2014 - 2021) load & offload to .parquet
 - [**uv**](https://github.com/astral-sh/uv) extremely fast Python package & project manager, written in Rust.
 - [**DuckDB**](https://duckdb.org/) analytical in-process SQL database
 - [**DBeaver**](https://dbeaver.io/) Database Management Tool
+- [**dbt colibri**](https://www.colibri-data.com/) Column level lineage & documentation to your dbt projects
 
 ### Se former à dbt & l'Analytics Engineering
 
@@ -101,19 +107,21 @@ Here is 🚲 v1 rentals (2014 - 2021) load & offload to .parquet
 | `dbt retry` | Reprendre depuis la dernière erreur (run, build, test, compile, docs...) |
 | `dbt docs generate` | Génère la documentation |
 | `dbt docs serve` | Lance un serveur web pour explorer doc & lineage |
+| `colibri generate` | Générer le lineage à la colonne |
 
 ### Bonnes pratiques nommage des commit
 
-Format: `<type>(<scope>): <subject>`<br>
-`<scope>` is optional
+Norme [conventional commit](https://www.conventionalcommits.org/en/v1.0.0/) : `<type>(optional scope): <description>`
 
-- **chore:** add Oyster build script
-- **docs:** explain hat wobble
-- **feat:** add beta sequence
-- **fix:** remove broken confirmation message
-- **refactor:** share logic between 4d3d3d3 and flarhgunnstow
-- **style:** convert tabs to spaces
-- **test:** ensure Tayne retains clothing
+| type | usage | exemple 💡 |
+|----------|------|------|
+| **feat** | nouvelle fonctionnalité visible | <em style="color: grey"> ajout d’auth Google</em> |
+| **fix** | correction de bug | <em style="color: grey"> pagination API</em> |
+| **docs** | changement de documentation | <em style="color: grey"> mise à jour README</em> |
+| **style** | formatage sans impact logique|  <em style="color: grey"> indentation</em> |
+| **refactor** | amélioration interne sans ajout ni bugfix | <em style="color: grey"> simplification parsing</em> |
+| **test** | ajout/modif de tests|  <em style="color: grey"> tests unitaires user</em> |
+| **chore** | maintenance/config sans impact fonctionnel |   <em style="color: grey"> mise à jour dépendances, script CI</em> |
 
 ### Installation
 

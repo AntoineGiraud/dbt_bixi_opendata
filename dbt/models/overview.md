@@ -19,5 +19,12 @@
 - **raw** : raw tables loaded as is from .csv
 - **stg** : intermediate tables
 - **dtm** : tables ready for analytics & reporting use
+- **reports** : aggregations for viz' use
+
+## Explore column lineage with Colibri 🐦
+
+[Accéder à dbt-colibri](./colibri/index.html)
+
+![data flow](https://github.com/AntoineGiraud/dbt_bixi_opendata/blob/main/images/dbt_colibri_column_lineage.png?raw=true)
 
 {% enddocs %}

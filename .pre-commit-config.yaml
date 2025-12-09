@@ -24,3 +24,9 @@ repos:
     - id: check-json
     - id: check-merge-conflict
     - id: detect-private-key
+
+- repo: https://github.com/commitizen-tools/commitizen
+  rev: v3.20.0
+  hooks:
+    - id: commitizen
+      stages: [commit-msg]
