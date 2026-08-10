@@ -1,10 +1,18 @@
 repos:
 - repo: https://github.com/astral-sh/ruff-pre-commit
-  rev: v0.14.8
+  # Ruff version.
+  rev: v0.16.2
   hooks:
+    # Run the linter.
     - id: ruff
       args: [ --fix ]
+    # Run the formatter.
     - id: ruff-format
+
+- repo: https://github.com/astral-sh/ty-pre-commit
+  rev: v0.0.69
+  hooks:
+    - id: ty
 
 - repo: https://github.com/tconbeer/sqlfmt
   rev: v0.28.2
@@ -17,11 +25,16 @@ repos:
   rev: v4.5.0
   hooks:
     - id: trailing-whitespace
-    - id: end-of-file-fixer
+    # - id: end-of-file-fixer
     - id: check-yaml
     - id: check-added-large-files
     - id: check-ast
     - id: check-json
+      exclude: |
+        (?x)^(
+          .vscode/extensions.json
+          | .vscode/settings.json
+        )$
     - id: check-merge-conflict
     - id: detect-private-key
 

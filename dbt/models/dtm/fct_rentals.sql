@@ -12,7 +12,6 @@ with
         select *,
         from {{ ref("stg_rentals_v2tov1") }}
     )
-
 select
     year,
     date_trunc('month', start_date::date) as start_date_month,

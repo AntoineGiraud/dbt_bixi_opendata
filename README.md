@@ -151,8 +151,12 @@ Norme [conventional commit](https://www.conventionalcommits.org/en/v1.0.0/) : `<
 - `.venv/Scripts/activate.ps1` (unix `source .venv/bin/activate`)\
   rendre **dbt** disponible dans le terminal
 - `code .` ouvrir dans VS Code le répertoire courrant
-- S'assurer que `pre-commit` est installé (cf. [📹 vidéo intro](https://youtu.be/2r4uLr8MdcA) - 5min)
-  - `uv tool install pre-commit --with pre-commit-uv` : installer pre-commit comme outil python global (option)
-  - `uv run pre-commit install` : initialiser le hook git
-    - juste avec ça, sur les prochains fichiers édités, ruff sera lancé automatiquement
-  - `uv run pre-commit run --all-files` : pour traiter TOUS les fichiers
+- S'assurer que `prek` (pre-commit en rust) est installé
+  ```bash
+  # Installer les hooks pre-commit
+  prek install --overwrite
+  # Lancer manuellement les checks de qualité (Ruff, Pyright, etc.)
+  prek
+  # idem avec les fichiers non modifiés
+  prek -a
+  ```

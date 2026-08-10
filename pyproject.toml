@@ -1,23 +1,22 @@
 [project]
 name = "dbt-bixi-opendata"
 version = "0.1.0"
-description = "Add your description here"
+description = "Rafinement de l'historique des locations de vélo en libre service de bixi Montréal"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "dbt-duckdb>=1.10.0",
-    "faker>=38.2.0",
-    "polars>=1.35.2",
+    "dbt-core>=1.12",
+    "dbt-duckdb>=1.11"
 ]
+
 
 [dependency-groups]
 dev = [
-    # "pre-commit>=4.5.0",
-    # "pre-commit-uv>=4.2.0",
-    # préférer install globale ?? -> `uv tool install pre-commit --with pre-commit-uv`
-    "ruff>=0.14.8",
+    "ruff>=0.16",
+    "prek>=0.4.12", # pre-commit en rust
+    # dbt stuff
     "shandy-sqlfmt[jinjafmt]>=0.28.2",
-    "dbt-colibri>=0.2.7",
+    "dbt-colibri>=0.2.7", # column lineage
 ]
 
 [tool.sqlfmt]
