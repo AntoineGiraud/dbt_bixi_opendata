@@ -3,21 +3,23 @@ name = "dbt-bixi-opendata"
 version = "0.1.0"
 description = "Rafinement de l'historique des locations de vélo en libre service de bixi Montréal"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.14"
 dependencies = [
-    "dbt-core>=1.12",
-    "dbt-duckdb>=1.11"
+    "dbt-core>=1.12",     # dernière version dbt-core avant dbt 2.0
+    "dbt-duckdb>=1.11.0",
 ]
-
 
 [dependency-groups]
 dev = [
-    "ruff>=0.16",
-    "prek>=0.4.12", # pre-commit en rust
-    # dbt stuff
-    "shandy-sqlfmt[jinjafmt]>=0.28.2",
-    "dbt-colibri>=0.2.7", # column lineage
+    "prek>=0.5.5",                     # pre-commit
+    "ruff>=0.17.0",                    # formatage
+    "ty>=0.0.86",                      # typage python
+    "shandy-sqlfmt[jinjafmt]>=0.28.2", # formatage sql
+    "dbt-colibri>=0.3.7",              # lineage colonne
 ]
 
 [tool.sqlfmt]
-exclude=["dbt/target/**/*", "dbt/dbt_packages/**/*"]
+exclude = [
+    "dbt/target/**/*",
+    "dbt/dbt_packages/**/*",
+]

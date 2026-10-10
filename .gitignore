@@ -1,5 +1,7 @@
+
 # python stuff
 .venv
+.ruff_cache
 
 # dbt artefacts
 dbt/target/

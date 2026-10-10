@@ -1,0 +1,15 @@
+name: Lint Commit Messages
+
+on: [push] # Déclenchement "tout le temps", sur chaque push, toutes branches confondues
+
+jobs:
+  lint-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0 # ⚠️ Indispensable : permet à l'action de lire l'historique complet des commits du push
+
+      - name: Validate commits with commitlint
+        uses: wagoid/commitlint-github-action@v6
